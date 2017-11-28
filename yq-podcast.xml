@@ -12,7 +12,7 @@
 		<generator>Podcast for Node</generator>
 		<lastBuildDate>Mon, 27 Nov 2017 01:39:12 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/yq-podcast.xml" rel="self" type="application/rss+xml"/>
-		<author><![CDATA[Matt Greene]]></author>
+		<author><![CDATA[Klaus Ken Shipley]]></author>
 		<copyright><![CDATA[Copyright 2017]]></copyright>
 		<language><![CDATA[en]]></language>
 		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
@@ -20,12 +20,12 @@
 		<ttl>60</ttl>
 		<category><![CDATA[Entertainment]]></category>
 		<category><![CDATA[Education]]></category>
-		<itunes:author>Matt Greene</itunes:author>
+		<itunes:author>Klaus Ken Shipley</itunes:author>
 		<itunes:subtitle>Bite-sized, bi-weekly, blockchain news stories.</itunes:subtitle>
 		<itunes:summary>Bite-sized, bi-weekly, blockchain news stories.</itunes:summary>
 		<itunes:owner>
-			<itunes:name>Matt Greene</itunes:name>
-			<itunes:email>mattgreene@me.com</itunes:email>
+			<itunes:name>Klaus Ken Shipley</itunes:name>
+			<itunes:email>kenshipley.org@gmail.com</itunes:email>
 		</itunes:owner>
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="Technology">
