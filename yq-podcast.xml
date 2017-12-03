@@ -10,9 +10,9 @@
 			<link>http://yqpod.com/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Mon, 27 Nov 2017 01:39:12 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 03 Dec 2017 21:19:02 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/yq-podcast.xml" rel="self" type="application/rss+xml"/>
-		<author><![CDATA[Klaus Ken Shipley]]></author>
+		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2017]]></copyright>
 		<language><![CDATA[en]]></language>
 		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
@@ -20,12 +20,12 @@
 		<ttl>60</ttl>
 		<category><![CDATA[Entertainment]]></category>
 		<category><![CDATA[Education]]></category>
-		<itunes:author>Klaus Ken Shipley</itunes:author>
+		<itunes:author>Matt Greene</itunes:author>
 		<itunes:subtitle>Bite-sized, bi-weekly, blockchain news stories.</itunes:subtitle>
 		<itunes:summary>Bite-sized, bi-weekly, blockchain news stories.</itunes:summary>
 		<itunes:owner>
-			<itunes:name>Klaus Ken Shipley</itunes:name>
-			<itunes:email>kenshipley.org@gmail.com</itunes:email>
+			<itunes:name>Matt Greene</itunes:name>
+			<itunes:email>mattgreene@me.com</itunes:email>
 		</itunes:owner>
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="Technology">
@@ -35,6 +35,25 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/yourqoinpodcast.png"/>
+		<item>
+			<title><![CDATA[Your Qoin Podcast - December 3rd 2017]]></title>
+			<description><![CDATA[<a href='http://yqpod.com/almost-half-of-ico-funds-goes-to-europe/'>Article 1</a> <br> <a href='http://yqpod.com/coinbase-ordered-to-hand-data-on-14000-users-to-us-government/'>Article 2</a> <br> <a href='http://yqpod.com/the-white-house-is-paying-attention-to-cryptocurrencies/'>Article 3</a> <br> <a href='http://yqpod.com/there-are-no-wrong-or-right-blockchains/'>Article 4</a> <br> <a href='http://yqpod.com/bitcoin-is-now-worth-more-than-disney/'>Article 5</a> <br> <a href='http://yqpod.com/bitcoin-price-hits-10000/'>Article 6</a> <br> <a href='http://yqpod.com/148-2/'>Article 7</a> <br> <a href='http://yqpod.com/nasdaq-awarded-blockchain-patent/'>Article 8</a> <br> <a href='http://yqpod.com/swiss-backs-blockchain-asset-trade-group/'>Article 9</a> <br> <a href='http://yqpod.com/brazil-and-south-korea-oppose-segwit-fork/'>Article 10</a>]]></description>
+			<link>https://archive.org/download/yourqoinpodcastSunDec032017/yqp-e2-Sun-Dec-03-2017.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/yourqoinpodcastSunDec032017/yqp-e2-Sun-Dec-03-2017.mp3</guid>
+			<category><![CDATA[Your Qoin]]></category>
+			<category><![CDATA[Crypto Currency]]></category>
+			<category><![CDATA[Currency]]></category>
+			<category><![CDATA[Bitcoin]]></category>
+			<category><![CDATA[Blockchain]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sun, 03 Dec 2017 21:19:02 GMT</pubDate>
+			<enclosure url="https://archive.org/download/yourqoinpodcastSunDec032017/yqp-e2-Sun-Dec-03-2017.mp3" length="2076630" type="audio/mpeg"/>
+			<itunes:author>Klaus Ken Shipley</itunes:author>
+			<itunes:subtitle>Your Qoin Podcast - December 3rd 2017</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;http://yqpod.com/almost-half-of-ico-funds-goes-to-europe/&apos;&gt;Article 1&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/coinbase-ordered-to-hand-data-on-14000-users-to-us-government/&apos;&gt;Article 2&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/the-white-house-is-paying-attention-to-cryptocurrencies/&apos;&gt;Article 3&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/there-are-no-wrong-or-right-blockchains/&apos;&gt;Article 4&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/bitcoin-is-now-worth-more-than-disney/&apos;&gt;Article 5&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/bitcoin-price-hits-10000/&apos;&gt;Article 6&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/148-2/&apos;&gt;Article 7&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/nasdaq-awarded-blockchain-patent/&apos;&gt;Article 8&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/swiss-backs-blockchain-asset-trade-group/&apos;&gt;Article 9&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/brazil-and-south-korea-oppose-segwit-fork/&apos;&gt;Article 10&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Blockchain</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Your Qoin Podcast - November 26th 2017]]></title>
 			<description><![CDATA[<a href='http://yqpod.com/148-2/'>Article 1</a> <br> <a href='http://yqpod.com/nasdaq-awarded-blockchain-patent/'>Article 2</a> <br> <a href='http://yqpod.com/swiss-backs-blockchain-asset-trade-group/'>Article 3</a> <br> <a href='http://yqpod.com/brazil-and-south-korea-oppose-segwit-fork/'>Article 4</a> <br> <a href='http://yqpod.com/putin-tells-central-bank-to-take-it-easy-on-cryptocurrencies/'>Article 5</a> <br> <a href='http://yqpod.com/dubai-land-department-launches-blockchain-real-estate-initiative/'>Article 6</a> <br> <a href='http://yqpod.com/ripple-says-it-has-15bn-war-chest/'>Article 7</a> <br> <a href='http://yqpod.com/vanuatu-to-accept-bitcoin-in-exchange-for-citizenship/'>Article 8</a> <br> <a href='http://yqpod.com/ukraine-proposes-law-to-legalize-cryptocurrencies/'>Article 9</a> <br> <a href='http://yqpod.com/france-is-close-to-issuing-a-position-on-icos/'>Article 10</a>]]></description>
@@ -48,7 +67,7 @@
 			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 27 Nov 2017 01:39:12 GMT</pubDate>
 			<enclosure url="https://archive.org/download/yourqoinpodcastSunNov262017/yqp-e1-Sun-Nov-26-2017.mp3" length="1789701" type="audio/mpeg"/>
-			<itunes:author>Klaus Ken Shipley</itunes:author>
+			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Your Qoin Podcast - November 26th 2017</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://yqpod.com/148-2/&apos;&gt;Article 1&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/nasdaq-awarded-blockchain-patent/&apos;&gt;Article 2&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/swiss-backs-blockchain-asset-trade-group/&apos;&gt;Article 3&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/brazil-and-south-korea-oppose-segwit-fork/&apos;&gt;Article 4&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/putin-tells-central-bank-to-take-it-easy-on-cryptocurrencies/&apos;&gt;Article 5&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/dubai-land-department-launches-blockchain-real-estate-initiative/&apos;&gt;Article 6&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/ripple-says-it-has-15bn-war-chest/&apos;&gt;Article 7&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/vanuatu-to-accept-bitcoin-in-exchange-for-citizenship/&apos;&gt;Article 8&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/ukraine-proposes-law-to-legalize-cryptocurrencies/&apos;&gt;Article 9&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/france-is-close-to-issuing-a-position-on-icos/&apos;&gt;Article 10&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
