@@ -10,7 +10,7 @@
 			<link>http://bit.ly/todayintechhistory</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Fri, 08 Dec 2017 01:27:57 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 09 Dec 2017 21:06:41 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tith-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2017]]></copyright>
@@ -36,20 +36,20 @@
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/tithpodcast.png"/>
 		<item>
-			<title><![CDATA[Today in Tech History - December 7th 2017]]></title>
-			<description><![CDATA[<a href='http://feedproxy.google.com/~r/TomMerrittcomTodayInTechHistory/~3/9RN6lrbDGMg/'>Source provided by Tom Merritt</a><br>Like Tech History? Get the illustrated Year in Tech History at <a href='http://tommerrittbooks.com'>Merritt’s Books site</a><br><a href='http://bit.ly/todayintechhistory'>Support the show on Patreon</a>]]></description>
-			<link>https://todayintechhistorypodcast.s3-us-west-2.amazonaws.com/tith-e2-Thu-Dec-07-2017.mp3</link>
-			<guid isPermaLink="true">https://todayintechhistorypodcast.s3-us-west-2.amazonaws.com/tith-e2-Thu-Dec-07-2017.mp3</guid>
+			<title><![CDATA[Today in Tech History - December 9th 2017]]></title>
+			<description><![CDATA[<a href='http://feedproxy.google.com/~r/TomMerrittcomTodayInTechHistory/~3/R7_TV8nlhjw/'>Source provided by Tom Merritt</a><br>Get the illustrated Year in Tech History at <a href='http://tommerrittbooks.com'>Merritt’s Books site</a><br><a href='http://bit.ly/todayintechhistory'>Support the show on Patreon</a>]]></description>
+			<link>https://todayintechhistorypodcast.s3-us-west-2.amazonaws.com/tith-e1-Sat-Dec-09-2017.mp3</link>
+			<guid isPermaLink="true">https://todayintechhistorypodcast.s3-us-west-2.amazonaws.com/tith-e1-Sat-Dec-09-2017.mp3</guid>
 			<category><![CDATA[Technology]]></category>
 			<category><![CDATA[Tech]]></category>
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[TITH]]></category>
 			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Fri, 08 Dec 2017 01:27:57 GMT</pubDate>
-			<enclosure url="https://todayintechhistorypodcast.s3-us-west-2.amazonaws.com/tith-e2-Thu-Dec-07-2017.mp3" length="991399" type="audio/mpeg"/>
+			<pubDate>Sat, 09 Dec 2017 21:06:41 GMT</pubDate>
+			<enclosure url="https://todayintechhistorypodcast.s3-us-west-2.amazonaws.com/tith-e1-Sat-Dec-09-2017.mp3" length="1044688" type="audio/mpeg"/>
 			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today in Tech History - December 7th 2017</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://feedproxy.google.com/~r/TomMerrittcomTodayInTechHistory/~3/9RN6lrbDGMg/&apos;&gt;Source&lt;/a&gt;&lt;br&gt;Like Tech History? Get the illustrated Year in Tech History at &lt;a href=&apos;http://tommerrittbooks.com&apos;&gt;Merritt’s Books site&lt;/a&gt;&lt;br&gt;&lt;a href=&apos;http://bit.ly/todayintechhistory&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:subtitle>Today in Tech History - December 9th 2017</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;http://feedproxy.google.com/~r/TomMerrittcomTodayInTechHistory/~3/R7_TV8nlhjw/&apos;&gt;Source provided by Tom Merritt&lt;/a&gt;&lt;br&gt;Get the illustrated Year in Tech History at &lt;a href=&apos;http://tommerrittbooks.com&apos;&gt;Merritt’s Books site&lt;/a&gt;&lt;br&gt;&lt;a href=&apos;http://bit.ly/todayintechhistory&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>TITH</itunes:keywords>
 		</item>
