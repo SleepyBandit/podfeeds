@@ -10,10 +10,10 @@
 			<link>http://yqpod.com/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 26 Dec 2017 02:14:24 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 01 Jan 2018 13:02:00 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/yq-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
-		<copyright><![CDATA[Copyright 2017]]></copyright>
+		<copyright><![CDATA[Copyright 2018]]></copyright>
 		<language><![CDATA[en]]></language>
 		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
 		<webMaster><![CDATA[Matt Greene]]></webMaster>
@@ -24,8 +24,8 @@
 		<itunes:subtitle>Weekly, Bite-sized, Blockchain news stories.</itunes:subtitle>
 		<itunes:summary>Weekly, Bite-sized, Blockchain news stories.</itunes:summary>
 		<itunes:owner>
-			<itunes:name>Matt Greene</itunes:name>
-			<itunes:email>mattgreene@me.com</itunes:email>
+			<itunes:name>Klaus Ken Shipley</itunes:name>
+			<itunes:email>kenshipley.org@gmail.com</itunes:email>
 		</itunes:owner>
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="Technology">
@@ -35,6 +35,25 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/yourqoinpodcast.png"/>
+		<item>
+			<title><![CDATA[Your Qoin Podcast - January 1st 2018]]></title>
+			<description><![CDATA[<a href='http://yqpod.com/ripple-gains-1000-in-one-month-now-the-second-largest-cryptocurrency/'>Ripple Gains 1,000% in One Month – Now the Second Largest Cryptocurrency</a> <br> <a href='http://yqpod.com/investors-are-turning-to-altcoins/'>Investors Are Turning to Altcoins</a> <br> <a href='http://yqpod.com/opera-browser-to-include-built-in-anti-bitcoin-mining-feature/'>Opera Browser to Include Built-In Anti-Bitcoin Mining Feature</a> <br> <a href='http://yqpod.com/us-dollar-will-end-2017-as-worst-year-since-2003-while-bitcoin-is-up-1372/'>US Dollar Will End 2017 as Worst Year Since 2003, While Bitcoin is Up 1,372%</a> <br> <a href='http://yqpod.com/investors-choosing-gold-instead-of-bitcoin/'>Investors choosing Gold instead of Bitcoin</a> <br> <a href='http://yqpod.com/a-defining-year-for-icos/'>A Defining Year for ICO’s</a> <br> <a href='http://yqpod.com/bitcoin-google-searches-are-number-two-for-2017-global-news/'>Bitcoin Google Searches are Number Two for 2017 Global News</a> <br> <a href='http://yqpod.com/australian-banks-reportedly-freeze-accounts-of-bitcoin-users/'>Australian Banks Reportedly Freeze Accounts Of Bitcoin Users</a> <br> <a href='http://yqpod.com/brussels-moves-to-boost-europes-fintech-sector/'>Brussels moves to boost Europe’s fintech sector</a> <br> <a href='http://yqpod.com/bar-offers-bitcoin-new-year-party/'>Bar offers bitcoin New Year party</a>]]></description>
+			<link>https://archive.org/download/yourqoinpodcastMonJan012018/yqp-e5-Mon-Jan-01-2018.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/yourqoinpodcastMonJan012018/yqp-e5-Mon-Jan-01-2018.mp3</guid>
+			<category><![CDATA[Your Qoin]]></category>
+			<category><![CDATA[Crypto Currency]]></category>
+			<category><![CDATA[Currency]]></category>
+			<category><![CDATA[Bitcoin]]></category>
+			<category><![CDATA[Blockchain]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Mon, 01 Jan 2018 13:02:00 GMT</pubDate>
+			<enclosure url="https://archive.org/download/yourqoinpodcastMonJan012018/yqp-e5-Mon-Jan-01-2018.mp3" length="2734706" type="audio/mpeg"/>
+			<itunes:author>Klaus Ken Shipley</itunes:author>
+			<itunes:subtitle>Your Qoin Podcast - January 1st 2018</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;http://yqpod.com/ripple-gains-1000-in-one-month-now-the-second-largest-cryptocurrency/&apos;&gt;Ripple Gains 1,000% in One Month – Now the Second Largest Cryptocurrency&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/investors-are-turning-to-altcoins/&apos;&gt;Investors Are Turning to Altcoins&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/opera-browser-to-include-built-in-anti-bitcoin-mining-feature/&apos;&gt;Opera Browser to Include Built-In Anti-Bitcoin Mining Feature&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/us-dollar-will-end-2017-as-worst-year-since-2003-while-bitcoin-is-up-1372/&apos;&gt;US Dollar Will End 2017 as Worst Year Since 2003, While Bitcoin is Up 1,372%&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/investors-choosing-gold-instead-of-bitcoin/&apos;&gt;Investors choosing Gold instead of Bitcoin&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/a-defining-year-for-icos/&apos;&gt;A Defining Year for ICO’s&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/bitcoin-google-searches-are-number-two-for-2017-global-news/&apos;&gt;Bitcoin Google Searches are Number Two for 2017 Global News&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/australian-banks-reportedly-freeze-accounts-of-bitcoin-users/&apos;&gt;Australian Banks Reportedly Freeze Accounts Of Bitcoin Users&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/brussels-moves-to-boost-europes-fintech-sector/&apos;&gt;Brussels moves to boost Europe’s fintech sector&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/bar-offers-bitcoin-new-year-party/&apos;&gt;Bar offers bitcoin New Year party&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Blockchain</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Your Qoin Podcast - December 25th 2017]]></title>
 			<description><![CDATA[<a href='http://yqpod.com/bitcoin-falls-30-percent-worst-week-since-2013/'>Bitcoin falls 30 percent, worst week since 2013</a> <br> <a href='http://yqpod.com/israel-government-considering-national-cryptocurrency/'>Israel government considering national cryptocurrency</a> <br> <a href='http://yqpod.com/americans-are-taking-out-mortgages-to-buy-bitcoin/'>Americans Are Taking Out Mortgages to Buy Bitcoin</a> <br> <a href='http://yqpod.com/bitpay-stops-processing-payments-less-than-100-backpedals-two-days-later/'>BitPay Stops Processing Payments Less Than $100, Backpedals Two Days Later</a> <br> <a href='http://yqpod.com/belarus-government-cuts-taxes-for-crypto-businesses/'>Belarus government cuts taxes for crypto businesses</a> <br> <a href='http://yqpod.com/the-worlds-first-bitcoin-lottery-is-offering-a-1000-bitcoin-bounty/'>The world’s first bitcoin lottery is offering a 1,000 bitcoin bounty</a> <br> <a href='http://yqpod.com/two-weeks-after-losing-60-million-in-bitcoin-nicehash-are-back/'>Two weeks after losing $60 million in bitcoin, nicehash are back</a> <br> <a href='http://yqpod.com/trading-bitcoin-for-an-altcoin-wont-shield-you-from-the-irs/'>Trading Bitcoin for an Altcoin Won’t Shield You From the IRS</a> <br> <a href='http://yqpod.com/thomson-reuters-adds-bitcoin-cash-to-eikon-platform/'>Thomson Reuters Adds Bitcoin Cash to Eikon Platform</a> <br> <a href='http://yqpod.com/bitcoin-philanthropist-creates-an-85-million-fund/'>Bitcoin Philanthropist creates an $85 Million Fund</a>]]></description>
@@ -48,7 +67,7 @@
 			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 26 Dec 2017 02:14:24 GMT</pubDate>
 			<enclosure url="https://archive.org/download/yourqoinpodcastMonDec252017/yqp-e4-Mon-Dec-25-2017.mp3" length="2845675" type="audio/mpeg"/>
-			<itunes:author>Klaus Ken Shipley</itunes:author>
+			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Your Qoin Podcast - December 25th 2017</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://yqpod.com/bitcoin-falls-30-percent-worst-week-since-2013/&apos;&gt;Bitcoin falls 30 percent, worst week since 2013&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/israel-government-considering-national-cryptocurrency/&apos;&gt;Israel government considering national cryptocurrency&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/americans-are-taking-out-mortgages-to-buy-bitcoin/&apos;&gt;Americans Are Taking Out Mortgages to Buy Bitcoin&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/bitpay-stops-processing-payments-less-than-100-backpedals-two-days-later/&apos;&gt;BitPay Stops Processing Payments Less Than $100, Backpedals Two Days Later&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/belarus-government-cuts-taxes-for-crypto-businesses/&apos;&gt;Belarus government cuts taxes for crypto businesses&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/the-worlds-first-bitcoin-lottery-is-offering-a-1000-bitcoin-bounty/&apos;&gt;The world’s first bitcoin lottery is offering a 1,000 bitcoin bounty&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/two-weeks-after-losing-60-million-in-bitcoin-nicehash-are-back/&apos;&gt;Two weeks after losing $60 million in bitcoin, nicehash are back&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/trading-bitcoin-for-an-altcoin-wont-shield-you-from-the-irs/&apos;&gt;Trading Bitcoin for an Altcoin Won’t Shield You From the IRS&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/thomson-reuters-adds-bitcoin-cash-to-eikon-platform/&apos;&gt;Thomson Reuters Adds Bitcoin Cash to Eikon Platform&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/bitcoin-philanthropist-creates-an-85-million-fund/&apos;&gt;Bitcoin Philanthropist creates an $85 Million Fund&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
