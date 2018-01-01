@@ -10,10 +10,10 @@
 			<link>https://patreon.com/autopod</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sun, 31 Dec 2017 09:16:33 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 01 Jan 2018 09:16:32 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tdw-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
-		<copyright><![CDATA[Copyright 2017]]></copyright>
+		<copyright><![CDATA[Copyright 2018]]></copyright>
 		<language><![CDATA[en]]></language>
 		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
 		<webMaster><![CDATA[Matt Greene]]></webMaster>
@@ -35,6 +35,23 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/dailywikipodcast.png"/>
+		<item>
+			<title><![CDATA[The Daily Wiki - January 1st 2018]]></title>
+			<description><![CDATA[<a href='https://en.wikipedia.org/wiki/Special:FeedItem/featured/20180101000000/en'>Source provided by Wikipedia.org</a><br><a href='https://www.patreon.com/autopod'>Support the show on Patreon!</a>]]></description>
+			<link>https://archive.org/download/thedailywikipodcastMonJan012018/tdw-e13-Mon-Jan-01-2018.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/thedailywikipodcastMonJan012018/tdw-e13-Mon-Jan-01-2018.mp3</guid>
+			<category><![CDATA[Wiki]]></category>
+			<category><![CDATA[Wikipedia]]></category>
+			<category><![CDATA[Fact]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Mon, 01 Jan 2018 09:16:32 GMT</pubDate>
+			<enclosure url="https://archive.org/download/thedailywikipodcastMonJan012018/tdw-e13-Mon-Jan-01-2018.mp3" length="867265" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>The Daily Wiki - January 1st 2018</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://en.wikipedia.org/wiki/Special:FeedItem/featured/20180101000000/en&apos;&gt;Source provided by Wikipedia.org&lt;/a&gt;&lt;br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon!&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Fact</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[The Daily Wiki - December 31st 2017]]></title>
 			<description><![CDATA[<a href='https://en.wikipedia.org/wiki/Special:FeedItem/featured/20171231000000/en'>Source provided by Wikipedia.org</a><br><a href='https://www.patreon.com/autopod'>Support the show on Patreon!</a>]]></description>
