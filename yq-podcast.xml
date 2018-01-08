@@ -10,7 +10,7 @@
 			<link>http://yqpod.com/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Mon, 01 Jan 2018 13:02:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 Jan 2018 13:02:20 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/yq-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2018]]></copyright>
@@ -36,6 +36,25 @@
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/yourqoinpodcast.png"/>
 		<item>
+			<title><![CDATA[Your Qoin Podcast - January 8th 2018]]></title>
+			<description><![CDATA[<a href='http://yqpod.com/bitcoin-gives-japans-gdp-a-boost/'>Bitcoin gives Japan’s GDP a boost</a> <br> <a href='http://yqpod.com/binance-bitfinex-bittrex-temporarily-say-no-to-new-users/'>Binance, Bitfinex, Bittrex Temporarily Say No to New Users</a> <br> <a href='http://yqpod.com/u-s-government-receives-approval-to-sell-bitcoin-bitcoin-cash-seized-from-dark-web-dealer/'>U.S. Government Receives Approval to Sell Bitcoin, Bitcoin Cash Seized From Dark Web Dealer</a> <br> <a href='http://yqpod.com/zuckerberg-to-study-crypto-in-quest-to-fix-facebook/'>Zuckerberg to Study Crypto in Quest to Fix Facebook</a> <br> <a href='http://yqpod.com/texas-regulator-orders-bitconnect-to-call-off-token-sale/'>Texas Regulator Orders BitConnect to Call Off Token Sale</a> <br> <a href='http://yqpod.com/ecb-official-calls-for-tax-on-bitcoin/'>ECB Official Calls for Tax on Bitcoin</a> <br> <a href='http://yqpod.com/peter-thiels-founders-fund-bets-millions-on-bitcoin/'>Peter Thiel’s Founders Fund Bets Millions on Bitcoin</a> <br> <a href='http://yqpod.com/cardano-blockchains-first-use-case-proof-of-university-diplomas-in-greece/'>Cardano Blockchain’s First Use Case: Proof of University Diplomas in Greece</a> <br> <a href='http://yqpod.com/telegram-to-release-blockchain-platform-native-cryptocurrency/'>Telegram to Release Blockchain Platform, Native Cryptocurrency</a> <br> <a href='http://yqpod.com/local-bitcoin-meetups-are-booming-worldwide/'>Local Bitcoin Meetups Are Booming Worldwide</a>]]></description>
+			<link>https://archive.org/download/yourqoinpodcastMonJan082018/yqp-e6-Mon-Jan-08-2018.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/yourqoinpodcastMonJan082018/yqp-e6-Mon-Jan-08-2018.mp3</guid>
+			<category><![CDATA[Your Qoin]]></category>
+			<category><![CDATA[Crypto Currency]]></category>
+			<category><![CDATA[Currency]]></category>
+			<category><![CDATA[Bitcoin]]></category>
+			<category><![CDATA[Blockchain]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Mon, 08 Jan 2018 13:02:20 GMT</pubDate>
+			<enclosure url="https://archive.org/download/yourqoinpodcastMonJan082018/yqp-e6-Mon-Jan-08-2018.mp3" length="3575640" type="audio/mpeg"/>
+			<itunes:author>Klaus Ken Shipley</itunes:author>
+			<itunes:subtitle>Your Qoin Podcast - January 8th 2018</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;http://yqpod.com/bitcoin-gives-japans-gdp-a-boost/&apos;&gt;Bitcoin gives Japan’s GDP a boost&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/binance-bitfinex-bittrex-temporarily-say-no-to-new-users/&apos;&gt;Binance, Bitfinex, Bittrex Temporarily Say No to New Users&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/u-s-government-receives-approval-to-sell-bitcoin-bitcoin-cash-seized-from-dark-web-dealer/&apos;&gt;U.S. Government Receives Approval to Sell Bitcoin, Bitcoin Cash Seized From Dark Web Dealer&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/zuckerberg-to-study-crypto-in-quest-to-fix-facebook/&apos;&gt;Zuckerberg to Study Crypto in Quest to Fix Facebook&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/texas-regulator-orders-bitconnect-to-call-off-token-sale/&apos;&gt;Texas Regulator Orders BitConnect to Call Off Token Sale&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/ecb-official-calls-for-tax-on-bitcoin/&apos;&gt;ECB Official Calls for Tax on Bitcoin&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/peter-thiels-founders-fund-bets-millions-on-bitcoin/&apos;&gt;Peter Thiel’s Founders Fund Bets Millions on Bitcoin&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/cardano-blockchains-first-use-case-proof-of-university-diplomas-in-greece/&apos;&gt;Cardano Blockchain’s First Use Case: Proof of University Diplomas in Greece&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/telegram-to-release-blockchain-platform-native-cryptocurrency/&apos;&gt;Telegram to Release Blockchain Platform, Native Cryptocurrency&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/local-bitcoin-meetups-are-booming-worldwide/&apos;&gt;Local Bitcoin Meetups Are Booming Worldwide&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Blockchain</itunes:keywords>
+		</item>
+		<item>
 			<title><![CDATA[Your Qoin Podcast - January 1st 2018]]></title>
 			<description><![CDATA[<a href='http://yqpod.com/ripple-gains-1000-in-one-month-now-the-second-largest-cryptocurrency/'>Ripple Gains 1,000% in One Month – Now the Second Largest Cryptocurrency</a> <br> <a href='http://yqpod.com/investors-are-turning-to-altcoins/'>Investors Are Turning to Altcoins</a> <br> <a href='http://yqpod.com/opera-browser-to-include-built-in-anti-bitcoin-mining-feature/'>Opera Browser to Include Built-In Anti-Bitcoin Mining Feature</a> <br> <a href='http://yqpod.com/us-dollar-will-end-2017-as-worst-year-since-2003-while-bitcoin-is-up-1372/'>US Dollar Will End 2017 as Worst Year Since 2003, While Bitcoin is Up 1,372%</a> <br> <a href='http://yqpod.com/investors-choosing-gold-instead-of-bitcoin/'>Investors choosing Gold instead of Bitcoin</a> <br> <a href='http://yqpod.com/a-defining-year-for-icos/'>A Defining Year for ICO’s</a> <br> <a href='http://yqpod.com/bitcoin-google-searches-are-number-two-for-2017-global-news/'>Bitcoin Google Searches are Number Two for 2017 Global News</a> <br> <a href='http://yqpod.com/australian-banks-reportedly-freeze-accounts-of-bitcoin-users/'>Australian Banks Reportedly Freeze Accounts Of Bitcoin Users</a> <br> <a href='http://yqpod.com/brussels-moves-to-boost-europes-fintech-sector/'>Brussels moves to boost Europe’s fintech sector</a> <br> <a href='http://yqpod.com/bar-offers-bitcoin-new-year-party/'>Bar offers bitcoin New Year party</a>]]></description>
 			<link>https://archive.org/download/yourqoinpodcastMonJan012018/yqp-e5-Mon-Jan-01-2018.mp3</link>
@@ -48,7 +67,7 @@
 			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 01 Jan 2018 13:02:00 GMT</pubDate>
 			<enclosure url="https://archive.org/download/yourqoinpodcastMonJan012018/yqp-e5-Mon-Jan-01-2018.mp3" length="2734706" type="audio/mpeg"/>
-			<itunes:author>Klaus Ken Shipley</itunes:author>
+			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Your Qoin Podcast - January 1st 2018</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://yqpod.com/ripple-gains-1000-in-one-month-now-the-second-largest-cryptocurrency/&apos;&gt;Ripple Gains 1,000% in One Month – Now the Second Largest Cryptocurrency&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/investors-are-turning-to-altcoins/&apos;&gt;Investors Are Turning to Altcoins&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/opera-browser-to-include-built-in-anti-bitcoin-mining-feature/&apos;&gt;Opera Browser to Include Built-In Anti-Bitcoin Mining Feature&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/us-dollar-will-end-2017-as-worst-year-since-2003-while-bitcoin-is-up-1372/&apos;&gt;US Dollar Will End 2017 as Worst Year Since 2003, While Bitcoin is Up 1,372%&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/investors-choosing-gold-instead-of-bitcoin/&apos;&gt;Investors choosing Gold instead of Bitcoin&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/a-defining-year-for-icos/&apos;&gt;A Defining Year for ICO’s&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/bitcoin-google-searches-are-number-two-for-2017-global-news/&apos;&gt;Bitcoin Google Searches are Number Two for 2017 Global News&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/australian-banks-reportedly-freeze-accounts-of-bitcoin-users/&apos;&gt;Australian Banks Reportedly Freeze Accounts Of Bitcoin Users&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/brussels-moves-to-boost-europes-fintech-sector/&apos;&gt;Brussels moves to boost Europe’s fintech sector&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/bar-offers-bitcoin-new-year-party/&apos;&gt;Bar offers bitcoin New Year party&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
