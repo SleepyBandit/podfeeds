@@ -5,13 +5,13 @@
 		<description><![CDATA[An automated daily podcast that covers an event from today in history.]]></description>
 		<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		<image>
-			<url>http://sleepybandit.github.io/TodayInHistory/TodayInHistory.png</url>
+			<url>https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png</url>
 			<title>Today In History</title>
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
 		<lastBuildDate>Sun, 29 Apr 2018 13:16:41 GMT</lastBuildDate>
-		<atom:link href="https://s3-us-west-2.amazonaws.com/tihpodcast/tih-podcast.xml" rel="self" type="application/rss+xml"/>
+		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2018]]></copyright>
 		<language><![CDATA[en]]></language>
@@ -40,7 +40,7 @@
 		<itunes:category text="Entertainment"/>
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
-		<itunes:image href="http://sleepybandit.github.io/TodayInHistory/TodayInHistory.png"/>
+		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
 		<item>
 			<title><![CDATA[Today In History - April 29, 2004: World War II monument opens in Washington, D.C.]]></title>
 			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/world-war-ii-monument-opens-in-washington-d-c'>http://www.history.com/this-day-in-history/world-war-ii-monument-opens-in-washington-d-c</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
