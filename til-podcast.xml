@@ -3,15 +3,15 @@
 	<channel>
 		<title><![CDATA[Today I Learned]]></title>
 		<description><![CDATA[A daily podcast covering 25 random and interesting facts.]]></description>
-		<link>http://sleepybandit.github.io/RedditRecap/</link>
+		<link>http://bit.ly/TILPodcast</link>
 		<image>
-			<url>https://sleepybandit.github.io/RedditRecap/til-icon.png</url>
+			<url>https://sleepybandit.github.io/podfeeds/images/tilpodcast.png</url>
 			<title>Today I Learned</title>
-			<link>http://sleepybandit.github.io/RedditRecap/</link>
+			<link>http://bit.ly/TILPodcast</link>
 		</image>
 		<generator>Podcast for Node</generator>
 		<lastBuildDate>Mon, 30 Apr 2018 20:17:31 GMT</lastBuildDate>
-		<atom:link href="https://s3-us-west-2.amazonaws.com/tilpodcast/til-podcast.xml" rel="self" type="application/rss+xml"/>
+		<atom:link href="https://sleepybandit.github.io/podfeeds/til-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2018]]></copyright>
 		<language><![CDATA[en]]></language>
@@ -34,7 +34,7 @@
 			<itunes:category text="Podcasting"/>
 		</itunes:category>
 		<itunes:category text="Entertainment"/>
-		<itunes:image href="https://sleepybandit.github.io/RedditRecap/til-icon.png"/>
+		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/tilpodcast.png"/>
 		<item>
 			<title><![CDATA[Today I Learned - Episode: 613]]></title>
 			<description><![CDATA[<a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2800142/'>Item #1</a> <br> <a href='https://en.wikipedia.org/wiki/Battle_of_Midway?wprov=sfla1#Allied_code-breaking'>Item #2</a> <br> <a href='http://news.bbc.co.uk/2/hi/europe/2539615.stm'>Item #3</a> <br> <a href='https://en.wikipedia.org/wiki/Steve_McQueen#Missed_roles'>Item #4</a> <br> <a href='https://www.usatoday.com/story/news/nation/2014/08/06/hiker-opera-scared-off-mountain-lion/13661809/'>Item #5</a> <br> <a href='https://en.wikipedia.org/wiki/Jim_Rooker#%22If_we_don't_win,_I'll_walk_back_to_Pittsburgh%22'>Item #6</a> <br> <a href='https://www.reuters.com/article/us-usa-area51-cia/cia-acknowledges-its-mysterious-area-51-test-site-for-first-time-idUSBRE97G01120130817'>Item #7</a> <br> <a href='https://en.wikipedia.org/wiki/Rod_Serling?wprov=sfti1'>Item #8</a> <br> <a href='https://en.wikipedia.org/wiki/Ruby_Bradley?wprov=sfla1#Military_career'>Item #9</a> <br> <a href='http://www.visualcapitalist.com/map-economic-might-u-s-metro-area/'>Item #10</a> <br> <a href='https://opinionator.blogs.nytimes.com/2013/07/25/gothams-only-black-millionaire/'>Item #11</a> <br> <a href='https://gizmodo.com/293667/trekstor-renames-ibeat-blaxx-after-a-bit-of-self-flagellation'>Item #12</a> <br> <a href='http://www.bbc.co.uk/news/mobile/magazine-16681673'>Item #13</a> <br> <a href='https://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model'>Item #14</a> <br> <a href='https://en.wikipedia.org/wiki/Archaic_human_admixture_with_modern_humans#Indirect_evidence'>Item #15</a> <br> <a href='https://en.wikipedia.org/wiki/Cullinan_Diamond#Discovery_and_early_history'>Item #16</a> <br> <a href='http://www.bbc.com/news/world-us-canada-13480815'>Item #17</a> <br> <a href='http://money.cnn.com/1998/08/14/technology/camera_pkg/'>Item #18</a> <br> <a href='https://en.wikipedia.org/wiki/Fantasy_genealogy#Elizabeth_II'>Item #19</a> <br> <a href='https://en.wikipedia.org/wiki/Wedding_dress_of_Queen_Victoria'>Item #20</a> <br> <a href='https://www.inicom.com/hibakusha/akiko.html'>Item #21</a> <br> <a href='https://www.snopes.com/fact-check/the-amityville-horror/'>Item #22</a> <br> <a href='https://www.telegraph.co.uk/news/newstopics/howaboutthat/5353302/GP-saves-boys-life-with-household-drill.html'>Item #23</a> <br> <a href='https://en.wikipedia.org/wiki/1858_Bradford_sweets_poisoning'>Item #24</a> <br> <a href='https://en.wikipedia.org/wiki/Caucasus_Germans#History_since_1991'>Item #25</a>]]></description>
