@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 08 May 2018 13:16:38 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 09 May 2018 13:16:42 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2018]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - May 09, 1950: L. Ron Hubbard publishes Dianetics]]></title>
+			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/l-ron-hubbard-publishes-dianetics'>http://www.history.com/this-day-in-history/l-ron-hubbard-publishes-dianetics</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastWedMay092018/today-in-history-e1069-Wed-May-09-2018.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedMay092018/today-in-history-e1069-Wed-May-09-2018.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 09 May 2018 14:16:42 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastWedMay092018/today-in-history-e1069-Wed-May-09-2018.mp3" length="1793671" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - May 09, 1950: L. Ron Hubbard publishes Dianetics</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/l-ron-hubbard-publishes-dianetics&apos;&gt;http://www.history.com/this-day-in-history/l-ron-hubbard-publishes-dianetics&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - May 08, 1945: V-E Day is celebrated in America and Britain]]></title>
 			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/v-e-day-is-celebrated-in-america-and-britain'>http://www.history.com/this-day-in-history/v-e-day-is-celebrated-in-america-and-britain</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - May 11th, 1934: Dust storm sweeps from Great Plains across Eastern states</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/dust-storm-sweeps-from-great-plains-across-eastern-states&apos;&gt;http://www.history.com/this-day-in-history/dust-storm-sweeps-from-great-plains-across-eastern-states&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - May 10th, 1869: Transcontinental railroad completed]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/transcontinental-railroad-completed'>http://www.history.com/this-day-in-history/transcontinental-railroad-completed</a>]]></description>
-			<link>https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e704-Wed-May-10-2017.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e704-Wed-May-10-2017.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Wed, 10 May 2017 14:16:18 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e704-Wed-May-10-2017.mp3" length="1789701" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - May 10th, 1869: Transcontinental railroad completed</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/transcontinental-railroad-completed&apos;&gt;http://www.history.com/this-day-in-history/transcontinental-railroad-completed&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
