@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Thu, 17 May 2018 13:16:33 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 18 May 2018 13:17:00 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2018]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - May 18, 1920: Pope John Paul II born]]></title>
+			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/pope-john-paul-ii-born'>http://www.history.com/this-day-in-history/pope-john-paul-ii-born</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastFriMay182018/today-in-history-e1078-Fri-May-18-2018.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastFriMay182018/today-in-history-e1078-Fri-May-18-2018.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Fri, 18 May 2018 14:17:00 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastFriMay182018/today-in-history-e1078-Fri-May-18-2018.mp3" length="2482259" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - May 18, 1920: Pope John Paul II born</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/pope-john-paul-ii-born&apos;&gt;http://www.history.com/this-day-in-history/pope-john-paul-ii-born&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - May 17, 1954: Brown v. Board of Ed is decided]]></title>
 			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/brown-v-board-of-ed-is-decided'>http://www.history.com/this-day-in-history/brown-v-board-of-ed-is-decided</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - May 20, 1873: Levi Strauss and Jacob Davis receive patent for blue jeans</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/levi-strauss-and-jacob-davis-receive-patent-for-blue-jeans&apos;&gt;http://www.history.com/this-day-in-history/levi-strauss-and-jacob-davis-receive-patent-for-blue-jeans&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - May 19, 1935: Lawrence of Arabia dies]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/lawrence-of-arabia-dies'>http://www.history.com/this-day-in-history/lawrence-of-arabia-dies</a>]]></description>
-			<link>https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e713-Fri-May-19-2017.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e713-Fri-May-19-2017.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Fri, 19 May 2017 14:16:47 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e713-Fri-May-19-2017.mp3" length="2715689" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - May 19, 1935: Lawrence of Arabia dies</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/lawrence-of-arabia-dies&apos;&gt;http://www.history.com/this-day-in-history/lawrence-of-arabia-dies&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
