@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Fri, 01 Jun 2018 13:16:41 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 02 Jun 2018 13:16:41 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2018]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - June 02, 1935: Babe Ruth retires]]></title>
+			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/babe-ruth-retires'>http://www.history.com/this-day-in-history/babe-ruth-retires</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSatJun022018/today-in-history-e1093-Sat-Jun-02-2018.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatJun022018/today-in-history-e1093-Sat-Jun-02-2018.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sat, 02 Jun 2018 14:16:41 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSatJun022018/today-in-history-e1093-Sat-Jun-02-2018.mp3" length="1772355" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - June 02, 1935: Babe Ruth retires</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/babe-ruth-retires&apos;&gt;http://www.history.com/this-day-in-history/babe-ruth-retires&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - June 01, 1980: CNN launches]]></title>
 			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/cnn-launches'>http://www.history.com/this-day-in-history/cnn-launches</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - June 04, 1942: Battle of Midway begins</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/battle-of-midway-begins&apos;&gt;http://www.history.com/this-day-in-history/battle-of-midway-begins&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - June 03, 1989: Crackdown at Tiananmen begins]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/crackdown-at-tiananmen-begins'>http://www.history.com/this-day-in-history/crackdown-at-tiananmen-begins</a>]]></description>
-			<link>https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e728-Sat-Jun-03-2017.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e728-Sat-Jun-03-2017.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sat, 03 Jun 2017 14:16:18 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e728-Sat-Jun-03-2017.mp3" length="1728888" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - June 03, 1989: Crackdown at Tiananmen begins</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/crackdown-at-tiananmen-begins&apos;&gt;http://www.history.com/this-day-in-history/crackdown-at-tiananmen-begins&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
