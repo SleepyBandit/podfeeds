@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 12 Jun 2018 13:16:46 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 13 Jun 2018 13:16:36 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2018]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - June 13, 1966: The Miranda rights are established]]></title>
+			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/the-miranda-rights-are-established'>http://www.history.com/this-day-in-history/the-miranda-rights-are-established</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastWedJun132018/today-in-history-e1104-Wed-Jun-13-2018.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedJun132018/today-in-history-e1104-Wed-Jun-13-2018.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 13 Jun 2018 14:16:36 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastWedJun132018/today-in-history-e1104-Wed-Jun-13-2018.mp3" length="1467454" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - June 13, 1966: The Miranda rights are established</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/the-miranda-rights-are-established&apos;&gt;http://www.history.com/this-day-in-history/the-miranda-rights-are-established&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - June 12, 1987: Reagan challenges Gorbachev]]></title>
 			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/reagan-challenges-gorbachev'>http://www.history.com/this-day-in-history/reagan-challenges-gorbachev</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - June 15, 1215: Magna Carta sealed</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/magna-carta-sealed&apos;&gt;http://www.history.com/this-day-in-history/magna-carta-sealed&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - June 14, 1777: Congress adopts the Stars and Stripes]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/congress-adopts-the-stars-and-stripes'>http://www.history.com/this-day-in-history/congress-adopts-the-stars-and-stripes</a>]]></description>
-			<link>https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e739-Wed-Jun-14-2017.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e739-Wed-Jun-14-2017.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Wed, 14 Jun 2017 14:16:05 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e739-Wed-Jun-14-2017.mp3" length="1186168" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - June 14, 1777: Congress adopts the Stars and Stripes</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/congress-adopts-the-stars-and-stripes&apos;&gt;http://www.history.com/this-day-in-history/congress-adopts-the-stars-and-stripes&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
