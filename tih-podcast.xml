@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Fri, 03 Aug 2018 13:16:50 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 04 Aug 2018 13:17:00 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2018]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - August 04, 1944: Anne Frank captured]]></title>
+			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/anne-frank-captured'>http://www.history.com/this-day-in-history/anne-frank-captured</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSatAug042018/today-in-history-e1156-Sat-Aug-04-2018.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatAug042018/today-in-history-e1156-Sat-Aug-04-2018.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sat, 04 Aug 2018 14:17:00 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSatAug042018/today-in-history-e1156-Sat-Aug-04-2018.mp3" length="2459898" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - August 04, 1944: Anne Frank captured</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/anne-frank-captured&apos;&gt;http://www.history.com/this-day-in-history/anne-frank-captured&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - August 03, 1958: Nautilus travels under North Pole]]></title>
 			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/nautilus-travels-under-north-pole'>http://www.history.com/this-day-in-history/nautilus-travels-under-north-pole</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - August 06, 1945: American bomber drops atomic bomb on Hiroshima</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/american-bomber-drops-atomic-bomb-on-hiroshima&apos;&gt;http://www.history.com/this-day-in-history/american-bomber-drops-atomic-bomb-on-hiroshima&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - August 05, 2002: Divers recover U.S.S. Monitor turret]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/divers-recover-u-s-s-monitor-turret'>http://www.history.com/this-day-in-history/divers-recover-u-s-s-monitor-turret</a>]]></description>
-			<link>https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e791-Sat-Aug-05-2017.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e791-Sat-Aug-05-2017.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sat, 05 Aug 2017 14:16:26 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e791-Sat-Aug-05-2017.mp3" length="1972976" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - August 05, 2002: Divers recover U.S.S. Monitor turret</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/divers-recover-u-s-s-monitor-turret&apos;&gt;http://www.history.com/this-day-in-history/divers-recover-u-s-s-monitor-turret&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
