@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Fri, 10 Aug 2018 13:16:44 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 11 Aug 2018 13:16:57 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2018]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - August 11, 1934: Federal prisoners land on Alcatraz]]></title>
+			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/federal-prisoners-land-on-alcatraz'>http://www.history.com/this-day-in-history/federal-prisoners-land-on-alcatraz</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSatAug112018/today-in-history-e1163-Sat-Aug-11-2018.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatAug112018/today-in-history-e1163-Sat-Aug-11-2018.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sat, 11 Aug 2018 14:16:57 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSatAug112018/today-in-history-e1163-Sat-Aug-11-2018.mp3" length="2338690" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - August 11, 1934: Federal prisoners land on Alcatraz</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/federal-prisoners-land-on-alcatraz&apos;&gt;http://www.history.com/this-day-in-history/federal-prisoners-land-on-alcatraz&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - August 10, 1846: Smithsonian Institution created]]></title>
 			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/smithsonian-institution-created'>http://www.history.com/this-day-in-history/smithsonian-institution-created</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - August 13, 1961: Berlin is divided</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/berlin-is-divided&apos;&gt;http://www.history.com/this-day-in-history/berlin-is-divided&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - August 12, 1990: Skeleton of Tyrannosaurus rex discovered]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/skeleton-of-tyrannosaurus-rex-discovered'>http://www.history.com/this-day-in-history/skeleton-of-tyrannosaurus-rex-discovered</a>]]></description>
-			<link>https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e798-Sat-Aug-12-2017.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e798-Sat-Aug-12-2017.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sat, 12 Aug 2017 14:16:19 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e798-Sat-Aug-12-2017.mp3" length="1666403" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - August 12, 1990: Skeleton of Tyrannosaurus rex discovered</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/skeleton-of-tyrannosaurus-rex-discovered&apos;&gt;http://www.history.com/this-day-in-history/skeleton-of-tyrannosaurus-rex-discovered&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
