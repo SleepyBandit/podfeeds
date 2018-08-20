@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sun, 19 Aug 2018 13:16:35 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 20 Aug 2018 13:16:52 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2018]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - August 20, 1911: First around-the-world telegram sent, 66 years before Voyager II launch]]></title>
+			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/first-around-the-world-telegram-sent-66-years-before-voyager-ii-launch'>http://www.history.com/this-day-in-history/first-around-the-world-telegram-sent-66-years-before-voyager-ii-launch</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastMonAug202018/today-in-history-e1172-Mon-Aug-20-2018.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonAug202018/today-in-history-e1172-Mon-Aug-20-2018.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Mon, 20 Aug 2018 14:16:52 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastMonAug202018/today-in-history-e1172-Mon-Aug-20-2018.mp3" length="2104633" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - August 20, 1911: First around-the-world telegram sent, 66 years before Voyager II launch</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/first-around-the-world-telegram-sent-66-years-before-voyager-ii-launch&apos;&gt;http://www.history.com/this-day-in-history/first-around-the-world-telegram-sent-66-years-before-voyager-ii-launch&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - August 19, 1909: First race is held at the Indianapolis Motor Speedway]]></title>
 			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/first-race-is-held-at-the-indianapolis-motor-speedway'>http://www.history.com/this-day-in-history/first-race-is-held-at-the-indianapolis-motor-speedway</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - August 22, 1950: Althea Gibson becomes first African-American on U.S. tennis tour</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/althea-gibson-becomes-first-african-american-on-u-s-tennis-tour&apos;&gt;http://www.history.com/this-day-in-history/althea-gibson-becomes-first-african-american-on-u-s-tennis-tour&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - August 21, 1959: Hawaii becomes 50th state]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/hawaii-becomes-50th-state'>http://www.history.com/this-day-in-history/hawaii-becomes-50th-state</a>]]></description>
-			<link>https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e807-Mon-Aug-21-2017.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e807-Mon-Aug-21-2017.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Mon, 21 Aug 2017 14:16:11 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e807-Mon-Aug-21-2017.mp3" length="1467872" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - August 21, 1959: Hawaii becomes 50th state</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/hawaii-becomes-50th-state&apos;&gt;http://www.history.com/this-day-in-history/hawaii-becomes-50th-state&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
