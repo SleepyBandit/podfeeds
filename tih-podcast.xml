@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sat, 25 Aug 2018 13:16:47 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 26 Aug 2018 13:16:31 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2018]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - August 26, 1939: First televised Major League baseball game]]></title>
+			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/first-televised-major-league-baseball-game'>http://www.history.com/this-day-in-history/first-televised-major-league-baseball-game</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSunAug262018/today-in-history-e1178-Sun-Aug-26-2018.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSunAug262018/today-in-history-e1178-Sun-Aug-26-2018.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sun, 26 Aug 2018 14:16:31 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSunAug262018/today-in-history-e1178-Sun-Aug-26-2018.mp3" length="1471634" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - August 26, 1939: First televised Major League baseball game</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/first-televised-major-league-baseball-game&apos;&gt;http://www.history.com/this-day-in-history/first-televised-major-league-baseball-game&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - August 25, 1835: The Great Moon Hoax]]></title>
 			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/the-great-moon-hoax'>http://www.history.com/this-day-in-history/the-great-moon-hoax</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - August 28, 1996: Charles and Diana divorce</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/charles-and-diana-divorce&apos;&gt;http://www.history.com/this-day-in-history/charles-and-diana-divorce&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - August 27, 1883: Krakatau explodes]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/krakatau-explodes'>http://www.history.com/this-day-in-history/krakatau-explodes</a>]]></description>
-			<link>https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e813-Sun-Aug-27-2017.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e813-Sun-Aug-27-2017.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sun, 27 Aug 2017 14:16:16 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e813-Sun-Aug-27-2017.mp3" length="1646341" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - August 27, 1883: Krakatau explodes</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/krakatau-explodes&apos;&gt;http://www.history.com/this-day-in-history/krakatau-explodes&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
