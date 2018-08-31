@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Thu, 30 Aug 2018 13:16:40 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 31 Aug 2018 13:16:47 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2018]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - August 31, 1980: Polish government signs accord with Gdansk shipyard workers]]></title>
+			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/polish-government-signs-accord-with-gdansk-shipyard-workers'>http://www.history.com/this-day-in-history/polish-government-signs-accord-with-gdansk-shipyard-workers</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastFriAug312018/today-in-history-e1183-Fri-Aug-31-2018.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastFriAug312018/today-in-history-e1183-Fri-Aug-31-2018.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Fri, 31 Aug 2018 14:16:47 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastFriAug312018/today-in-history-e1183-Fri-Aug-31-2018.mp3" length="1843408" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - August 31, 1980: Polish government signs accord with Gdansk shipyard workers</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/polish-government-signs-accord-with-gdansk-shipyard-workers&apos;&gt;http://www.history.com/this-day-in-history/polish-government-signs-accord-with-gdansk-shipyard-workers&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - August 30, 1967: Thurgood Marshall confirmed as Supreme Court justice]]></title>
 			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/thurgood-marshall-confirmed-as-supreme-court-justice'>http://www.history.com/this-day-in-history/thurgood-marshall-confirmed-as-supreme-court-justice</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - September 02, 1969: First ATM opens for business</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/first-atm-opens-for-business&apos;&gt;http://www.history.com/this-day-in-history/first-atm-opens-for-business&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - September 01, 1864: Atlanta falls to Union forces]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/atlanta-falls-to-union-forces'>http://www.history.com/this-day-in-history/atlanta-falls-to-union-forces</a>]]></description>
-			<link>https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e818-Fri-Sep-01-2017.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e818-Fri-Sep-01-2017.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Fri, 01 Sep 2017 14:16:18 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e818-Fri-Sep-01-2017.mp3" length="1761906" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - September 01, 1864: Atlanta falls to Union forces</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/atlanta-falls-to-union-forces&apos;&gt;http://www.history.com/this-day-in-history/atlanta-falls-to-union-forces&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
