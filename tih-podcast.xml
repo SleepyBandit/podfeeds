@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Thu, 13 Sep 2018 13:16:36 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 14 Sep 2018 13:16:36 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2018]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - September 14, 1901: McKinley dies of infection from gunshot wounds]]></title>
+			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/mckinley-dies-of-infection-from-gunshot-wounds'>http://www.history.com/this-day-in-history/mckinley-dies-of-infection-from-gunshot-wounds</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/today-in-history-Fri-Sep-14-2018/today-in-history-Fri-Sep-14-2018.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/today-in-history-Fri-Sep-14-2018/today-in-history-Fri-Sep-14-2018.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Fri, 14 Sep 2018 14:16:23 GMT</pubDate>
+			<enclosure url="https://archive.org/download/today-in-history-Fri-Sep-14-2018/today-in-history-Fri-Sep-14-2018.mp3" length="1902968" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - September 14, 1901: McKinley dies of infection from gunshot wounds</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/mckinley-dies-of-infection-from-gunshot-wounds&apos;&gt;http://www.history.com/this-day-in-history/mckinley-dies-of-infection-from-gunshot-wounds&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>		
 		<item>
 			<title><![CDATA[Today In History - September 13, 1814: Key pens Star-Spangled Banner]]></title>
 			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/key-pens-star-spangled-banner'>http://www.history.com/this-day-in-history/key-pens-star-spangled-banner</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - September 16, 1932: Gandhi begins fast in protest of caste separation</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/gandhi-begins-fast-in-protest-of-caste-separation&apos;&gt;http://www.history.com/this-day-in-history/gandhi-begins-fast-in-protest-of-caste-separation&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - September 15, 1978: Ali defeats Spinks to win world heavyweight championship]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/ali-defeats-spinks-to-win-world-heavyweight-championship'>http://www.history.com/this-day-in-history/ali-defeats-spinks-to-win-world-heavyweight-championship</a>]]></description>
-			<link>https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e832-Fri-Sep-15-2017.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e832-Fri-Sep-15-2017.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Fri, 15 Sep 2017 14:16:25 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e832-Fri-Sep-15-2017.mp3" length="1924493" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - September 15, 1978: Ali defeats Spinks to win world heavyweight championship</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/ali-defeats-spinks-to-win-world-heavyweight-championship&apos;&gt;http://www.history.com/this-day-in-history/ali-defeats-spinks-to-win-world-heavyweight-championship&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
