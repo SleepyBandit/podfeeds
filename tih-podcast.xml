@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sun, 30 Sep 2018 10:01:53 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 01 Oct 2018 10:02:04 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2018]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - October 01, 2013: Tom Clancy, author of mega-selling techno thrillers, dies]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/tom-clancy-author-of-mega-selling-techno-thrillers-dies'>https://www.history.com/this-day-in-history/tom-clancy-author-of-mega-selling-techno-thrillers-dies</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastMonOct012018/today-in-history-e1205-Mon-Oct-01-2018.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonOct012018/today-in-history-e1205-Mon-Oct-01-2018.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Mon, 01 Oct 2018 11:02:04 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastMonOct012018/today-in-history-e1205-Mon-Oct-01-2018.mp3" length="2050089" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - October 01, 2013: Tom Clancy, author of mega-selling techno thrillers, dies</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/tom-clancy-author-of-mega-selling-techno-thrillers-dies&apos;&gt;https://www.history.com/this-day-in-history/tom-clancy-author-of-mega-selling-techno-thrillers-dies&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - September 30, 1928: Elie Wiesel, Holocaust survivor and best-selling author, is born]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/elie-wiesel-holocaust-survivor-and-best-selling-author-is-born'>https://www.history.com/this-day-in-history/elie-wiesel-holocaust-survivor-and-best-selling-author-is-born</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - October 03, 1995: O.J. Simpson acquitted</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/o-j-simpson-acquitted&apos;&gt;http://www.history.com/this-day-in-history/o-j-simpson-acquitted&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - October 02, 1985: Hollywood icon Rock Hudson dies of AIDS]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/hollywood-icon-rock-hudson-dies-of-aids'>http://www.history.com/this-day-in-history/hollywood-icon-rock-hudson-dies-of-aids</a>]]></description>
-			<link>https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e849-Mon-Oct-02-2017.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e849-Mon-Oct-02-2017.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Mon, 02 Oct 2017 14:16:12 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e849-Mon-Oct-02-2017.mp3" length="1432764" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - October 02, 1985: Hollywood icon Rock Hudson dies of AIDS</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/hollywood-icon-rock-hudson-dies-of-aids&apos;&gt;http://www.history.com/this-day-in-history/hollywood-icon-rock-hudson-dies-of-aids&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
