@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Mon, 08 Oct 2018 10:02:04 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 09 Oct 2018 10:01:35 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2018]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - October 09, 1976: Disco/Classical hybrid “A Fifth Of Beethoven” is the #1 song on the U.S. pop charts]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/discoclassical-hybrid-a-fifth-of-beethoven-is-the-1-song-on-the-u-s-pop-charts'>https://www.history.com/this-day-in-history/discoclassical-hybrid-a-fifth-of-beethoven-is-the-1-song-on-the-u-s-pop-charts</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1213-Tue-Oct-09-2018.mp3</link>
+			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1213-Tue-Oct-09-2018.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Tue, 09 Oct 2018 11:01:35 GMT</pubDate>
+			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1213-Tue-Oct-09-2018.mp3" length="1465573" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - October 09, 1976: Disco/Classical hybrid “A Fifth Of Beethoven” is the #1 song on the U.S. pop charts</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/discoclassical-hybrid-a-fifth-of-beethoven-is-the-1-song-on-the-u-s-pop-charts&apos;&gt;https://www.history.com/this-day-in-history/discoclassical-hybrid-a-fifth-of-beethoven-is-the-1-song-on-the-u-s-pop-charts&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - October 08, 2014: First person in U.S. diagnosed with Ebola dies]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/first-person-in-u-s-diagnosed-with-ebola-dies'>https://www.history.com/this-day-in-history/first-person-in-u-s-diagnosed-with-ebola-dies</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - October 10, 1985: Achille Lauro hijacking ends</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/achille-lauro-hijacking-ends&apos;&gt;http://www.history.com/this-day-in-history/achille-lauro-hijacking-ends&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - October 09, 1967: Che Guevara is executed]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/che-guevara-is-executed'>http://www.history.com/this-day-in-history/che-guevara-is-executed</a>]]></description>
-			<link>https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e857-Mon-Oct-09-2017.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e857-Mon-Oct-09-2017.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Mon, 09 Oct 2017 14:16:13 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e857-Mon-Oct-09-2017.mp3" length="1553345" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - October 09, 1967: Che Guevara is executed</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/che-guevara-is-executed&apos;&gt;http://www.history.com/this-day-in-history/che-guevara-is-executed&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
