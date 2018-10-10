@@ -10,7 +10,7 @@
 			<link>http://bit.ly/todayintechhistory</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 09 Oct 2018 18:01:28 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 10 Oct 2018 18:01:18 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tith-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2018]]></copyright>
@@ -35,6 +35,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/tithpodcast.png"/>
+		<item>
+			<title><![CDATA[Today in Tech History - October 10th 2018]]></title>
+			<description><![CDATA[<a href='http://feedproxy.google.com/~r/TomMerrittcomTodayInTechHistory/~3/wmABDH60ssc/'>Source provided by Tom Merritt</a></br>Get the illustrated Year in Tech History at <a href='http://tommerrittbooks.com'>Merritt’s Books site</a></br><a href='http://bit.ly/todayintechhistory'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/todayintechhistorypodcastWedOct102018/tith-e305-Wed-Oct-10-2018.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/todayintechhistorypodcastWedOct102018/tith-e305-Wed-Oct-10-2018.mp3</guid>
+			<category><![CDATA[Technology]]></category>
+			<category><![CDATA[Tech]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[TITH]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 10 Oct 2018 19:01:18 GMT</pubDate>
+			<enclosure url="https://archive.org/download/todayintechhistorypodcastWedOct102018/tith-e305-Wed-Oct-10-2018.mp3" length="841351" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today in Tech History - October 10th 2018</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;http://feedproxy.google.com/~r/TomMerrittcomTodayInTechHistory/~3/wmABDH60ssc/&apos;&gt;Source provided by Tom Merritt&lt;/a&gt;&lt;/br&gt;Get the illustrated Year in Tech History at &lt;a href=&apos;http://tommerrittbooks.com&apos;&gt;Merritt’s Books site&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;http://bit.ly/todayintechhistory&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>TITH</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today in Tech History - October 9th 2018]]></title>
 			<description><![CDATA[<a href='http://feedproxy.google.com/~r/TomMerrittcomTodayInTechHistory/~3/wmABDH60ssc/'>Source provided by Tom Merritt</a></br>Get the illustrated Year in Tech History at <a href='http://tommerrittbooks.com'>Merritt’s Books site</a></br><a href='http://bit.ly/todayintechhistory'>Support the show on Patreon</a>]]></description>
