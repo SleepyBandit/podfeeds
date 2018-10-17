@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 16 Oct 2018 10:01:58 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 17 Oct 2018 10:01:26 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2018]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - October 17, 1989: Earthquake rocks San Francisco]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/earthquake-rocks-san-francisco'>https://www.history.com/this-day-in-history/earthquake-rocks-san-francisco</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastWedOct172018/today-in-history-e1220-Wed-Oct-17-2018.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedOct172018/today-in-history-e1220-Wed-Oct-17-2018.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 17 Oct 2018 11:01:26 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastWedOct172018/today-in-history-e1220-Wed-Oct-17-2018.mp3" length="802481" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - October 17, 1989: Earthquake rocks San Francisco</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/earthquake-rocks-san-francisco&apos;&gt;https://www.history.com/this-day-in-history/earthquake-rocks-san-francisco&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - October 16, 2011: IndyCar driver Dan Wheldon is killed in crash]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/indycar-driver-dan-wheldon-is-killed-in-crash'>https://www.history.com/this-day-in-history/indycar-driver-dan-wheldon-is-killed-in-crash</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - October 18, 1867: U.S. takes possession of Alaska</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/u-s-takes-possession-of-alaska&apos;&gt;http://www.history.com/this-day-in-history/u-s-takes-possession-of-alaska&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - October 17, 1931: Capone goes to prison]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/capone-goes-to-prison'>http://www.history.com/this-day-in-history/capone-goes-to-prison</a>]]></description>
-			<link>https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e865-Tue-Oct-17-2017.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e865-Tue-Oct-17-2017.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Tue, 17 Oct 2017 14:16:18 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e865-Tue-Oct-17-2017.mp3" length="1628577" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - October 17, 1931: Capone goes to prison</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/capone-goes-to-prison&apos;&gt;http://www.history.com/this-day-in-history/capone-goes-to-prison&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
