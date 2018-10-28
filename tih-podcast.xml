@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sat, 27 Oct 2018 10:01:45 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 28 Oct 2018 10:01:41 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2018]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - October 28, 1886: Statue of Liberty dedicated]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/statue-of-liberty-dedicated'>https://www.history.com/this-day-in-history/statue-of-liberty-dedicated</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSunOct282018/today-in-history-e1231-Sun-Oct-28-2018.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSunOct282018/today-in-history-e1231-Sun-Oct-28-2018.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sun, 28 Oct 2018 11:01:41 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSunOct282018/today-in-history-e1231-Sun-Oct-28-2018.mp3" length="1475395" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - October 28, 1886: Statue of Liberty dedicated</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/statue-of-liberty-dedicated&apos;&gt;https://www.history.com/this-day-in-history/statue-of-liberty-dedicated&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - October 27, 1962: The United States and Soviet Union step back from brink of nuclear war]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/the-united-states-and-soviet-union-step-back-from-brink-of-nuclear-war'>https://www.history.com/this-day-in-history/the-united-states-and-soviet-union-step-back-from-brink-of-nuclear-war</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - October 29, 1998: John Glenn returns to space</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/john-glenn-returns-to-space&apos;&gt;http://www.history.com/this-day-in-history/john-glenn-returns-to-space&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - October 28, 1965: Gateway Arch completed]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/gateway-arch-completed'>http://www.history.com/this-day-in-history/gateway-arch-completed</a>]]></description>
-			<link>https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e876-Sat-Oct-28-2017.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e876-Sat-Oct-28-2017.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sat, 28 Oct 2017 14:16:09 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e876-Sat-Oct-28-2017.mp3" length="1398073" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - October 28, 1965: Gateway Arch completed</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/gateway-arch-completed&apos;&gt;http://www.history.com/this-day-in-history/gateway-arch-completed&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
