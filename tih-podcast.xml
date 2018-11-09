@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Thu, 08 Nov 2018 10:01:52 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 09 Nov 2018 10:01:55 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2018]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - November 09, 2004: Best-selling Millennium trilogy author Stieg Larsson dies at 50]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/best-selling-millennium-trilogy-author-stieg-larsson-dies-at-50'>https://www.history.com/this-day-in-history/best-selling-millennium-trilogy-author-stieg-larsson-dies-at-50</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastFriNov092018/today-in-history-e1243-Fri-Nov-09-2018.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastFriNov092018/today-in-history-e1243-Fri-Nov-09-2018.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Fri, 09 Nov 2018 10:01:55 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastFriNov092018/today-in-history-e1243-Fri-Nov-09-2018.mp3" length="1889593" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - November 09, 2004: Best-selling Millennium trilogy author Stieg Larsson dies at 50</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/best-selling-millennium-trilogy-author-stieg-larsson-dies-at-50&apos;&gt;https://www.history.com/this-day-in-history/best-selling-millennium-trilogy-author-stieg-larsson-dies-at-50&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - November 08, 1923: Beer Hall Putsch begins]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/beer-hall-putsch-begins'>https://www.history.com/this-day-in-history/beer-hall-putsch-begins</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - November 10, 1969: Sesame Street debuts</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/sesame-street-debuts&apos;&gt;http://www.history.com/this-day-in-history/sesame-street-debuts&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - November 09, 1938: Nazis launch Kristallnacht]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/nazis-launch-kristallnacht'>http://www.history.com/this-day-in-history/nazis-launch-kristallnacht</a>]]></description>
-			<link>https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e888-Thu-Nov-09-2017.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e888-Thu-Nov-09-2017.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Thu, 09 Nov 2017 13:16:19 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e888-Thu-Nov-09-2017.mp3" length="1660969" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - November 09, 1938: Nazis launch Kristallnacht</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/nazis-launch-kristallnacht&apos;&gt;http://www.history.com/this-day-in-history/nazis-launch-kristallnacht&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
