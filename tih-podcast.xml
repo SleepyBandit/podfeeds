@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sun, 18 Nov 2018 10:02:03 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 19 Nov 2018 10:02:11 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2018]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - November 19, 1942: Soviet counterattack at Stalingrad]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/soviet-counterattack-at-stalingrad'>https://www.history.com/this-day-in-history/soviet-counterattack-at-stalingrad</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastMonNov192018/today-in-history-e1253-Mon-Nov-19-2018.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonNov192018/today-in-history-e1253-Mon-Nov-19-2018.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Mon, 19 Nov 2018 10:02:11 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastMonNov192018/today-in-history-e1253-Mon-Nov-19-2018.mp3" length="2455092" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - November 19, 1942: Soviet counterattack at Stalingrad</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/soviet-counterattack-at-stalingrad&apos;&gt;https://www.history.com/this-day-in-history/soviet-counterattack-at-stalingrad&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - November 18, 1978: Mass suicide at Jonestown]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/mass-suicide-at-jonestown'>https://www.history.com/this-day-in-history/mass-suicide-at-jonestown</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - November 20, 1945: Nuremberg trials begin</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/nuremberg-trials-begin&apos;&gt;http://www.history.com/this-day-in-history/nuremberg-trials-begin&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - November 19, 1863: Lincoln delivers Gettysburg Address]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/lincoln-delivers-gettysburg-address'>http://www.history.com/this-day-in-history/lincoln-delivers-gettysburg-address</a>]]></description>
-			<link>https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e898-Sun-Nov-19-2017.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e898-Sun-Nov-19-2017.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sun, 19 Nov 2017 13:16:17 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e898-Sun-Nov-19-2017.mp3" length="1710706" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - November 19, 1863: Lincoln delivers Gettysburg Address</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/lincoln-delivers-gettysburg-address&apos;&gt;http://www.history.com/this-day-in-history/lincoln-delivers-gettysburg-address&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
