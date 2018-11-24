@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Fri, 23 Nov 2018 10:01:48 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 24 Nov 2018 10:01:41 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2018]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - November 24, 2017: Terrorists Attack Mosque in Sinai, Egypt]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/terrorist-attack-sinai-mosque-egypt'>https://www.history.com/this-day-in-history/terrorist-attack-sinai-mosque-egypt</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSatNov242018/today-in-history-e1258-Sat-Nov-24-2018.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatNov242018/today-in-history-e1258-Sat-Nov-24-2018.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sat, 24 Nov 2018 10:01:41 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSatNov242018/today-in-history-e1258-Sat-Nov-24-2018.mp3" length="1385116" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - November 24, 2017: Terrorists Attack Mosque in Sinai, Egypt</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/terrorist-attack-sinai-mosque-egypt&apos;&gt;https://www.history.com/this-day-in-history/terrorist-attack-sinai-mosque-egypt&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - November 23, 2012: Larry Hagman, star of “Dallas” and “I Dream of Jeannie,” dies]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/larry-hagman-star-of-dallas-and-i-dream-of-jeannie-dies'>https://www.history.com/this-day-in-history/larry-hagman-star-of-dallas-and-i-dream-of-jeannie-dies</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - November 25, 1952: Mousetrap opens in London</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/mousetrap-opens-in-london&apos;&gt;http://www.history.com/this-day-in-history/mousetrap-opens-in-london&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - November 24, 1859: Origin of Species is published]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/origin-of-species-is-published-2'>http://www.history.com/this-day-in-history/origin-of-species-is-published-2</a>]]></description>
-			<link>https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e903-Fri-Nov-24-2017.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e903-Fri-Nov-24-2017.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Fri, 24 Nov 2017 13:16:25 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e903-Fri-Nov-24-2017.mp3" length="1883951" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - November 24, 1859: Origin of Species is published</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/origin-of-species-is-published-2&apos;&gt;http://www.history.com/this-day-in-history/origin-of-species-is-published-2&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
