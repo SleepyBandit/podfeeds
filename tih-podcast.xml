@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sun, 25 Nov 2018 10:01:50 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 26 Nov 2018 10:02:07 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2018]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - November 26, 1922: Archaeologists enter tomb of King Tut]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/archaeologists-enter-tomb-of-king-tut'>https://www.history.com/this-day-in-history/archaeologists-enter-tomb-of-king-tut</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastMonNov262018/today-in-history-e1260-Mon-Nov-26-2018.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonNov262018/today-in-history-e1260-Mon-Nov-26-2018.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Mon, 26 Nov 2018 10:02:07 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastMonNov262018/today-in-history-e1260-Mon-Nov-26-2018.mp3" length="2058657" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - November 26, 1922: Archaeologists enter tomb of King Tut</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/archaeologists-enter-tomb-of-king-tut&apos;&gt;https://www.history.com/this-day-in-history/archaeologists-enter-tomb-of-king-tut&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - November 25, 1951: Charlaine Harris, author of Sookie Stackhouse books, is born]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/charlaine-harris-author-of-sookie-stackhouse-books-is-born'>https://www.history.com/this-day-in-history/charlaine-harris-author-of-sookie-stackhouse-books-is-born</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - November 27, 1095: Pope Urban II orders first Crusade</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/pope-urban-ii-orders-first-crusade&apos;&gt;http://www.history.com/this-day-in-history/pope-urban-ii-orders-first-crusade&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - November 26, 1941: FDR establishes modern Thanksgiving holiday]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/fdr-establishes-modern-thanksgiving-holiday'>http://www.history.com/this-day-in-history/fdr-establishes-modern-thanksgiving-holiday</a>]]></description>
-			<link>https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e905-Sun-Nov-26-2017.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e905-Sun-Nov-26-2017.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sun, 26 Nov 2017 13:16:09 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e905-Sun-Nov-26-2017.mp3" length="1402253" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - November 26, 1941: FDR establishes modern Thanksgiving holiday</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/fdr-establishes-modern-thanksgiving-holiday&apos;&gt;http://www.history.com/this-day-in-history/fdr-establishes-modern-thanksgiving-holiday&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
