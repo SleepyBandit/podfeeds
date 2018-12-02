@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sat, 01 Dec 2018 10:01:55 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 02 Dec 2018 10:01:32 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2018]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - December 02, 1972: The Temptations earn their final #1 hit with “Papa Was A Rolling Stone”]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/the-temptations-earn-their-final-1-hit-with-papa-was-a-rolling-stone'>https://www.history.com/this-day-in-history/the-temptations-earn-their-final-1-hit-with-papa-was-a-rolling-stone</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1266-Sun-Dec-02-2018.mp3</link>
+			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1266-Sun-Dec-02-2018.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sun, 02 Dec 2018 10:01:32 GMT</pubDate>
+			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1266-Sun-Dec-02-2018.mp3" length="1692943" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - December 02, 1972: The Temptations earn their final #1 hit with “Papa Was A Rolling Stone”</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/the-temptations-earn-their-final-1-hit-with-papa-was-a-rolling-stone&apos;&gt;https://www.history.com/this-day-in-history/the-temptations-earn-their-final-1-hit-with-papa-was-a-rolling-stone&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - December 01, 2004: Defense presents its case in Hamptons murder trial]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/defense-presents-its-case-in-hamptons-murder-trial'>https://www.history.com/this-day-in-history/defense-presents-its-case-in-hamptons-murder-trial</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - December 03, 1947: A Streetcar Named Desire opens on Broadway</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/a-streetcar-named-desire-opens-on-broadway&apos;&gt;http://www.history.com/this-day-in-history/a-streetcar-named-desire-opens-on-broadway&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - December 02, 2001: Enron files for bankruptcy]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/enron-files-for-bankruptcy'>http://www.history.com/this-day-in-history/enron-files-for-bankruptcy</a>]]></description>
-			<link>https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e911-Sat-Dec-02-2017.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e911-Sat-Dec-02-2017.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sat, 02 Dec 2017 13:16:29 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e911-Sat-Dec-02-2017.mp3" length="2009129" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - December 02, 2001: Enron files for bankruptcy</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/enron-files-for-bankruptcy&apos;&gt;http://www.history.com/this-day-in-history/enron-files-for-bankruptcy&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
