@@ -42,20 +42,20 @@
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
 		<item>
-			<title><![CDATA[Today In History - December 07, 1963: The Singing Nun reaches #1 on the U.S. pop charts with “Dominique”]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/the-singing-nun-reaches-1-on-the-u-s-pop-charts-with-dominique'>https://www.history.com/this-day-in-history/the-singing-nun-reaches-1-on-the-u-s-pop-charts-with-dominique</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1271-Fri-Dec-07-2018.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1271-Fri-Dec-07-2018.mp3</guid>
+			<title><![CDATA[Today In History - December 07, 1941: Pearl Harbor bombed]]></title>
+			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/pearl-harbor-bombed'>http://www.history.com/this-day-in-history/pearl-harbor-bombed</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/today-in-history-Fri-Dec-08-2018/today-in-history-Fri-Dec-08-2018.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/today-in-history-Fri-Dec-08-2018/today-in-history-Fri-Dec-08-2018.mp3</guid>
 			<category><![CDATA[Today In History]]></category>
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
 			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 07 Dec 2018 10:01:33 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1271-Fri-Dec-07-2018.mp3" length="1713005" type="audio/mpeg"/>
+			<enclosure url="https://archive.org/download/today-in-history-Fri-Dec-08-2018/today-in-history-Fri-Dec-08-2018.mp3" length="2655942" type="audio/mpeg"/>
 			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - December 07, 1963: The Singing Nun reaches #1 on the U.S. pop charts with “Dominique”</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/the-singing-nun-reaches-1-on-the-u-s-pop-charts-with-dominique&apos;&gt;https://www.history.com/this-day-in-history/the-singing-nun-reaches-1-on-the-u-s-pop-charts-with-dominique&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:subtitle>Today In History - December 07, 1941: Pearl Harbor bombed</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/pearl-harbor-bombed&apos;&gt;http://www.history.com/this-day-in-history/pearl-harbor-bombed&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
