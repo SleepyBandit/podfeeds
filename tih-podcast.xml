@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sun, 09 Dec 2018 10:01:52 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Dec 2018 10:01:52 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2018]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - December 10, 2009: Avatar makes its world premiere]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/avatar-makes-its-world-premiere'>https://www.history.com/this-day-in-history/avatar-makes-its-world-premiere</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastMonDec102018/today-in-history-e1274-Mon-Dec-10-2018.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonDec102018/today-in-history-e1274-Mon-Dec-10-2018.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Mon, 10 Dec 2018 10:01:52 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastMonDec102018/today-in-history-e1274-Mon-Dec-10-2018.mp3" length="1450109" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - December 10, 2009: Avatar makes its world premiere</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/avatar-makes-its-world-premiere&apos;&gt;https://www.history.com/this-day-in-history/avatar-makes-its-world-premiere&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - December 09, 1992: Separation of Charles and Diana announced]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/separation-of-charles-and-diana-announced'>https://www.history.com/this-day-in-history/separation-of-charles-and-diana-announced</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - December 11, 1936: Edward VIII abdicates</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/edward-viii-abdicates&apos;&gt;http://www.history.com/this-day-in-history/edward-viii-abdicates&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - December 10, 1901: First Nobel Prizes awarded]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/first-nobel-prizes-awarded'>http://www.history.com/this-day-in-history/first-nobel-prizes-awarded</a>]]></description>
-			<link>https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e919-Sun-Dec-10-2017.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e919-Sun-Dec-10-2017.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sun, 10 Dec 2017 13:16:43 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3-us-west-2.amazonaws.com/today-in-history-e919-Sun-Dec-10-2017.mp3" length="2648189" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - December 10, 1901: First Nobel Prizes awarded</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/first-nobel-prizes-awarded&apos;&gt;http://www.history.com/this-day-in-history/first-nobel-prizes-awarded&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
