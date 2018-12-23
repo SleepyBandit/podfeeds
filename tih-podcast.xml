@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sat, 22 Dec 2018 10:01:31 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 23 Dec 2018 10:01:30 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2018]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - December 23, 2009: “Balloon Boy” parents sentenced in Colorado]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/balloon-boy-parents-sentenced-in-colorado'>https://www.history.com/this-day-in-history/balloon-boy-parents-sentenced-in-colorado</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1287-Sun-Dec-23-2018.mp3</link>
+			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1287-Sun-Dec-23-2018.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sun, 23 Dec 2018 10:01:30 GMT</pubDate>
+			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1287-Sun-Dec-23-2018.mp3" length="1702138" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - December 23, 2009: “Balloon Boy” parents sentenced in Colorado</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/balloon-boy-parents-sentenced-in-colorado&apos;&gt;https://www.history.com/this-day-in-history/balloon-boy-parents-sentenced-in-colorado&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - December 22, 1808: Beethoven’s Fifth Symphony given world premiere in Vienna]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/beethovens-fifth-symphony-given-world-premiere-in-vienna'>https://www.history.com/this-day-in-history/beethovens-fifth-symphony-given-world-premiere-in-vienna</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - December 24, 1979: Soviet tanks roll into Afghanistan</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/soviet-tanks-roll-into-afghanistan&apos;&gt;http://www.history.com/this-day-in-history/soviet-tanks-roll-into-afghanistan&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - December 23, 1888: Van Gogh chops off ear]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/van-gogh-chops-off-ear'>http://www.history.com/this-day-in-history/van-gogh-chops-off-ear</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e932-Sat-Dec-23-2017.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e932-Sat-Dec-23-2017.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sat, 23 Dec 2017 13:16:13 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e932-Sat-Dec-23-2017.mp3" length="1700884" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - December 23, 1888: Van Gogh chops off ear</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/van-gogh-chops-off-ear&apos;&gt;http://www.history.com/this-day-in-history/van-gogh-chops-off-ear&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
