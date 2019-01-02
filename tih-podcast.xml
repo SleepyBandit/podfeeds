@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Wed, 02 Jan 2019 10:01:23 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 02 Jan 2019 13:01:23 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -51,7 +51,7 @@
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
 			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Wed, 02 Jan 2019 10:01:23 GMT</pubDate>
+			<pubDate>Wed, 02 Jan 2019 13:01:23 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedJan022019/today-in-history-e1297-Wed-Jan-02-2019.mp3" length="1072065" type="audio/mpeg"/>
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - January 02, 1788: Georgia enters the Union</itunes:subtitle>
