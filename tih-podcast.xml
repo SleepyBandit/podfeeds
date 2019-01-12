@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Fri, 11 Jan 2019 10:01:56 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 12 Jan 2019 10:01:44 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - January 12, 2010: Massive earthquake strikes Haiti]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/massive-earthquake-strikes-haiti'>https://www.history.com/this-day-in-history/massive-earthquake-strikes-haiti</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSatJan122019/today-in-history-e1307-Sat-Jan-12-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatJan122019/today-in-history-e1307-Sat-Jan-12-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sat, 12 Jan 2019 10:01:44 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSatJan122019/today-in-history-e1307-Sat-Jan-12-2019.mp3" length="1520744" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - January 12, 2010: Massive earthquake strikes Haiti</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/massive-earthquake-strikes-haiti&apos;&gt;https://www.history.com/this-day-in-history/massive-earthquake-strikes-haiti&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - January 11, 2012: Van der Sloot admits to Peru murder]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/van-der-sloot-admits-to-peru-murder'>https://www.history.com/this-day-in-history/van-der-sloot-admits-to-peru-murder</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - January 13, 1128: Pope recognizes Knights Templar</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/pope-recognizes-knights-templar&apos;&gt;http://www.history.com/this-day-in-history/pope-recognizes-knights-templar&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - January 12, 1926: Original Amos ‘n’ Andy debuts on Chicago radio]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/original-amos-n-andy-debuts-on-chicago-radio'>http://www.history.com/this-day-in-history/original-amos-n-andy-debuts-on-chicago-radio</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e952-Fri-Jan-12-2018.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e952-Fri-Jan-12-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Fri, 12 Jan 2018 13:16:11 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e952-Fri-Jan-12-2018.mp3" length="1625861" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - January 12, 1926: Original Amos ‘n’ Andy debuts on Chicago radio</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/original-amos-n-andy-debuts-on-chicago-radio&apos;&gt;http://www.history.com/this-day-in-history/original-amos-n-andy-debuts-on-chicago-radio&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
