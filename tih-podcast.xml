@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Thu, 17 Jan 2019 10:01:21 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 18 Jan 2019 10:01:24 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - January 18, 1975: “Mandy” is Barry Manilow’s first #1 pop hit]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/mandy-is-barry-manilows-first-1-pop-hit'>https://www.history.com/this-day-in-history/mandy-is-barry-manilows-first-1-pop-hit</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1313-Fri-Jan-18-2019.mp3</link>
+			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1313-Fri-Jan-18-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Fri, 18 Jan 2019 10:01:24 GMT</pubDate>
+			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1313-Fri-Jan-18-2019.mp3" length="1411866" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - January 18, 1975: “Mandy” is Barry Manilow’s first #1 pop hit</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/mandy-is-barry-manilows-first-1-pop-hit&apos;&gt;https://www.history.com/this-day-in-history/mandy-is-barry-manilows-first-1-pop-hit&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - January 17, 1977: The execution of Gary Gilmore]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/the-execution-of-gary-gilmore'>https://www.history.com/this-day-in-history/the-execution-of-gary-gilmore</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - January 19, 1809: Edgar Allan Poe is born</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/edgar-allan-poe-is-born&apos;&gt;http://www.history.com/this-day-in-history/edgar-allan-poe-is-born&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - January 18, 1919: Post-World War I peace conference begins in Paris]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/post-world-war-i-peace-conference-begins-in-paris'>http://www.history.com/this-day-in-history/post-world-war-i-peace-conference-begins-in-paris</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e958-Thu-Jan-18-2018.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e958-Thu-Jan-18-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Thu, 18 Jan 2018 13:16:09 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e958-Thu-Jan-18-2018.mp3" length="1479993" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - January 18, 1919: Post-World War I peace conference begins in Paris</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/post-world-war-i-peace-conference-begins-in-paris&apos;&gt;http://www.history.com/this-day-in-history/post-world-war-i-peace-conference-begins-in-paris&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
