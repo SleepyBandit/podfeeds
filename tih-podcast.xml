@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Wed, 23 Jan 2019 10:01:48 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 24 Jan 2019 10:01:47 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - January 24, 1965: Winston Churchill dies]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/winston-churchill-dies'>https://www.history.com/this-day-in-history/winston-churchill-dies</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastThuJan242019/today-in-history-e1319-Thu-Jan-24-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuJan242019/today-in-history-e1319-Thu-Jan-24-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Thu, 24 Jan 2019 10:01:47 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastThuJan242019/today-in-history-e1319-Thu-Jan-24-2019.mp3" length="1735993" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - January 24, 1965: Winston Churchill dies</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/winston-churchill-dies&apos;&gt;https://www.history.com/this-day-in-history/winston-churchill-dies&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - January 23, 1968: USS Pueblo captured]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/uss-pueblo-captured'>https://www.history.com/this-day-in-history/uss-pueblo-captured</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - January 25, 1905: World’s largest diamond found</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/worlds-largest-diamond-found&apos;&gt;http://www.history.com/this-day-in-history/worlds-largest-diamond-found&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - January 24, 1935: First canned beer goes on sale]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/first-canned-beer-goes-on-sale'>http://www.history.com/this-day-in-history/first-canned-beer-goes-on-sale</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e964-Wed-Jan-24-2018.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e964-Wed-Jan-24-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Wed, 24 Jan 2018 13:16:11 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e964-Wed-Jan-24-2018.mp3" length="1622308" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - January 24, 1935: First canned beer goes on sale</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/first-canned-beer-goes-on-sale&apos;&gt;http://www.history.com/this-day-in-history/first-canned-beer-goes-on-sale&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
