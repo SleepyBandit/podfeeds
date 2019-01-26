@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Fri, 25 Jan 2019 10:01:45 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 26 Jan 2019 10:01:49 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - January 26, 2006: Oprah Winfrey takes James Frey to task for lying]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/oprah-winfrey-takes-james-frey-to-task-for-lying'>https://www.history.com/this-day-in-history/oprah-winfrey-takes-james-frey-to-task-for-lying</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSatJan262019/today-in-history-e1321-Sat-Jan-26-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatJan262019/today-in-history-e1321-Sat-Jan-26-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sat, 26 Jan 2019 10:01:49 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSatJan262019/today-in-history-e1321-Sat-Jan-26-2019.mp3" length="1933270" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - January 26, 2006: Oprah Winfrey takes James Frey to task for lying</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/oprah-winfrey-takes-james-frey-to-task-for-lying&apos;&gt;https://www.history.com/this-day-in-history/oprah-winfrey-takes-james-frey-to-task-for-lying&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - January 25, 1924: First Winter Olympics]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/first-winter-olympics'>https://www.history.com/this-day-in-history/first-winter-olympics</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - January 27, 1888: National Geographic Society founded</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/national-geographic-society-founded&apos;&gt;http://www.history.com/this-day-in-history/national-geographic-society-founded&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - January 26, 1788: Australia Day]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/australia-day'>http://www.history.com/this-day-in-history/australia-day</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e966-Fri-Jan-26-2018.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e966-Fri-Jan-26-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Fri, 26 Jan 2018 13:16:13 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e966-Fri-Jan-26-2018.mp3" length="1725544" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - January 26, 1788: Australia Day</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/australia-day&apos;&gt;http://www.history.com/this-day-in-history/australia-day&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
