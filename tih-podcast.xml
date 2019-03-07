@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Wed, 06 Mar 2019 10:01:31 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 07 Mar 2019 10:01:41 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - March 07, 2010: Kathryn Bigelow becomes the first female director to win an Oscar]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/kathryn-bigelow-becomes-the-first-female-director-to-win-an-oscar'>https://www.history.com/this-day-in-history/kathryn-bigelow-becomes-the-first-female-director-to-win-an-oscar</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastThuMar072019/today-in-history-e1361-Thu-Mar-07-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuMar072019/today-in-history-e1361-Thu-Mar-07-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Thu, 07 Mar 2019 10:01:41 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastThuMar072019/today-in-history-e1361-Thu-Mar-07-2019.mp3" length="1549165" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - March 07, 2010: Kathryn Bigelow becomes the first female director to win an Oscar</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/kathryn-bigelow-becomes-the-first-female-director-to-win-an-oscar&apos;&gt;https://www.history.com/this-day-in-history/kathryn-bigelow-becomes-the-first-female-director-to-win-an-oscar&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - March 06, 1983: Kohl elected West German chancellor]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/kohl-elected-west-german-chancellor'>https://www.history.com/this-day-in-history/kohl-elected-west-german-chancellor</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - March 08, 1917: February Revolution begins</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/february-revolution-begins&apos;&gt;http://www.history.com/this-day-in-history/february-revolution-begins&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - March 07, 1876: Alexander Graham Bell patents the telephone]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/alexander-graham-bell-patents-the-telephone'>http://www.history.com/this-day-in-history/alexander-graham-bell-patents-the-telephone</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastWedMar072018/today-in-history-e1006-Wed-Mar-07-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedMar072018/today-in-history-e1006-Wed-Mar-07-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Wed, 07 Mar 2018 13:16:30 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastWedMar072018/today-in-history-e1006-Wed-Mar-07-2018.mp3" length="1343111" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - March 07, 1876: Alexander Graham Bell patents the telephone</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/alexander-graham-bell-patents-the-telephone&apos;&gt;http://www.history.com/this-day-in-history/alexander-graham-bell-patents-the-telephone&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
