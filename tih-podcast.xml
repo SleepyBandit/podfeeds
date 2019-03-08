@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Thu, 07 Mar 2019 10:01:41 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 08 Mar 2019 10:02:10 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - March 08, 2014: Malaysia Airlines flight vanishes with more than 200 people aboard]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/malaysia-airlines-flight-vanishes-with-more-than-200-people-aboard'>https://www.history.com/this-day-in-history/malaysia-airlines-flight-vanishes-with-more-than-200-people-aboard</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastFriMar082019/today-in-history-e1362-Fri-Mar-08-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastFriMar082019/today-in-history-e1362-Fri-Mar-08-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Fri, 08 Mar 2019 10:02:10 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastFriMar082019/today-in-history-e1362-Fri-Mar-08-2019.mp3" length="2276414" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - March 08, 2014: Malaysia Airlines flight vanishes with more than 200 people aboard</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/malaysia-airlines-flight-vanishes-with-more-than-200-people-aboard&apos;&gt;https://www.history.com/this-day-in-history/malaysia-airlines-flight-vanishes-with-more-than-200-people-aboard&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - March 07, 2010: Kathryn Bigelow becomes the first female director to win an Oscar]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/kathryn-bigelow-becomes-the-first-female-director-to-win-an-oscar'>https://www.history.com/this-day-in-history/kathryn-bigelow-becomes-the-first-female-director-to-win-an-oscar</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - March 09, 1959: Barbie makes her debut</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/barbie-makes-her-debut&apos;&gt;http://www.history.com/this-day-in-history/barbie-makes-her-debut&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - March 08, 1917: February Revolution begins]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/february-revolution-begins'>http://www.history.com/this-day-in-history/february-revolution-begins</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastThuMar082018/today-in-history-e1007-Thu-Mar-08-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuMar082018/today-in-history-e1007-Thu-Mar-08-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Thu, 08 Mar 2018 13:16:56 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastThuMar082018/today-in-history-e1007-Thu-Mar-08-2018.mp3" length="2001815" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - March 08, 1917: February Revolution begins</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/february-revolution-begins&apos;&gt;http://www.history.com/this-day-in-history/february-revolution-begins&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
