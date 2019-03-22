@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Thu, 21 Mar 2019 10:01:25 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 22 Mar 2019 10:01:43 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - March 22, 2014: Mudslide in Washington state kills more than 40 people]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/mudslide-in-washington-state-kills-more-than-40-people'>https://www.history.com/this-day-in-history/mudslide-in-washington-state-kills-more-than-40-people</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastFriMar222019/today-in-history-e1376-Fri-Mar-22-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastFriMar222019/today-in-history-e1376-Fri-Mar-22-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Fri, 22 Mar 2019 11:01:43 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastFriMar222019/today-in-history-e1376-Fri-Mar-22-2019.mp3" length="1419807" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - March 22, 2014: Mudslide in Washington state kills more than 40 people</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/mudslide-in-washington-state-kills-more-than-40-people&apos;&gt;https://www.history.com/this-day-in-history/mudslide-in-washington-state-kills-more-than-40-people&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - March 21, 1960: Massacre in Sharpeville]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/massacre-in-sharpeville'>https://www.history.com/this-day-in-history/massacre-in-sharpeville</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - March 23, 1839: OK enters national vernacular</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/ok-enters-national-vernacular&apos;&gt;http://www.history.com/this-day-in-history/ok-enters-national-vernacular&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - March 22, 1765: Stamp Act imposed on American colonies]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/stamp-act-imposed-on-american-colonies'>http://www.history.com/this-day-in-history/stamp-act-imposed-on-american-colonies</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastThuMar222018/today-in-history-e1021-Thu-Mar-22-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuMar222018/today-in-history-e1021-Thu-Mar-22-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Thu, 22 Mar 2018 14:16:38 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastThuMar222018/today-in-history-e1021-Thu-Mar-22-2018.mp3" length="1661596" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - March 22, 1765: Stamp Act imposed on American colonies</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/stamp-act-imposed-on-american-colonies&apos;&gt;http://www.history.com/this-day-in-history/stamp-act-imposed-on-american-colonies&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
