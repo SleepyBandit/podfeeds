@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Fri, 22 Mar 2019 10:01:43 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 23 Mar 2019 10:02:11 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - March 23, 2011: Hollywood icon Elizabeth Taylor dies at 79]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/hollywood-icon-elizabeth-taylor-dies-at-79'>https://www.history.com/this-day-in-history/hollywood-icon-elizabeth-taylor-dies-at-79</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSatMar232019/today-in-history-e1377-Sat-Mar-23-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatMar232019/today-in-history-e1377-Sat-Mar-23-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sat, 23 Mar 2019 11:02:11 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSatMar232019/today-in-history-e1377-Sat-Mar-23-2019.mp3" length="2390099" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - March 23, 2011: Hollywood icon Elizabeth Taylor dies at 79</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/hollywood-icon-elizabeth-taylor-dies-at-79&apos;&gt;https://www.history.com/this-day-in-history/hollywood-icon-elizabeth-taylor-dies-at-79&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - March 22, 2014: Mudslide in Washington state kills more than 40 people]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/mudslide-in-washington-state-kills-more-than-40-people'>https://www.history.com/this-day-in-history/mudslide-in-washington-state-kills-more-than-40-people</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - March 24, 1989: Exxon Valdez runs aground</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/exxon-valdez-runs-aground&apos;&gt;http://www.history.com/this-day-in-history/exxon-valdez-runs-aground&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - March 23, 1839: OK enters national vernacular]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/ok-enters-national-vernacular'>http://www.history.com/this-day-in-history/ok-enters-national-vernacular</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastFriMar232018/today-in-history-e1022-Fri-Mar-23-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastFriMar232018/today-in-history-e1022-Fri-Mar-23-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Fri, 23 Mar 2018 14:16:36 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastFriMar232018/today-in-history-e1022-Fri-Mar-23-2018.mp3" length="1518445" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - March 23, 1839: OK enters national vernacular</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/ok-enters-national-vernacular&apos;&gt;http://www.history.com/this-day-in-history/ok-enters-national-vernacular&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
