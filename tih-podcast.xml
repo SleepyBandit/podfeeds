@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sat, 23 Mar 2019 10:02:11 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 24 Mar 2019 10:01:57 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - March 24, 2015: Germanwings pilot intentionally crashes plane, killing 150 people]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/germanwings-pilot-intentionally-crashes-plane-killing-150-people'>https://www.history.com/this-day-in-history/germanwings-pilot-intentionally-crashes-plane-killing-150-people</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSunMar242019/today-in-history-e1378-Sun-Mar-24-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSunMar242019/today-in-history-e1378-Sun-Mar-24-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sun, 24 Mar 2019 11:01:57 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSunMar242019/today-in-history-e1378-Sun-Mar-24-2019.mp3" length="1893773" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - March 24, 2015: Germanwings pilot intentionally crashes plane, killing 150 people</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/germanwings-pilot-intentionally-crashes-plane-killing-150-people&apos;&gt;https://www.history.com/this-day-in-history/germanwings-pilot-intentionally-crashes-plane-killing-150-people&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - March 23, 2011: Hollywood icon Elizabeth Taylor dies at 79]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/hollywood-icon-elizabeth-taylor-dies-at-79'>https://www.history.com/this-day-in-history/hollywood-icon-elizabeth-taylor-dies-at-79</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - March 25, 1911: Triangle Shirtwaist Fire in New York City</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/triangle-shirtwaist-fire-in-new-york-city&apos;&gt;http://www.history.com/this-day-in-history/triangle-shirtwaist-fire-in-new-york-city&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - March 24, 1989: Exxon Valdez runs aground]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/exxon-valdez-runs-aground'>http://www.history.com/this-day-in-history/exxon-valdez-runs-aground</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSatMar242018/today-in-history-e1023-Sat-Mar-24-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatMar242018/today-in-history-e1023-Sat-Mar-24-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sat, 24 Mar 2018 14:16:23 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSatMar242018/today-in-history-e1023-Sat-Mar-24-2018.mp3" length="1239248" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - March 24, 1989: Exxon Valdez runs aground</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/exxon-valdez-runs-aground&apos;&gt;http://www.history.com/this-day-in-history/exxon-valdez-runs-aground&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
