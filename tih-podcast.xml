@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Wed, 10 Apr 2019 10:01:29 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 11 Apr 2019 10:01:31 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - April 11, 1979: Ugandan dictator Idi Amin overthrown]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/idi-amin-overthrown'>https://www.history.com/this-day-in-history/idi-amin-overthrown</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastThuApr112019/today-in-history-e1396-Thu-Apr-11-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuApr112019/today-in-history-e1396-Thu-Apr-11-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Thu, 11 Apr 2019 11:01:31 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastThuApr112019/today-in-history-e1396-Thu-Apr-11-2019.mp3" length="1088992" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - April 11, 1979: Ugandan dictator Idi Amin overthrown</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/idi-amin-overthrown&apos;&gt;https://www.history.com/this-day-in-history/idi-amin-overthrown&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - April 10, 1919: Revolutionary leader Emiliano Zapata assassinated in Mexico]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/zapata-assassinated-in-mexico'>https://www.history.com/this-day-in-history/zapata-assassinated-in-mexico</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - April 12, 1861: The Civil War begins</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/the-civil-war-begins&apos;&gt;http://www.history.com/this-day-in-history/the-civil-war-begins&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - April 11, 1814: Napoleon exiled to Elba]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/napoleon-exiled-to-elba'>http://www.history.com/this-day-in-history/napoleon-exiled-to-elba</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastWedApr112018/today-in-history-e1041-Wed-Apr-11-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedApr112018/today-in-history-e1041-Wed-Apr-11-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Wed, 11 Apr 2018 14:16:40 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastWedApr112018/today-in-history-e1041-Wed-Apr-11-2018.mp3" length="1643833" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - April 11, 1814: Napoleon exiled to Elba</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/napoleon-exiled-to-elba&apos;&gt;http://www.history.com/this-day-in-history/napoleon-exiled-to-elba&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
