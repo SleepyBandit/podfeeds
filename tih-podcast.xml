@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Fri, 12 Apr 2019 10:01:30 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 13 Apr 2019 10:01:34 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - April 13, 1919: British and Gurkha troops massacre hundreds of unarmed demonstrators in Amritsar Massacre]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/the-amritsar-massacre'>https://www.history.com/this-day-in-history/the-amritsar-massacre</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSatApr132019/today-in-history-e1398-Sat-Apr-13-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatApr132019/today-in-history-e1398-Sat-Apr-13-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sat, 13 Apr 2019 11:01:34 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSatApr132019/today-in-history-e1398-Sat-Apr-13-2019.mp3" length="1299853" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - April 13, 1919: British and Gurkha troops massacre hundreds of unarmed demonstrators in Amritsar Massacre</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/the-amritsar-massacre&apos;&gt;https://www.history.com/this-day-in-history/the-amritsar-massacre&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - April 12, 1864: Hundreds of Union soldiers killed in Fort Pillow Massacre]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/the-fort-pillow-massacre'>https://www.history.com/this-day-in-history/the-fort-pillow-massacre</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - April 14, 1865: Lincoln is shot</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/lincoln-is-shot&apos;&gt;http://www.history.com/this-day-in-history/lincoln-is-shot&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - April 13, 1997: Tiger Woods wins first major]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/tiger-woods-wins-first-major'>http://www.history.com/this-day-in-history/tiger-woods-wins-first-major</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastFriApr132018/today-in-history-e1043-Fri-Apr-13-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastFriApr132018/today-in-history-e1043-Fri-Apr-13-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Fri, 13 Apr 2018 14:17:20 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastFriApr132018/today-in-history-e1043-Fri-Apr-13-2018.mp3" length="2919235" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - April 13, 1997: Tiger Woods wins first major</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/tiger-woods-wins-first-major&apos;&gt;http://www.history.com/this-day-in-history/tiger-woods-wins-first-major&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
