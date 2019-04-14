@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sat, 13 Apr 2019 10:01:34 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 14 Apr 2019 10:01:36 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - April 14, 2005: Pontiac Solstice stars on “The Apprentice”]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/pontiac-solstice-stars-on-the-apprentice'>https://www.history.com/this-day-in-history/pontiac-solstice-stars-on-the-apprentice</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1399-Sun-Apr-14-2019.mp3</link>
+			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1399-Sun-Apr-14-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sun, 14 Apr 2019 11:01:36 GMT</pubDate>
+			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1399-Sun-Apr-14-2019.mp3" length="1769639" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - April 14, 2005: Pontiac Solstice stars on “The Apprentice”</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/pontiac-solstice-stars-on-the-apprentice&apos;&gt;https://www.history.com/this-day-in-history/pontiac-solstice-stars-on-the-apprentice&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - April 13, 1919: British and Gurkha troops massacre hundreds of unarmed demonstrators in Amritsar Massacre]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/the-amritsar-massacre'>https://www.history.com/this-day-in-history/the-amritsar-massacre</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - April 15, 1947: Jackie Robinson breaks color barrier</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/jackie-robinson-breaks-color-barrier&apos;&gt;http://www.history.com/this-day-in-history/jackie-robinson-breaks-color-barrier&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - April 14, 1865: Lincoln is shot]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/lincoln-is-shot'>http://www.history.com/this-day-in-history/lincoln-is-shot</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSatApr142018/today-in-history-e1044-Sat-Apr-14-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatApr142018/today-in-history-e1044-Sat-Apr-14-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sat, 14 Apr 2018 14:16:41 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSatApr142018/today-in-history-e1044-Sat-Apr-14-2018.mp3" length="1706945" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - April 14, 1865: Lincoln is shot</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/lincoln-is-shot&apos;&gt;http://www.history.com/this-day-in-history/lincoln-is-shot&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
