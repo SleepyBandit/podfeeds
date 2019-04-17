@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 16 Apr 2019 10:02:21 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 17 Apr 2019 10:02:04 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - April 17, 2014: Gabriel Garcia Marquez dies at age 87]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/gabriel-garcia-marquez-dies-at-age-87'>https://www.history.com/this-day-in-history/gabriel-garcia-marquez-dies-at-age-87</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastWedApr172019/today-in-history-e1402-Wed-Apr-17-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedApr172019/today-in-history-e1402-Wed-Apr-17-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 17 Apr 2019 11:02:04 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastWedApr172019/today-in-history-e1402-Wed-Apr-17-2019.mp3" length="2028982" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - April 17, 2014: Gabriel Garcia Marquez dies at age 87</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/gabriel-garcia-marquez-dies-at-age-87&apos;&gt;https://www.history.com/this-day-in-history/gabriel-garcia-marquez-dies-at-age-87&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - April 16, 1917: Lenin returns from exile to lead the Russian Revolution]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/lenin-returns'>https://www.history.com/this-day-in-history/lenin-returns</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - April 18, 1906: The Great San Francisco Earthquake</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/the-great-san-francisco-earthquake&apos;&gt;http://www.history.com/this-day-in-history/the-great-san-francisco-earthquake&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - April 17, 1970: Apollo 13 returns to Earth]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/apollo-13-returns-to-earth'>http://www.history.com/this-day-in-history/apollo-13-returns-to-earth</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastTueApr172018/today-in-history-e1047-Tue-Apr-17-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastTueApr172018/today-in-history-e1047-Tue-Apr-17-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Tue, 17 Apr 2018 14:16:27 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastTueApr172018/today-in-history-e1047-Tue-Apr-17-2018.mp3" length="1192855" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - April 17, 1970: Apollo 13 returns to Earth</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/apollo-13-returns-to-earth&apos;&gt;http://www.history.com/this-day-in-history/apollo-13-returns-to-earth&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
