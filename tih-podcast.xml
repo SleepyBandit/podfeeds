@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sat, 20 Apr 2019 10:01:52 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 21 Apr 2019 10:01:38 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - April 21, 1973: “Tie a Yellow Ribbon Round the Ole Oak Tree” tops the U.S. pop charts and creates a cultural phenomenon]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/tie-a-yellow-ribbon-round-the-old-oak-tree-tops-the-u-s-pop-charts-and-creates-a-cultural-phenomenon'>https://www.history.com/this-day-in-history/tie-a-yellow-ribbon-round-the-old-oak-tree-tops-the-u-s-pop-charts-and-creates-a-cultural-phenomenon</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1406-Sun-Apr-21-2019.mp3</link>
+			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1406-Sun-Apr-21-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sun, 21 Apr 2019 11:01:38 GMT</pubDate>
+			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1406-Sun-Apr-21-2019.mp3" length="1861172" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - April 21, 1973: “Tie a Yellow Ribbon Round the Ole Oak Tree” tops the U.S. pop charts and creates a cultural phenomenon</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/tie-a-yellow-ribbon-round-the-old-oak-tree-tops-the-u-s-pop-charts-and-creates-a-cultural-phenomenon&apos;&gt;https://www.history.com/this-day-in-history/tie-a-yellow-ribbon-round-the-old-oak-tree-tops-the-u-s-pop-charts-and-creates-a-cultural-phenomenon&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - April 20, 2010: Massive oil spill begins in Gulf of Mexico]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/massive-oil-spill-begins-in-gulf-of-mexico'>https://www.history.com/this-day-in-history/massive-oil-spill-begins-in-gulf-of-mexico</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - April 22, 1970: The first Earth Day</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/the-first-earth-day&apos;&gt;http://www.history.com/this-day-in-history/the-first-earth-day&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - April 21, 753: Rome founded]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/rome-founded'>http://www.history.com/this-day-in-history/rome-founded</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSatApr212018/today-in-history-e1051-Sat-Apr-21-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatApr212018/today-in-history-e1051-Sat-Apr-21-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sat, 21 Apr 2018 14:17:02 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSatApr212018/today-in-history-e1051-Sat-Apr-21-2018.mp3" length="2216646" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - April 21, 753: Rome founded</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/rome-founded&apos;&gt;http://www.history.com/this-day-in-history/rome-founded&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
