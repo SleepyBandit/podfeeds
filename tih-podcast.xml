@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Thu, 25 Apr 2019 10:01:40 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 26 Apr 2019 10:01:48 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - April 26, 2012: Former Liberian President Charles Taylor found guilty of war crimes]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/former-liberian-president-charles-taylor-found-guilty-of-war-crimes'>https://www.history.com/this-day-in-history/former-liberian-president-charles-taylor-found-guilty-of-war-crimes</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastFriApr262019/today-in-history-e1411-Fri-Apr-26-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastFriApr262019/today-in-history-e1411-Fri-Apr-26-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Fri, 26 Apr 2019 11:01:48 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastFriApr262019/today-in-history-e1411-Fri-Apr-26-2019.mp3" length="1451781" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - April 26, 2012: Former Liberian President Charles Taylor found guilty of war crimes</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/former-liberian-president-charles-taylor-found-guilty-of-war-crimes&apos;&gt;https://www.history.com/this-day-in-history/former-liberian-president-charles-taylor-found-guilty-of-war-crimes&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - April 25, 2015: Magnitude 7.8 earthquake kills thousands in Nepal]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/magnitude-7-8-earthquake-kills-thousands-in-nepal'>https://www.history.com/this-day-in-history/magnitude-7-8-earthquake-kills-thousands-in-nepal</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - April 27, 4977: Universe is created, according to Kepler</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/universe-is-created-according-to-kepler&apos;&gt;http://www.history.com/this-day-in-history/universe-is-created-according-to-kepler&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - April 26, 1954: Polio vaccine trials begin]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/polio-vaccine-trials-begin'>http://www.history.com/this-day-in-history/polio-vaccine-trials-begin</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastThuApr262018/today-in-history-e1056-Thu-Apr-26-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuApr262018/today-in-history-e1056-Thu-Apr-26-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Thu, 26 Apr 2018 14:16:47 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastThuApr262018/today-in-history-e1056-Thu-Apr-26-2018.mp3" length="1869949" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - April 26, 1954: Polio vaccine trials begin</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/polio-vaccine-trials-begin&apos;&gt;http://www.history.com/this-day-in-history/polio-vaccine-trials-begin&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
