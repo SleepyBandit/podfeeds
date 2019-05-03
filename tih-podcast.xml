@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Thu, 02 May 2019 10:02:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 03 May 2019 10:02:01 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - May 03, 2007: British girl goes missing in Portugal]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/british-girl-goes-missing-in-portugal'>https://www.history.com/this-day-in-history/british-girl-goes-missing-in-portugal</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastFriMay032019/today-in-history-e1418-Fri-May-03-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastFriMay032019/today-in-history-e1418-Fri-May-03-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Fri, 03 May 2019 11:02:01 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastFriMay032019/today-in-history-e1418-Fri-May-03-2019.mp3" length="1909655" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - May 03, 2007: British girl goes missing in Portugal</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/british-girl-goes-missing-in-portugal&apos;&gt;https://www.history.com/this-day-in-history/british-girl-goes-missing-in-portugal&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - May 02, 2011: Osama bin Laden killed by U.S. forces]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/osama-bin-laden-killed-by-u-s-forces'>https://www.history.com/this-day-in-history/osama-bin-laden-killed-by-u-s-forces</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - May 04, 1994: Rabin and Arafat sign accord for Palestinian self-rule</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/rabin-and-arafat-sign-accord-for-palestinian-self-rule&apos;&gt;http://www.history.com/this-day-in-history/rabin-and-arafat-sign-accord-for-palestinian-self-rule&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - May 03, 1469: Niccolo Machiavelli born]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/niccolo-machiavelli-born'>http://www.history.com/this-day-in-history/niccolo-machiavelli-born</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastThuMay032018/today-in-history-e1063-Thu-May-03-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuMay032018/today-in-history-e1063-Thu-May-03-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Thu, 03 May 2018 14:16:47 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastThuMay032018/today-in-history-e1063-Thu-May-03-2018.mp3" length="1681240" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - May 03, 1469: Niccolo Machiavelli born</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/niccolo-machiavelli-born&apos;&gt;http://www.history.com/this-day-in-history/niccolo-machiavelli-born&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
