@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Fri, 17 May 2019 10:01:44 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 18 May 2019 10:02:00 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - May 18, 2012: Facebook raises $16 billion in largest tech IPO in U.S. history]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/facebook-raises-16-billion-in-largest-tech-ipo-in-u-s-history'>https://www.history.com/this-day-in-history/facebook-raises-16-billion-in-largest-tech-ipo-in-u-s-history</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSatMay182019/today-in-history-e1433-Sat-May-18-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatMay182019/today-in-history-e1433-Sat-May-18-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sat, 18 May 2019 11:02:00 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSatMay182019/today-in-history-e1433-Sat-May-18-2019.mp3" length="1964617" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - May 18, 2012: Facebook raises $16 billion in largest tech IPO in U.S. history</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/facebook-raises-16-billion-in-largest-tech-ipo-in-u-s-history&apos;&gt;https://www.history.com/this-day-in-history/facebook-raises-16-billion-in-largest-tech-ipo-in-u-s-history&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - May 17, 2012: Donna Summer, queen of disco, dies]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/donna-summer-queen-of-disco-dies'>https://www.history.com/this-day-in-history/donna-summer-queen-of-disco-dies</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - May 19, 1935: Lawrence of Arabia dies</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/lawrence-of-arabia-dies&apos;&gt;http://www.history.com/this-day-in-history/lawrence-of-arabia-dies&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - May 18, 1920: Pope John Paul II born]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/pope-john-paul-ii-born'>http://www.history.com/this-day-in-history/pope-john-paul-ii-born</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastFriMay182018/today-in-history-e1078-Fri-May-18-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastFriMay182018/today-in-history-e1078-Fri-May-18-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Fri, 18 May 2018 14:17:00 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastFriMay182018/today-in-history-e1078-Fri-May-18-2018.mp3" length="2482259" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - May 18, 1920: Pope John Paul II born</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/pope-john-paul-ii-born&apos;&gt;http://www.history.com/this-day-in-history/pope-john-paul-ii-born&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
