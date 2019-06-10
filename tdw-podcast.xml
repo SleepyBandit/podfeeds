@@ -10,7 +10,7 @@
 			<link>https://patreon.com/autopod</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sun, 09 Jun 2019 09:16:37 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Jun 2019 09:16:59 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tdw-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -35,6 +35,23 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/dailywikipodcast.png"/>
+		<item>
+			<title><![CDATA[The Daily Wiki - June 10th 2019]]></title>
+			<description><![CDATA[<a href='http://en.wikipedia.org/wiki/Special:FeedItem/featured/20190610000000/en'>Source provided by Wikipedia.org</a><br><a href='https://www.patreon.com/autopod'>Support the show on Patreon!</a>]]></description>
+			<link>https://archive.org/download/thedailywikipodcastMonJun102019/tdw-e538-Mon-Jun-10-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/thedailywikipodcastMonJun102019/tdw-e538-Mon-Jun-10-2019.mp3</guid>
+			<category><![CDATA[Wiki]]></category>
+			<category><![CDATA[Wikipedia]]></category>
+			<category><![CDATA[Fact]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Mon, 10 Jun 2019 10:16:59 GMT</pubDate>
+			<enclosure url="https://archive.org/download/thedailywikipodcastMonJun102019/tdw-e538-Mon-Jun-10-2019.mp3" length="799764" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>The Daily Wiki - June 10th 2019</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;http://en.wikipedia.org/wiki/Special:FeedItem/featured/20190610000000/en&apos;&gt;Source provided by Wikipedia.org&lt;/a&gt;&lt;br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon!&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Fact</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[The Daily Wiki - June 9th 2019]]></title>
 			<description><![CDATA[<a href='http://en.wikipedia.org/wiki/Special:FeedItem/featured/20190609000000/en'>Source provided by Wikipedia.org</a><br><a href='https://www.patreon.com/autopod'>Support the show on Patreon!</a>]]></description>
@@ -6220,23 +6237,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>The Daily Wiki - June 9th 2018</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://en.wikipedia.org/wiki/Special:FeedItem/featured/20180609000000/en&apos;&gt;Source provided by Wikipedia.org&lt;/a&gt;&lt;br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon!&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Fact</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[The Daily Wiki - June 8th 2018]]></title>
-			<description><![CDATA[<a href='https://en.wikipedia.org/wiki/Special:FeedItem/featured/20180608000000/en'>Source provided by Wikipedia.org</a><br><a href='https://www.patreon.com/autopod'>Support the show on Patreon!</a>]]></description>
-			<link>https://archive.org/download/thedailywikipodcastFriJun082018/tdw-e171-Fri-Jun-08-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/thedailywikipodcastFriJun082018/tdw-e171-Fri-Jun-08-2018.mp3</guid>
-			<category><![CDATA[Wiki]]></category>
-			<category><![CDATA[Wikipedia]]></category>
-			<category><![CDATA[Fact]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Fri, 08 Jun 2018 10:16:34 GMT</pubDate>
-			<enclosure url="https://archive.org/download/thedailywikipodcastFriJun082018/tdw-e171-Fri-Jun-08-2018.mp3" length="781583" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>The Daily Wiki - June 8th 2018</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://en.wikipedia.org/wiki/Special:FeedItem/featured/20180608000000/en&apos;&gt;Source provided by Wikipedia.org&lt;/a&gt;&lt;br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon!&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Fact</itunes:keywords>
 		</item>
