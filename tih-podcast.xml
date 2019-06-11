@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Mon, 10 Jun 2019 10:01:46 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 11 Jun 2019 10:01:44 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - June 11, 1943: Mobster Henry Hill, inspiration for “Goodfellas,” is born]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/mobster-henry-hill-inspiration-for-goodfellas-is-born'>https://www.history.com/this-day-in-history/mobster-henry-hill-inspiration-for-goodfellas-is-born</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1457-Tue-Jun-11-2019.mp3</link>
+			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1457-Tue-Jun-11-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Tue, 11 Jun 2019 11:01:44 GMT</pubDate>
+			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1457-Tue-Jun-11-2019.mp3" length="1923239" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - June 11, 1943: Mobster Henry Hill, inspiration for “Goodfellas,” is born</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/mobster-henry-hill-inspiration-for-goodfellas-is-born&apos;&gt;https://www.history.com/this-day-in-history/mobster-henry-hill-inspiration-for-goodfellas-is-born&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - June 10, 1928: “Where the Wild Things Are” author Maurice Sendak is born]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/where-the-wild-things-are-author-maurice-sendak-is-born'>https://www.history.com/this-day-in-history/where-the-wild-things-are-author-maurice-sendak-is-born</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - June 12, 1987: Reagan challenges Gorbachev</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/reagan-challenges-gorbachev&apos;&gt;http://www.history.com/this-day-in-history/reagan-challenges-gorbachev&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - June 11, 1979: John Wayne dies]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/john-wayne-dies'>http://www.history.com/this-day-in-history/john-wayne-dies</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastMonJun112018/today-in-history-e1102-Mon-Jun-11-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonJun112018/today-in-history-e1102-Mon-Jun-11-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Mon, 11 Jun 2018 14:16:49 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastMonJun112018/today-in-history-e1102-Mon-Jun-11-2018.mp3" length="1732858" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - June 11, 1979: John Wayne dies</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/john-wayne-dies&apos;&gt;http://www.history.com/this-day-in-history/john-wayne-dies&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
