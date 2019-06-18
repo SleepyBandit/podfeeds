@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Mon, 17 Jun 2019 10:01:36 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 18 Jun 2019 10:02:10 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - June 18, 1815: Napoleon defeated at Waterloo]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/napoleon-defeated-at-waterloo'>https://www.history.com/this-day-in-history/napoleon-defeated-at-waterloo</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastTueJun182019/today-in-history-e1464-Tue-Jun-18-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastTueJun182019/today-in-history-e1464-Tue-Jun-18-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Tue, 18 Jun 2019 11:02:10 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastTueJun182019/today-in-history-e1464-Tue-Jun-18-2019.mp3" length="2357916" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - June 18, 1815: Napoleon defeated at Waterloo</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/napoleon-defeated-at-waterloo&apos;&gt;https://www.history.com/this-day-in-history/napoleon-defeated-at-waterloo&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - June 17, 1940: France to surrender]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/france-to-surrender'>https://www.history.com/this-day-in-history/france-to-surrender</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - June 19, 1953: Rosenbergs executed</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/rosenbergs-executed&apos;&gt;http://www.history.com/this-day-in-history/rosenbergs-executed&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - June 18, 1812: War of 1812 begins]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/war-of-1812-begins'>http://www.history.com/this-day-in-history/war-of-1812-begins</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastMonJun182018/today-in-history-e1109-Mon-Jun-18-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonJun182018/today-in-history-e1109-Mon-Jun-18-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Mon, 18 Jun 2018 14:16:42 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastMonJun182018/today-in-history-e1109-Mon-Jun-18-2018.mp3" length="1518027" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - June 18, 1812: War of 1812 begins</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/war-of-1812-begins&apos;&gt;http://www.history.com/this-day-in-history/war-of-1812-begins&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
