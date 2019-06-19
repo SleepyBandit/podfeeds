@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 18 Jun 2019 10:02:10 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Jun 2019 10:01:52 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - June 19, 2014: Felipe VI becomes king of Spain after Juan Carlos I abdicates]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/felipe-iv-king-of-spain-juan-carlos'>https://www.history.com/this-day-in-history/felipe-iv-king-of-spain-juan-carlos</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastWedJun192019/today-in-history-e1465-Wed-Jun-19-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedJun192019/today-in-history-e1465-Wed-Jun-19-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 19 Jun 2019 11:01:52 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastWedJun192019/today-in-history-e1465-Wed-Jun-19-2019.mp3" length="1736829" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - June 19, 2014: Felipe VI becomes king of Spain after Juan Carlos I abdicates</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/felipe-iv-king-of-spain-juan-carlos&apos;&gt;https://www.history.com/this-day-in-history/felipe-iv-king-of-spain-juan-carlos&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - June 18, 1815: Napoleon defeated at Waterloo]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/napoleon-defeated-at-waterloo'>https://www.history.com/this-day-in-history/napoleon-defeated-at-waterloo</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - June 20, 1975: Jaws released</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/jaws-released-2&apos;&gt;http://www.history.com/this-day-in-history/jaws-released-2&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - June 19, 1953: Rosenbergs executed]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/rosenbergs-executed'>http://www.history.com/this-day-in-history/rosenbergs-executed</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastTueJun192018/today-in-history-e1110-Tue-Jun-19-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastTueJun192018/today-in-history-e1110-Tue-Jun-19-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Tue, 19 Jun 2018 14:16:41 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastTueJun192018/today-in-history-e1110-Tue-Jun-19-2018.mp3" length="1700466" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - June 19, 1953: Rosenbergs executed</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/rosenbergs-executed&apos;&gt;http://www.history.com/this-day-in-history/rosenbergs-executed&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
