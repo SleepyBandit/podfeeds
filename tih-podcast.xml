@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Wed, 26 Jun 2019 10:01:49 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 27 Jun 2019 10:01:55 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - June 27, 1829: English scientist James Smithson establishes the Smithsonian Institution]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/smithsons-curious-bequest'>https://www.history.com/this-day-in-history/smithsons-curious-bequest</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastThuJun272019/today-in-history-e1473-Thu-Jun-27-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuJun272019/today-in-history-e1473-Thu-Jun-27-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Thu, 27 Jun 2019 11:01:55 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastThuJun272019/today-in-history-e1473-Thu-Jun-27-2019.mp3" length="1829825" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - June 27, 1829: English scientist James Smithson establishes the Smithsonian Institution</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/smithsons-curious-bequest&apos;&gt;https://www.history.com/this-day-in-history/smithsons-curious-bequest&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - June 26, 1862: Rebels strike Union at the Battle of Mechanicsville]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/rebels-strike-union-at-the-battle-of-mechanicsville'>https://www.history.com/this-day-in-history/rebels-strike-union-at-the-battle-of-mechanicsville</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - June 28, 1953: Workers assemble first Corvette in Flint, Michigan</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/workers-assemble-first-corvette-in-flint-michigan&apos;&gt;http://www.history.com/this-day-in-history/workers-assemble-first-corvette-in-flint-michigan&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - June 27, 1950: Truman orders U.S. forces to Korea]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/truman-orders-u-s-forces-to-korea-2'>http://www.history.com/this-day-in-history/truman-orders-u-s-forces-to-korea-2</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastWedJun272018/today-in-history-e1118-Wed-Jun-27-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedJun272018/today-in-history-e1118-Wed-Jun-27-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Wed, 27 Jun 2018 14:17:09 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastWedJun272018/today-in-history-e1118-Wed-Jun-27-2018.mp3" length="2893113" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - June 27, 1950: Truman orders U.S. forces to Korea</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/truman-orders-u-s-forces-to-korea-2&apos;&gt;http://www.history.com/this-day-in-history/truman-orders-u-s-forces-to-korea-2&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
