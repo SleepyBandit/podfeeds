@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Thu, 04 Jul 2019 10:01:50 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 05 Jul 2019 10:01:53 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - July 05, 1950: First U.S. fatality in the Korean War]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/first-u-s-fatality-in-the-korean-war'>https://www.history.com/this-day-in-history/first-u-s-fatality-in-the-korean-war</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastFriJul052019/today-in-history-e1481-Fri-Jul-05-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastFriJul052019/today-in-history-e1481-Fri-Jul-05-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Fri, 05 Jul 2019 11:01:53 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastFriJul052019/today-in-history-e1481-Fri-Jul-05-2019.mp3" length="1820421" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - July 05, 1950: First U.S. fatality in the Korean War</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/first-u-s-fatality-in-the-korean-war&apos;&gt;https://www.history.com/this-day-in-history/first-u-s-fatality-in-the-korean-war&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - July 04, 1884: France gives the Statue of Liberty to the United States]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/france-gives-statue-of-liberty-to-united-states-friendship'>https://www.history.com/this-day-in-history/france-gives-statue-of-liberty-to-united-states-friendship</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - July 06, 1957: Althea Gibson is first African American to win Wimbledon</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/althea-gibson-is-first-african-american-to-win-wimbledon&apos;&gt;http://www.history.com/this-day-in-history/althea-gibson-is-first-african-american-to-win-wimbledon&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - July 05, 1946: Bikini introduced]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/bikini-introduced'>http://www.history.com/this-day-in-history/bikini-introduced</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastThuJul052018/today-in-history-e1126-Thu-Jul-05-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuJul052018/today-in-history-e1126-Thu-Jul-05-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Thu, 05 Jul 2018 14:16:48 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastThuJul052018/today-in-history-e1126-Thu-Jul-05-2018.mp3" length="1962527" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - July 05, 1946: Bikini introduced</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/bikini-introduced&apos;&gt;http://www.history.com/this-day-in-history/bikini-introduced&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
