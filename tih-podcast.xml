@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Wed, 10 Jul 2019 10:01:34 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 11 Jul 2019 10:01:33 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - July 11, 1960: “To Kill a Mockingbird” published]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/harper-lee-to-kill-a-mockingbird-published'>https://www.history.com/this-day-in-history/harper-lee-to-kill-a-mockingbird-published</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1487-Thu-Jul-11-2019.mp3</link>
+			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1487-Thu-Jul-11-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Thu, 11 Jul 2019 11:01:33 GMT</pubDate>
+			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1487-Thu-Jul-11-2019.mp3" length="1595141" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - July 11, 1960: “To Kill a Mockingbird” published</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/harper-lee-to-kill-a-mockingbird-published&apos;&gt;https://www.history.com/this-day-in-history/harper-lee-to-kill-a-mockingbird-published&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - July 10, 2018: Last of Thai soccer team rescued from cave]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/thai-soccer-team-rescued-from-cave'>https://www.history.com/this-day-in-history/thai-soccer-team-rescued-from-cave</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - July 12, 1984: Ferraro named vice presidential candidate</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/ferraro-named-vice-presidential-candidate&apos;&gt;http://www.history.com/this-day-in-history/ferraro-named-vice-presidential-candidate&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - July 11, 1804: Burr slays Hamilton in duel]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/burr-slays-hamilton-in-duel'>http://www.history.com/this-day-in-history/burr-slays-hamilton-in-duel</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastWedJul112018/today-in-history-e1132-Wed-Jul-11-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedJul112018/today-in-history-e1132-Wed-Jul-11-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Wed, 11 Jul 2018 14:17:37 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastWedJul112018/today-in-history-e1132-Wed-Jul-11-2018.mp3" length="3436251" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - July 11, 1804: Burr slays Hamilton in duel</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/burr-slays-hamilton-in-duel&apos;&gt;http://www.history.com/this-day-in-history/burr-slays-hamilton-in-duel&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
