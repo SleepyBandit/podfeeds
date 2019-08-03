@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Fri, 02 Aug 2019 10:02:55 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 03 Aug 2019 10:01:40 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - August 03, 1923: Calvin Coolidge takes oath of office after Warren G. Harding’s death]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/calvin-coolidge-takes-oath-of-office-after-hardings-death'>https://www.history.com/this-day-in-history/calvin-coolidge-takes-oath-of-office-after-hardings-death</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1510-Sat-Aug-03-2019.mp3</link>
+			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1510-Sat-Aug-03-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sat, 03 Aug 2019 11:01:40 GMT</pubDate>
+			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1510-Sat-Aug-03-2019.mp3" length="1841528" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - August 03, 1923: Calvin Coolidge takes oath of office after Warren G. Harding’s death</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/calvin-coolidge-takes-oath-of-office-after-hardings-death&apos;&gt;https://www.history.com/this-day-in-history/calvin-coolidge-takes-oath-of-office-after-hardings-death&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - August 02, 1934: Hitler becomes fuhrer]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/hitler-becomes-fuhrer'>https://www.history.com/this-day-in-history/hitler-becomes-fuhrer</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - August 04, 1944: Anne Frank captured</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/anne-frank-captured&apos;&gt;http://www.history.com/this-day-in-history/anne-frank-captured&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - August 03, 1958: Nautilus travels under North Pole]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/nautilus-travels-under-north-pole'>http://www.history.com/this-day-in-history/nautilus-travels-under-north-pole</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastFriAug032018/today-in-history-e1155-Fri-Aug-03-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastFriAug032018/today-in-history-e1155-Fri-Aug-03-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Fri, 03 Aug 2018 14:16:50 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastFriAug032018/today-in-history-e1155-Fri-Aug-03-2018.mp3" length="2143712" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - August 03, 1958: Nautilus travels under North Pole</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/nautilus-travels-under-north-pole&apos;&gt;http://www.history.com/this-day-in-history/nautilus-travels-under-north-pole&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
