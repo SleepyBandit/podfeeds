@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Wed, 07 Aug 2019 10:01:24 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 08 Aug 2019 10:01:36 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - August 08, 1844: Brigham Young chosen to lead Mormon Church]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/brigham-young-chosen-to-lead-mormon-church'>https://www.history.com/this-day-in-history/brigham-young-chosen-to-lead-mormon-church</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastThuAug082019/today-in-history-e1515-Thu-Aug-08-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuAug082019/today-in-history-e1515-Thu-Aug-08-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Thu, 08 Aug 2019 11:01:36 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastThuAug082019/today-in-history-e1515-Thu-Aug-08-2019.mp3" length="1238413" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - August 08, 1844: Brigham Young chosen to lead Mormon Church</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/brigham-young-chosen-to-lead-mormon-church&apos;&gt;https://www.history.com/this-day-in-history/brigham-young-chosen-to-lead-mormon-church&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - August 07, 1959: The first U.S. satellite to photograph the Earth is launched]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/u-s-satellite-photographs-earth'>https://www.history.com/this-day-in-history/u-s-satellite-photographs-earth</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - August 09, 1974: Unusual succession makes Ford president</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/unusual-succession-makes-ford-president&apos;&gt;http://www.history.com/this-day-in-history/unusual-succession-makes-ford-president&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - August 08, 1974: Nixon resigns]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/nixon-resigns'>http://www.history.com/this-day-in-history/nixon-resigns</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastWedAug082018/today-in-history-e1160-Wed-Aug-08-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedAug082018/today-in-history-e1160-Wed-Aug-08-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Wed, 08 Aug 2018 14:17:02 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastWedAug082018/today-in-history-e1160-Wed-Aug-08-2018.mp3" length="2312986" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - August 08, 1974: Nixon resigns</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/nixon-resigns&apos;&gt;http://www.history.com/this-day-in-history/nixon-resigns&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
