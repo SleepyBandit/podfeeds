@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sun, 11 Aug 2019 10:01:45 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Aug 2019 10:01:56 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - August 12, 2014: Hollywood icon Lauren Bacall dies]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/hollywood-icon-lauren-bacall-dies'>https://www.history.com/this-day-in-history/hollywood-icon-lauren-bacall-dies</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastMonAug122019/today-in-history-e1519-Mon-Aug-12-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonAug122019/today-in-history-e1519-Mon-Aug-12-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Mon, 12 Aug 2019 11:01:56 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastMonAug122019/today-in-history-e1519-Mon-Aug-12-2019.mp3" length="1961273" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - August 12, 2014: Hollywood icon Lauren Bacall dies</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/hollywood-icon-lauren-bacall-dies&apos;&gt;https://www.history.com/this-day-in-history/hollywood-icon-lauren-bacall-dies&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - August 11, 2014: Oscar-winning actor Robin Williams dies at 63]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/oscar-winning-actor-robin-williams-dies-at-63'>https://www.history.com/this-day-in-history/oscar-winning-actor-robin-williams-dies-at-63</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - August 13, 1961: Berlin is divided</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/berlin-is-divided&apos;&gt;http://www.history.com/this-day-in-history/berlin-is-divided&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - August 12, 1990: Skeleton of Tyrannosaurus rex discovered]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/skeleton-of-tyrannosaurus-rex-discovered'>http://www.history.com/this-day-in-history/skeleton-of-tyrannosaurus-rex-discovered</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSunAug122018/today-in-history-e1164-Sun-Aug-12-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSunAug122018/today-in-history-e1164-Sun-Aug-12-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sun, 12 Aug 2018 14:16:38 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSunAug122018/today-in-history-e1164-Sun-Aug-12-2018.mp3" length="1625861" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - August 12, 1990: Skeleton of Tyrannosaurus rex discovered</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/skeleton-of-tyrannosaurus-rex-discovered&apos;&gt;http://www.history.com/this-day-in-history/skeleton-of-tyrannosaurus-rex-discovered&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
