@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Mon, 12 Aug 2019 10:01:56 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Aug 2019 10:01:54 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - August 13, 1981: Reagan signs Economic Recovery Tax Act (ERTA)]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/reagan-signs-economic-recovery-tax-act-erta'>https://www.history.com/this-day-in-history/reagan-signs-economic-recovery-tax-act-erta</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastTueAug132019/today-in-history-e1520-Tue-Aug-13-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastTueAug132019/today-in-history-e1520-Tue-Aug-13-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Tue, 13 Aug 2019 11:01:54 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastTueAug132019/today-in-history-e1520-Tue-Aug-13-2019.mp3" length="1855111" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - August 13, 1981: Reagan signs Economic Recovery Tax Act (ERTA)</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/reagan-signs-economic-recovery-tax-act-erta&apos;&gt;https://www.history.com/this-day-in-history/reagan-signs-economic-recovery-tax-act-erta&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - August 12, 2014: Hollywood icon Lauren Bacall dies]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/hollywood-icon-lauren-bacall-dies'>https://www.history.com/this-day-in-history/hollywood-icon-lauren-bacall-dies</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - August 14, 2003: Blackout hits Northeast United States</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/blackout-hits-northeast-united-states&apos;&gt;http://www.history.com/this-day-in-history/blackout-hits-northeast-united-states&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - August 13, 1961: Berlin is divided]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/berlin-is-divided'>http://www.history.com/this-day-in-history/berlin-is-divided</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastMonAug132018/today-in-history-e1165-Mon-Aug-13-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonAug132018/today-in-history-e1165-Mon-Aug-13-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Mon, 13 Aug 2018 14:16:53 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastMonAug132018/today-in-history-e1165-Mon-Aug-13-2018.mp3" length="1977573" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - August 13, 1961: Berlin is divided</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/berlin-is-divided&apos;&gt;http://www.history.com/this-day-in-history/berlin-is-divided&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
