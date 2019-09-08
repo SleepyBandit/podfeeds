@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sat, 07 Sep 2019 10:01:39 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 08 Sep 2019 10:01:17 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - September 08, 1504: Michelangelo’s statue of David is unveiled to the public]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/michelangelo-statue-of-david-unveiled-to-public'>https://www.history.com/this-day-in-history/michelangelo-statue-of-david-unveiled-to-public</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1546-Sun-Sep-08-2019.mp3</link>
+			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1546-Sun-Sep-08-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sun, 08 Sep 2019 11:01:17 GMT</pubDate>
+			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1546-Sun-Sep-08-2019.mp3" length="1215425" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - September 08, 1504: Michelangelo’s statue of David is unveiled to the public</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/michelangelo-statue-of-david-unveiled-to-public&apos;&gt;https://www.history.com/this-day-in-history/michelangelo-statue-of-david-unveiled-to-public&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - September 07, 1977: Carter agrees to transfer Panama Canal to Panama]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/carter-agrees-to-transfer-panama-canal-to-panama'>https://www.history.com/this-day-in-history/carter-agrees-to-transfer-panama-canal-to-panama</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - September 09, 1893: President’s child born in White House</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/presidents-child-born-in-white-house&apos;&gt;http://www.history.com/this-day-in-history/presidents-child-born-in-white-house&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - September 08, 1974: Ford pardons Nixon]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/ford-pardons-nixon'>http://www.history.com/this-day-in-history/ford-pardons-nixon</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSatSep082018/today-in-history-e1191-Sat-Sep-08-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatSep082018/today-in-history-e1191-Sat-Sep-08-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sat, 08 Sep 2018 14:16:31 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSatSep082018/today-in-history-e1191-Sat-Sep-08-2018.mp3" length="1479366" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - September 08, 1974: Ford pardons Nixon</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/ford-pardons-nixon&apos;&gt;http://www.history.com/this-day-in-history/ford-pardons-nixon&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
