@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 24 Sep 2019 10:02:13 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Sep 2019 10:01:37 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - September 25, 1789: Bill of Rights passes Congress]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/bill-of-rights-passes-congress'>https://www.history.com/this-day-in-history/bill-of-rights-passes-congress</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastWedSep252019/today-in-history-e1563-Wed-Sep-25-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedSep252019/today-in-history-e1563-Wed-Sep-25-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 25 Sep 2019 11:01:37 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastWedSep252019/today-in-history-e1563-Wed-Sep-25-2019.mp3" length="1282507" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - September 25, 1789: Bill of Rights passes Congress</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/bill-of-rights-passes-congress&apos;&gt;https://www.history.com/this-day-in-history/bill-of-rights-passes-congress&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - September 24, 622: Muhammad completes Hegira]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/muhammad-completes-hegira'>https://www.history.com/this-day-in-history/muhammad-completes-hegira</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - September 26, 1960: First Kennedy-Nixon debate</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/first-kennedy-nixon-debate&apos;&gt;http://www.history.com/this-day-in-history/first-kennedy-nixon-debate&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - September 25, 1957: Central High School integrated]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/central-high-school-integrated'>https://www.history.com/this-day-in-history/central-high-school-integrated</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastTueSep252018/today-in-history-Tue-Sep-25-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastTueSep252018/today-in-history-Tue-Sep-25-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Tue, 25 Sep 2018 14:17:13 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastTueSep252018/today-in-history-Tue-Sep-25-2018.mp3" length="3384424" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - September 25, 1957: Central High School integrated</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/central-high-school-integrated&apos;&gt;https://www.history.com/this-day-in-history/central-high-school-integrated&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
