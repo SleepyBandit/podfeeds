@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Wed, 25 Sep 2019 10:01:37 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 26 Sep 2019 10:01:35 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - September 26, 1580: Francis Drake circumnavigates the globe]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/drake-circumnavigates-the-globe'>https://www.history.com/this-day-in-history/drake-circumnavigates-the-globe</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastThuSep262019/today-in-history-e1564-Thu-Sep-26-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuSep262019/today-in-history-e1564-Thu-Sep-26-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Thu, 26 Sep 2019 11:01:35 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastThuSep262019/today-in-history-e1564-Thu-Sep-26-2019.mp3" length="1290866" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - September 26, 1580: Francis Drake circumnavigates the globe</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/drake-circumnavigates-the-globe&apos;&gt;https://www.history.com/this-day-in-history/drake-circumnavigates-the-globe&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - September 25, 1789: Bill of Rights passes Congress]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/bill-of-rights-passes-congress'>https://www.history.com/this-day-in-history/bill-of-rights-passes-congress</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - September 27, 1540: Jesuit order established</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/jesuit-order-established&apos;&gt;https://www.history.com/this-day-in-history/jesuit-order-established&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - September 26, 1960: First Kennedy-Nixon debate]]></title>
-			<description><![CDATA[<a href='http://www.history.com/this-day-in-history/first-kennedy-nixon-debate'>http://www.history.com/this-day-in-history/first-kennedy-nixon-debate</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastWedSep262018/today-in-history-Wed-Sep-26-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedSep262018/today-in-history-Wed-Sep-26-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Wed, 26 Sep 2018 14:16:03 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastWedSep262018/today-in-history-Wed-Sep-26-2018.mp3" length="1164852" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - September 26, 1960: First Kennedy-Nixon debate</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;http://www.history.com/this-day-in-history/first-kennedy-nixon-debate&apos;&gt;http://www.history.com/this-day-in-history/first-kennedy-nixon-debate&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
