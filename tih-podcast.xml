@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Fri, 27 Sep 2019 10:01:42 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 28 Sep 2019 10:01:46 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - September 28, 1994: Passenger ferry, Estonia, sinks, killing 852]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/estonia-sinks'>https://www.history.com/this-day-in-history/estonia-sinks</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSatSep282019/today-in-history-e1566-Sat-Sep-28-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatSep282019/today-in-history-e1566-Sat-Sep-28-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sat, 28 Sep 2019 11:01:46 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSatSep282019/today-in-history-e1566-Sat-Sep-28-2019.mp3" length="1492950" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - September 28, 1994: Passenger ferry, Estonia, sinks, killing 852</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/estonia-sinks&apos;&gt;https://www.history.com/this-day-in-history/estonia-sinks&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - September 27, 1540: Jesuit order established]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/jesuit-order-established'>https://www.history.com/this-day-in-history/jesuit-order-established</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - September 29, 1864: Battle of New Market Heights (Chaffin’s Farm/Fort Harrison)</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/battle-of-new-market-heights-chaffins-farmfort-harrison&apos;&gt;https://www.history.com/this-day-in-history/battle-of-new-market-heights-chaffins-farmfort-harrison&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - September 28, 1066: William the Conqueror invades England]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/william-the-conqueror-invades-england'>https://www.history.com/this-day-in-history/william-the-conqueror-invades-england</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastFriSep282018/today-in-history-e1202-Fri-Sep-28-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastFriSep282018/today-in-history-e1202-Fri-Sep-28-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Fri, 28 Sep 2018 14:16:25 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastFriSep282018/today-in-history-e1202-Fri-Sep-28-2018.mp3" length="1906938" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - September 28, 1066: William the Conqueror invades England</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/william-the-conqueror-invades-england&apos;&gt;https://www.history.com/this-day-in-history/william-the-conqueror-invades-england&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
