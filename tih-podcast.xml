@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sun, 29 Sep 2019 10:01:43 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 30 Sep 2019 10:01:45 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - September 30, 1928: Elie Wiesel, Holocaust survivor and best-selling author, is born]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/elie-wiesel-holocaust-survivor-and-best-selling-author-is-born'>https://www.history.com/this-day-in-history/elie-wiesel-holocaust-survivor-and-best-selling-author-is-born</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastMonSep302019/today-in-history-e1568-Mon-Sep-30-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonSep302019/today-in-history-e1568-Mon-Sep-30-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Mon, 30 Sep 2019 11:01:45 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastMonSep302019/today-in-history-e1568-Mon-Sep-30-2019.mp3" length="1656372" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - September 30, 1928: Elie Wiesel, Holocaust survivor and best-selling author, is born</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/elie-wiesel-holocaust-survivor-and-best-selling-author-is-born&apos;&gt;https://www.history.com/this-day-in-history/elie-wiesel-holocaust-survivor-and-best-selling-author-is-born&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - September 29, 1995: Hispanic-American voting rights advocate Willie Velasquez awarded Presidential Medal of Freedom]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/hispanic-american-activist-willie-velasquez-presidential-medal-freedom'>https://www.history.com/this-day-in-history/hispanic-american-activist-willie-velasquez-presidential-medal-freedom</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - October 01, 2013: Tom Clancy, author of mega-selling techno thrillers, dies</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/tom-clancy-author-of-mega-selling-techno-thrillers-dies&apos;&gt;https://www.history.com/this-day-in-history/tom-clancy-author-of-mega-selling-techno-thrillers-dies&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - September 30, 1928: Elie Wiesel, Holocaust survivor and best-selling author, is born]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/elie-wiesel-holocaust-survivor-and-best-selling-author-is-born'>https://www.history.com/this-day-in-history/elie-wiesel-holocaust-survivor-and-best-selling-author-is-born</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSunSep302018/today-in-history-e1204-Sun-Sep-30-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSunSep302018/today-in-history-e1204-Sun-Sep-30-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sun, 30 Sep 2018 11:01:53 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSunSep302018/today-in-history-e1204-Sun-Sep-30-2018.mp3" length="1610187" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - September 30, 1928: Elie Wiesel, Holocaust survivor and best-selling author, is born</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/elie-wiesel-holocaust-survivor-and-best-selling-author-is-born&apos;&gt;https://www.history.com/this-day-in-history/elie-wiesel-holocaust-survivor-and-best-selling-author-is-born&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
