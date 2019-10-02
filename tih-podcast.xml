@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 01 Oct 2019 10:01:22 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 02 Oct 2019 10:01:28 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - October 02, 1944: Warsaw Uprising ends]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/warsaw-uprising-ends'>https://www.history.com/this-day-in-history/warsaw-uprising-ends</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastWedOct022019/today-in-history-e1570-Wed-Oct-02-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedOct022019/today-in-history-e1570-Wed-Oct-02-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 02 Oct 2019 11:01:28 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastWedOct022019/today-in-history-e1570-Wed-Oct-02-2019.mp3" length="1090873" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - October 02, 1944: Warsaw Uprising ends</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/warsaw-uprising-ends&apos;&gt;https://www.history.com/this-day-in-history/warsaw-uprising-ends&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - October 01, 2005: Suicide bombers stage attacks in Bali]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/terrorists-strike-again-in-bali'>https://www.history.com/this-day-in-history/terrorists-strike-again-in-bali</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - October 03, 2011: Amanda Knox murder conviction overturned in Italy</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/amanda-knox-murder-conviction-overturned-in-italy&apos;&gt;https://www.history.com/this-day-in-history/amanda-knox-murder-conviction-overturned-in-italy&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - October 02, 1971: Rod Stewart earns his first #1 hit with “Maggie May”]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/rod-stewart-earns-his-first-1-hit-with-maggie-may'>https://www.history.com/this-day-in-history/rod-stewart-earns-his-first-1-hit-with-maggie-may</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1206-Tue-Oct-02-2018.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1206-Tue-Oct-02-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Tue, 02 Oct 2018 11:01:35 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1206-Tue-Oct-02-2018.mp3" length="1564630" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - October 02, 1971: Rod Stewart earns his first #1 hit with “Maggie May”</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/rod-stewart-earns-his-first-1-hit-with-maggie-may&apos;&gt;https://www.history.com/this-day-in-history/rod-stewart-earns-his-first-1-hit-with-maggie-may&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
