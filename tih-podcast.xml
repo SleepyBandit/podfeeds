@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 15 Oct 2019 10:01:34 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 16 Oct 2019 10:02:08 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - October 16, 1923: Walt Disney Company is founded]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/walt-disney-company-founded'>https://www.history.com/this-day-in-history/walt-disney-company-founded</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastWedOct162019/today-in-history-e1584-Wed-Oct-16-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedOct162019/today-in-history-e1584-Wed-Oct-16-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 16 Oct 2019 11:02:08 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastWedOct162019/today-in-history-e1584-Wed-Oct-16-2019.mp3" length="1594096" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - October 16, 1923: Walt Disney Company is founded</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/walt-disney-company-founded&apos;&gt;https://www.history.com/this-day-in-history/walt-disney-company-founded&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - October 15, 1945: Vichy leader executed for treason]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/vichy-leader-executed-for-treason'>https://www.history.com/this-day-in-history/vichy-leader-executed-for-treason</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - October 17, 1989: Earthquake rocks San Francisco</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/earthquake-rocks-san-francisco&apos;&gt;https://www.history.com/this-day-in-history/earthquake-rocks-san-francisco&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - October 16, 2011: IndyCar driver Dan Wheldon is killed in crash]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/indycar-driver-dan-wheldon-is-killed-in-crash'>https://www.history.com/this-day-in-history/indycar-driver-dan-wheldon-is-killed-in-crash</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastTueOct162018/today-in-history-e1219-Tue-Oct-16-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastTueOct162018/today-in-history-e1219-Tue-Oct-16-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Tue, 16 Oct 2018 11:01:58 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastTueOct162018/today-in-history-e1219-Tue-Oct-16-2018.mp3" length="1818540" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - October 16, 2011: IndyCar driver Dan Wheldon is killed in crash</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/indycar-driver-dan-wheldon-is-killed-in-crash&apos;&gt;https://www.history.com/this-day-in-history/indycar-driver-dan-wheldon-is-killed-in-crash&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
