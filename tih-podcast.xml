@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 22 Oct 2019 10:01:22 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 23 Oct 2019 10:01:39 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - October 23, 1989: Gas leak kills 23 at plastics factory]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/gas-leak-kills-23-at-plastics-factory'>https://www.history.com/this-day-in-history/gas-leak-kills-23-at-plastics-factory</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastWedOct232019/today-in-history-e1591-Wed-Oct-23-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedOct232019/today-in-history-e1591-Wed-Oct-23-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 23 Oct 2019 11:01:39 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastWedOct232019/today-in-history-e1591-Wed-Oct-23-2019.mp3" length="1502981" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - October 23, 1989: Gas leak kills 23 at plastics factory</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/gas-leak-kills-23-at-plastics-factory&apos;&gt;https://www.history.com/this-day-in-history/gas-leak-kills-23-at-plastics-factory&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - October 22, 1975: Gay sergeant challenges the Air Force]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/gay-sergeant-challenges-the-air-force'>https://www.history.com/this-day-in-history/gay-sergeant-challenges-the-air-force</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - October 24, 1945: U.N. formally established</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/u-n-formally-established&apos;&gt;https://www.history.com/this-day-in-history/u-n-formally-established&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - October 23, 1976: Chicago has its first #1 hit with “If You Leave Me Now”]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/chicago-has-its-first-1-hit-with-if-you-leave-me-now'>https://www.history.com/this-day-in-history/chicago-has-its-first-1-hit-with-if-you-leave-me-now</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1226-Tue-Oct-23-2018.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1226-Tue-Oct-23-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Tue, 23 Oct 2018 11:01:29 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1226-Tue-Oct-23-2018.mp3" length="1581139" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - October 23, 1976: Chicago has its first #1 hit with “If You Leave Me Now”</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/chicago-has-its-first-1-hit-with-if-you-leave-me-now&apos;&gt;https://www.history.com/this-day-in-history/chicago-has-its-first-1-hit-with-if-you-leave-me-now&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
