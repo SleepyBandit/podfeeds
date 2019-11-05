@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 05 Nov 2019 10:01:28 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 05 Nov 2019 10:02:28 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -51,7 +51,7 @@
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
 			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Tue, 05 Nov 2019 10:01:28 GMT</pubDate>
+			<pubDate>Tue, 05 Nov 2019 10:02:28 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueNov052019/today-in-history-e1604-Tue-Nov-05-2019.mp3" length="797884" type="audio/mpeg"/>
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - November 05, 1912: Woodrow Wilson wins landslide victory</itunes:subtitle>
