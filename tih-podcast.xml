@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Thu, 14 Nov 2019 10:01:47 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 15 Nov 2019 10:01:59 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - November 15, 1917: Georges Clemenceau named French prime minister]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/georges-clemenceau-named-french-prime-minister'>https://www.history.com/this-day-in-history/georges-clemenceau-named-french-prime-minister</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastFriNov152019/today-in-history-e1614-Fri-Nov-15-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastFriNov152019/today-in-history-e1614-Fri-Nov-15-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Fri, 15 Nov 2019 10:01:59 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastFriNov152019/today-in-history-e1614-Fri-Nov-15-2019.mp3" length="2033789" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - November 15, 1917: Georges Clemenceau named French prime minister</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/georges-clemenceau-named-french-prime-minister&apos;&gt;https://www.history.com/this-day-in-history/georges-clemenceau-named-french-prime-minister&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - November 14, 1965: Major battle erupts in the Ia Drang Valley]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/major-battle-erupts-in-the-ia-drang-valley'>https://www.history.com/this-day-in-history/major-battle-erupts-in-the-ia-drang-valley</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - November 16, 1988: Benazir Bhutto elected leader of Pakistan</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/benazir-bhutto-elected-leader-of-pakistan&apos;&gt;https://www.history.com/this-day-in-history/benazir-bhutto-elected-leader-of-pakistan&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - November 15, 1943: Leonard Bernstein’s Philharmonic debut makes front-page news]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/leonard-bernsteins-philharmonic-debut-makes-front-page-news'>https://www.history.com/this-day-in-history/leonard-bernsteins-philharmonic-debut-makes-front-page-news</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1249-Thu-Nov-15-2018.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1249-Thu-Nov-15-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Thu, 15 Nov 2018 10:01:32 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1249-Thu-Nov-15-2018.mp3" length="1604127" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - November 15, 1943: Leonard Bernstein’s Philharmonic debut makes front-page news</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/leonard-bernsteins-philharmonic-debut-makes-front-page-news&apos;&gt;https://www.history.com/this-day-in-history/leonard-bernsteins-philharmonic-debut-makes-front-page-news&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
