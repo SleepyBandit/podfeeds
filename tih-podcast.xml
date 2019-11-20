@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 19 Nov 2019 10:02:06 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 20 Nov 2019 10:01:29 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - November 20, 1947: Princess Elizabeth marries Philip Mountbatten]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/princess-elizabeth-marries-philip-mountbatten'>https://www.history.com/this-day-in-history/princess-elizabeth-marries-philip-mountbatten</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastWedNov202019/today-in-history-e1619-Wed-Nov-20-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedNov202019/today-in-history-e1619-Wed-Nov-20-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 20 Nov 2019 10:01:29 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastWedNov202019/today-in-history-e1619-Wed-Nov-20-2019.mp3" length="993071" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - November 20, 1947: Princess Elizabeth marries Philip Mountbatten</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/princess-elizabeth-marries-philip-mountbatten&apos;&gt;https://www.history.com/this-day-in-history/princess-elizabeth-marries-philip-mountbatten&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - November 19, 1942: Soviets launch counterattack at Stalingrad]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/soviet-counterattack-at-stalingrad'>https://www.history.com/this-day-in-history/soviet-counterattack-at-stalingrad</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - November 21, 1877: Edison’s first great invention</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/edisons-first-great-invention&apos;&gt;https://www.history.com/this-day-in-history/edisons-first-great-invention&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - November 20, 1948: American consul in China held “hostage” by communists]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/american-consul-in-china-held-hostage-by-communists'>https://www.history.com/this-day-in-history/american-consul-in-china-held-hostage-by-communists</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1254-Tue-Nov-20-2018.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1254-Tue-Nov-20-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Tue, 20 Nov 2018 10:01:29 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1254-Tue-Nov-20-2018.mp3" length="1612486" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - November 20, 1948: American consul in China held “hostage” by communists</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/american-consul-in-china-held-hostage-by-communists&apos;&gt;https://www.history.com/this-day-in-history/american-consul-in-china-held-hostage-by-communists&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
