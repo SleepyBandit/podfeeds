@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sat, 23 Nov 2019 10:01:18 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 24 Nov 2019 10:01:31 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - November 24, 1971: Hijacker and criminal mastermind D.B. Cooper parachutes out of plane]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/hijacker-parachutes-into-thunderstorm'>https://www.history.com/this-day-in-history/hijacker-parachutes-into-thunderstorm</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSunNov242019/today-in-history-e1623-Sun-Nov-24-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSunNov242019/today-in-history-e1623-Sun-Nov-24-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sun, 24 Nov 2019 10:01:31 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSunNov242019/today-in-history-e1623-Sun-Nov-24-2019.mp3" length="1209155" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - November 24, 1971: Hijacker and criminal mastermind D.B. Cooper parachutes out of plane</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/hijacker-parachutes-into-thunderstorm&apos;&gt;https://www.history.com/this-day-in-history/hijacker-parachutes-into-thunderstorm&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - November 23, 1876: “Boss” Tweed delivered to authorities]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/boss-tweed-delivered-to-authorities'>https://www.history.com/this-day-in-history/boss-tweed-delivered-to-authorities</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - November 25, 1951: Charlaine Harris, author of Sookie Stackhouse books, is born</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/charlaine-harris-author-of-sookie-stackhouse-books-is-born&apos;&gt;https://www.history.com/this-day-in-history/charlaine-harris-author-of-sookie-stackhouse-books-is-born&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - November 24, 2017: Terrorists Attack Mosque in Sinai, Egypt]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/terrorist-attack-sinai-mosque-egypt'>https://www.history.com/this-day-in-history/terrorist-attack-sinai-mosque-egypt</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSatNov242018/today-in-history-e1258-Sat-Nov-24-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatNov242018/today-in-history-e1258-Sat-Nov-24-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sat, 24 Nov 2018 10:01:41 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSatNov242018/today-in-history-e1258-Sat-Nov-24-2018.mp3" length="1385116" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - November 24, 2017: Terrorists Attack Mosque in Sinai, Egypt</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/terrorist-attack-sinai-mosque-egypt&apos;&gt;https://www.history.com/this-day-in-history/terrorist-attack-sinai-mosque-egypt&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
