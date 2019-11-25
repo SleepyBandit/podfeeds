@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sun, 24 Nov 2019 10:01:31 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 25 Nov 2019 10:01:35 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - November 25, 1963: JFK buried at Arlington National Cemetery]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/jfk-buried-at-arlington-national-cemetery'>https://www.history.com/this-day-in-history/jfk-buried-at-arlington-national-cemetery</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastMonNov252019/today-in-history-e1624-Mon-Nov-25-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonNov252019/today-in-history-e1624-Mon-Nov-25-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Mon, 25 Nov 2019 10:01:35 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastMonNov252019/today-in-history-e1624-Mon-Nov-25-2019.mp3" length="1287314" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - November 25, 1963: JFK buried at Arlington National Cemetery</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/jfk-buried-at-arlington-national-cemetery&apos;&gt;https://www.history.com/this-day-in-history/jfk-buried-at-arlington-national-cemetery&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - November 24, 1971: Hijacker and criminal mastermind D.B. Cooper parachutes out of plane]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/hijacker-parachutes-into-thunderstorm'>https://www.history.com/this-day-in-history/hijacker-parachutes-into-thunderstorm</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - November 26, 1922: Archaeologists enter tomb of King Tut</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/archaeologists-enter-tomb-of-king-tut&apos;&gt;https://www.history.com/this-day-in-history/archaeologists-enter-tomb-of-king-tut&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - November 25, 1951: Charlaine Harris, author of Sookie Stackhouse books, is born]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/charlaine-harris-author-of-sookie-stackhouse-books-is-born'>https://www.history.com/this-day-in-history/charlaine-harris-author-of-sookie-stackhouse-books-is-born</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSunNov252018/today-in-history-e1259-Sun-Nov-25-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSunNov252018/today-in-history-e1259-Sun-Nov-25-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sun, 25 Nov 2018 10:01:50 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSunNov252018/today-in-history-e1259-Sun-Nov-25-2018.mp3" length="1539970" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - November 25, 1951: Charlaine Harris, author of Sookie Stackhouse books, is born</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/charlaine-harris-author-of-sookie-stackhouse-books-is-born&apos;&gt;https://www.history.com/this-day-in-history/charlaine-harris-author-of-sookie-stackhouse-books-is-born&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
