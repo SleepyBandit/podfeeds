@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sat, 30 Nov 2019 10:01:49 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 01 Dec 2019 10:01:25 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - December 01, 1934: Russian revolutionary Sergei Kirov murdered]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/sergey-kirov-murdered'>https://www.history.com/this-day-in-history/sergey-kirov-murdered</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSunDec012019/today-in-history-e1630-Sun-Dec-01-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSunDec012019/today-in-history-e1630-Sun-Dec-01-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sun, 01 Dec 2019 10:01:25 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSunDec012019/today-in-history-e1630-Sun-Dec-01-2019.mp3" length="988682" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - December 01, 1934: Russian revolutionary Sergei Kirov murdered</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/sergey-kirov-murdered&apos;&gt;https://www.history.com/this-day-in-history/sergey-kirov-murdered&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - November 30, 1874: Winston Churchill born]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/winston-churchill-born'>https://www.history.com/this-day-in-history/winston-churchill-born</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - December 02, 1972: The Temptations earn their final #1 hit with “Papa Was A Rolling Stone”</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/the-temptations-earn-their-final-1-hit-with-papa-was-a-rolling-stone&apos;&gt;https://www.history.com/this-day-in-history/the-temptations-earn-their-final-1-hit-with-papa-was-a-rolling-stone&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - December 01, 2004: Defense presents its case in Hamptons murder trial]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/defense-presents-its-case-in-hamptons-murder-trial'>https://www.history.com/this-day-in-history/defense-presents-its-case-in-hamptons-murder-trial</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSatDec012018/today-in-history-e1265-Sat-Dec-01-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatDec012018/today-in-history-e1265-Sat-Dec-01-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sat, 01 Dec 2018 10:01:55 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSatDec012018/today-in-history-e1265-Sat-Dec-01-2018.mp3" length="1842573" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - December 01, 2004: Defense presents its case in Hamptons murder trial</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/defense-presents-its-case-in-hamptons-murder-trial&apos;&gt;https://www.history.com/this-day-in-history/defense-presents-its-case-in-hamptons-murder-trial&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
