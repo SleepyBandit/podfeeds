@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Mon, 02 Dec 2019 10:01:41 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 03 Dec 2019 10:01:38 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2019]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - December 03, 1818: Illinois becomes the 21st state]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/illinois-becomes-the-21st-state'>https://www.history.com/this-day-in-history/illinois-becomes-the-21st-state</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastTueDec032019/today-in-history-e1632-Tue-Dec-03-2019.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastTueDec032019/today-in-history-e1632-Tue-Dec-03-2019.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Tue, 03 Dec 2019 10:01:38 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastTueDec032019/today-in-history-e1632-Tue-Dec-03-2019.mp3" length="1497756" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - December 03, 1818: Illinois becomes the 21st state</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/illinois-becomes-the-21st-state&apos;&gt;https://www.history.com/this-day-in-history/illinois-becomes-the-21st-state&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - December 02, 1859: Abolitionist John Brown is hanged]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/john-brown-hanged'>https://www.history.com/this-day-in-history/john-brown-hanged</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - December 04, 2012: Typhoon &quot;Pablo&quot; Kills over 1,000 People in the Philippines</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/typhoon-bopha-pablo-philippines&apos;&gt;https://www.history.com/this-day-in-history/typhoon-bopha-pablo-philippines&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - December 03, 1967: First human heart transplant]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/first-human-heart-transplant'>https://www.history.com/this-day-in-history/first-human-heart-transplant</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastMonDec032018/today-in-history-e1267-Mon-Dec-03-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonDec032018/today-in-history-e1267-Mon-Dec-03-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Mon, 03 Dec 2018 10:01:35 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastMonDec032018/today-in-history-e1267-Mon-Dec-03-2018.mp3" length="1171539" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - December 03, 1967: First human heart transplant</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/first-human-heart-transplant&apos;&gt;https://www.history.com/this-day-in-history/first-human-heart-transplant&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
