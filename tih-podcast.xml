@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sat, 18 Jan 2020 10:01:23 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 19 Jan 2020 10:01:23 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - January 19, 1993: Fleetwood Mac reunites to play “Don’t Stop” at Bill Clinton’s first inaugural ball]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/fleetwood-mac-reunite-to-play-dont-stop-at-bill-clintons-first-inaugural-gala'>https://www.history.com/this-day-in-history/fleetwood-mac-reunite-to-play-dont-stop-at-bill-clintons-first-inaugural-gala</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1679-Sun-Jan-19-2020.mp3</link>
+			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1679-Sun-Jan-19-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sun, 19 Jan 2020 10:01:23 GMT</pubDate>
+			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1679-Sun-Jan-19-2020.mp3" length="1397237" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - January 19, 1993: Fleetwood Mac reunites to play “Don’t Stop” at Bill Clinton’s first inaugural ball</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/fleetwood-mac-reunite-to-play-dont-stop-at-bill-clintons-first-inaugural-gala&apos;&gt;https://www.history.com/this-day-in-history/fleetwood-mac-reunite-to-play-dont-stop-at-bill-clintons-first-inaugural-gala&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - January 18, 1975: “Mandy” is Barry Manilow’s first #1 pop hit]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/mandy-is-barry-manilows-first-1-pop-hit'>https://www.history.com/this-day-in-history/mandy-is-barry-manilows-first-1-pop-hit</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - January 20, 2017: Donald Trump is inaugurated</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/donald-trump-is-inaugurated&apos;&gt;https://www.history.com/this-day-in-history/donald-trump-is-inaugurated&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - January 19, 1993: Fleetwood Mac reunite to play “Don’t Stop” at Bill Clinton’s first Inaugural gala]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/fleetwood-mac-reunite-to-play-dont-stop-at-bill-clintons-first-inaugural-gala'>https://www.history.com/this-day-in-history/fleetwood-mac-reunite-to-play-dont-stop-at-bill-clintons-first-inaugural-gala</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1314-Sat-Jan-19-2019.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1314-Sat-Jan-19-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sat, 19 Jan 2019 10:01:27 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1314-Sat-Jan-19-2019.mp3" length="1393684" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - January 19, 1993: Fleetwood Mac reunite to play “Don’t Stop” at Bill Clinton’s first Inaugural gala</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/fleetwood-mac-reunite-to-play-dont-stop-at-bill-clintons-first-inaugural-gala&apos;&gt;https://www.history.com/this-day-in-history/fleetwood-mac-reunite-to-play-dont-stop-at-bill-clintons-first-inaugural-gala&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
