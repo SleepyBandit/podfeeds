@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Wed, 22 Jan 2020 10:01:41 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 23 Jan 2020 10:01:53 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - January 23, 1849: Elizabeth Blackwell becomes the first woman to receive a medical degree]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/elizabeth-blackwell-becomes-first-woman-to-receive-medical-degree'>https://www.history.com/this-day-in-history/elizabeth-blackwell-becomes-first-woman-to-receive-medical-degree</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastThuJan232020/today-in-history-e1683-Thu-Jan-23-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuJan232020/today-in-history-e1683-Thu-Jan-23-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Thu, 23 Jan 2020 10:01:53 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastThuJan232020/today-in-history-e1683-Thu-Jan-23-2020.mp3" length="1957302" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - January 23, 1849: Elizabeth Blackwell becomes the first woman to receive a medical degree</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/elizabeth-blackwell-becomes-first-woman-to-receive-medical-degree&apos;&gt;https://www.history.com/this-day-in-history/elizabeth-blackwell-becomes-first-woman-to-receive-medical-degree&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - January 22, 2003: Hispanics are officially declared the largest minority group in the U.S.]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/census-hispanics-declared-largest-minority-group-in-us'>https://www.history.com/this-day-in-history/census-hispanics-declared-largest-minority-group-in-us</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - January 24, 1965: Winston Churchill dies</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/winston-churchill-dies&apos;&gt;https://www.history.com/this-day-in-history/winston-churchill-dies&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - January 23, 1968: USS Pueblo captured]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/uss-pueblo-captured'>https://www.history.com/this-day-in-history/uss-pueblo-captured</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastWedJan232019/today-in-history-e1318-Wed-Jan-23-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedJan232019/today-in-history-e1318-Wed-Jan-23-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Wed, 23 Jan 2019 10:01:48 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastWedJan232019/today-in-history-e1318-Wed-Jan-23-2019.mp3" length="1880816" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - January 23, 1968: USS Pueblo captured</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/uss-pueblo-captured&apos;&gt;https://www.history.com/this-day-in-history/uss-pueblo-captured&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
