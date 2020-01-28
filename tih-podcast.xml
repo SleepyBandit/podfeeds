@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Mon, 27 Jan 2020 10:01:28 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 28 Jan 2020 10:01:28 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - January 28, 1985: Music stars gather to record “We Are the World”]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/american-recording-artists-gather-to-record-we-are-the-world'>https://www.history.com/this-day-in-history/american-recording-artists-gather-to-record-we-are-the-world</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1688-Tue-Jan-28-2020.mp3</link>
+			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1688-Tue-Jan-28-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Tue, 28 Jan 2020 10:01:28 GMT</pubDate>
+			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1688-Tue-Jan-28-2020.mp3" length="1521580" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - January 28, 1985: Music stars gather to record “We Are the World”</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/american-recording-artists-gather-to-record-we-are-the-world&apos;&gt;https://www.history.com/this-day-in-history/american-recording-artists-gather-to-record-we-are-the-world&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - January 27, 1967: Astronauts die in launch pad fire]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/astronauts-die-in-launch-pad-fire'>https://www.history.com/this-day-in-history/astronauts-die-in-launch-pad-fire</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - January 29, 1891: Liliuokalani proclaimed queen of Hawaii</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/liliuokalani-proclaimed-queen-of-hawaii&apos;&gt;https://www.history.com/this-day-in-history/liliuokalani-proclaimed-queen-of-hawaii&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - January 28, 1985: American Recording Artists Gather to Record 'We Are the World']]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/american-recording-artists-gather-to-record-we-are-the-world'>https://www.history.com/this-day-in-history/american-recording-artists-gather-to-record-we-are-the-world</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastMonJan282019/today-in-history-e1323-Mon-Jan-28-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonJan282019/today-in-history-e1323-Mon-Jan-28-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Mon, 28 Jan 2019 10:01:41 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastMonJan282019/today-in-history-e1323-Mon-Jan-28-2019.mp3" length="1526804" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - January 28, 1985: American Recording Artists Gather to Record &apos;We Are the World&apos;</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/american-recording-artists-gather-to-record-we-are-the-world&apos;&gt;https://www.history.com/this-day-in-history/american-recording-artists-gather-to-record-we-are-the-world&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
