@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Wed, 29 Jan 2020 10:01:43 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 30 Jan 2020 10:01:43 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - January 30, 1956: Martin Luther King, Jr.'s home is bombed]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/martin-luther-king-jr-home-bombed-montgomery'>https://www.history.com/this-day-in-history/martin-luther-king-jr-home-bombed-montgomery</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastThuJan302020/today-in-history-e1690-Thu-Jan-30-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuJan302020/today-in-history-e1690-Thu-Jan-30-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Thu, 30 Jan 2020 10:01:43 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastThuJan302020/today-in-history-e1690-Thu-Jan-30-2020.mp3" length="1639862" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - January 30, 1956: Martin Luther King, Jr.&apos;s home is bombed</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/martin-luther-king-jr-home-bombed-montgomery&apos;&gt;https://www.history.com/this-day-in-history/martin-luther-king-jr-home-bombed-montgomery&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - January 29, 2002: George W. Bush describes Iraq, Iran and North Korea as "axis of evil"]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/bush-describes-iraq-iran-north-korea-as-axis-of-evil'>https://www.history.com/this-day-in-history/bush-describes-iraq-iran-north-korea-as-axis-of-evil</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - January 31, 1917: Germany resumes submarine warfare</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/germany-resumes-submarine-warfare&apos;&gt;https://www.history.com/this-day-in-history/germany-resumes-submarine-warfare&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - January 30, 1649: King Charles I executed for treason]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/king-charles-i-executed-for-treason'>https://www.history.com/this-day-in-history/king-charles-i-executed-for-treason</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastWedJan302019/today-in-history-e1325-Wed-Jan-30-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedJan302019/today-in-history-e1325-Wed-Jan-30-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Wed, 30 Jan 2019 10:01:36 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastWedJan302019/today-in-history-e1325-Wed-Jan-30-2019.mp3" length="1253877" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - January 30, 1649: King Charles I executed for treason</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/king-charles-i-executed-for-treason&apos;&gt;https://www.history.com/this-day-in-history/king-charles-i-executed-for-treason&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
