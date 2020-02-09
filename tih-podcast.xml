@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sat, 08 Feb 2020 10:01:28 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 09 Feb 2020 10:02:02 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - February 09, 1942: The Normandie catches fire]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/the-normandie-catches-fire'>https://www.history.com/this-day-in-history/the-normandie-catches-fire</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSunFeb092020/today-in-history-e1700-Sun-Feb-09-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSunFeb092020/today-in-history-e1700-Sun-Feb-09-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sun, 09 Feb 2020 10:02:02 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSunFeb092020/today-in-history-e1700-Sun-Feb-09-2020.mp3" length="1615412" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - February 09, 1942: The Normandie catches fire</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/the-normandie-catches-fire&apos;&gt;https://www.history.com/this-day-in-history/the-normandie-catches-fire&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - February 08, 1924: First execution by lethal gas]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/first-execution-by-lethal-gas'>https://www.history.com/this-day-in-history/first-execution-by-lethal-gas</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - February 10, 2014: Iconic child star Shirley Temple dies at 85</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/iconic-child-star-shirley-temple-dies-at-85&apos;&gt;https://www.history.com/this-day-in-history/iconic-child-star-shirley-temple-dies-at-85&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - February 09, 1950: McCarthy accuses State Department of communist infiltration]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/mccarthy-accuses-state-department-of-communist-infiltration'>https://www.history.com/this-day-in-history/mccarthy-accuses-state-department-of-communist-infiltration</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSatFeb092019/today-in-history-e1335-Sat-Feb-09-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatFeb092019/today-in-history-e1335-Sat-Feb-09-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sat, 09 Feb 2019 10:01:42 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSatFeb092019/today-in-history-e1335-Sat-Feb-09-2019.mp3" length="1475395" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - February 09, 1950: McCarthy accuses State Department of communist infiltration</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/mccarthy-accuses-state-department-of-communist-infiltration&apos;&gt;https://www.history.com/this-day-in-history/mccarthy-accuses-state-department-of-communist-infiltration&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
