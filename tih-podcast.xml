@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Thu, 13 Feb 2020 10:01:35 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 14 Feb 2020 10:02:19 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - February 14, 2018: Teen gunman kills 17, injures 17 at Parkland, Florida high school]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/parkland-marjory-stoneman-douglas-school-shooting'>https://www.history.com/this-day-in-history/parkland-marjory-stoneman-douglas-school-shooting</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastFriFeb142020/today-in-history-e1705-Fri-Feb-14-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastFriFeb142020/today-in-history-e1705-Fri-Feb-14-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Fri, 14 Feb 2020 10:02:19 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastFriFeb142020/today-in-history-e1705-Fri-Feb-14-2020.mp3" length="2889769" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - February 14, 2018: Teen gunman kills 17, injures 17 at Parkland, Florida high school</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/parkland-marjory-stoneman-douglas-school-shooting&apos;&gt;https://www.history.com/this-day-in-history/parkland-marjory-stoneman-douglas-school-shooting&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - February 13, 1689: William and Mary proclaimed joint sovereigns of Britain]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/william-and-mary-proclaimed-joint-sovereigns-of-britain'>https://www.history.com/this-day-in-history/william-and-mary-proclaimed-joint-sovereigns-of-britain</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - February 15, 1961: U.S. figure skating team killed in plane crash</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/u-s-figure-skating-team-killed-in-plane-crash&apos;&gt;https://www.history.com/this-day-in-history/u-s-figure-skating-team-killed-in-plane-crash&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - February 14, 2018: Teen gunman kills 17, injures 17 at Parkland, Florida high school]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/parkland-marjory-stoneman-douglas-school-shooting'>https://www.history.com/this-day-in-history/parkland-marjory-stoneman-douglas-school-shooting</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastThuFeb142019/today-in-history-e1340-Thu-Feb-14-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuFeb142019/today-in-history-e1340-Thu-Feb-14-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Thu, 14 Feb 2019 10:02:28 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastThuFeb142019/today-in-history-e1340-Thu-Feb-14-2019.mp3" length="2914847" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - February 14, 2018: Teen gunman kills 17, injures 17 at Parkland, Florida high school</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/parkland-marjory-stoneman-douglas-school-shooting&apos;&gt;https://www.history.com/this-day-in-history/parkland-marjory-stoneman-douglas-school-shooting&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
