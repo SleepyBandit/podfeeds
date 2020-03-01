@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sat, 29 Feb 2020 10:01:10 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 01 Mar 2020 10:02:11 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - March 01, 1961: President Kennedy establishes the Peace Corps]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/peace-corps-established'>https://www.history.com/this-day-in-history/peace-corps-established</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSunMar012020/today-in-history-e1721-Sun-Mar-01-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSunMar012020/today-in-history-e1721-Sun-Mar-01-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sun, 01 Mar 2020 10:02:11 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSunMar012020/today-in-history-e1721-Sun-Mar-01-2020.mp3" length="2234200" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - March 01, 1961: President Kennedy establishes the Peace Corps</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/peace-corps-established&apos;&gt;https://www.history.com/this-day-in-history/peace-corps-established&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - February 29, 1704: Deerfield settlement razed in Queen Anne’s War]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/deerfield-razed-in-queen-annes-war'>https://www.history.com/this-day-in-history/deerfield-razed-in-queen-annes-war</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - March 03, 1991: Police brutality caught on video</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/police-brutality-caught-on-video&apos;&gt;https://www.history.com/this-day-in-history/police-brutality-caught-on-video&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - March 02, 1836: Texas declares independence]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/texas-declares-independence'>https://www.history.com/this-day-in-history/texas-declares-independence</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSatMar022019/today-in-history-e1356-Sat-Mar-02-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatMar022019/today-in-history-e1356-Sat-Mar-02-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sat, 02 Mar 2019 10:02:24 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSatMar022019/today-in-history-e1356-Sat-Mar-02-2019.mp3" length="2938880" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - March 02, 1836: Texas declares independence</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/texas-declares-independence&apos;&gt;https://www.history.com/this-day-in-history/texas-declares-independence&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
