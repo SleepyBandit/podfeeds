@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sun, 01 Mar 2020 10:02:11 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 02 Mar 2020 10:01:47 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - March 02, 1972: Pioneer 10 launched to Jupiter]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/pioneer-10-launched-to-jupiter'>https://www.history.com/this-day-in-history/pioneer-10-launched-to-jupiter</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastMonMar022020/today-in-history-e1722-Mon-Mar-02-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonMar022020/today-in-history-e1722-Mon-Mar-02-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Mon, 02 Mar 2020 10:01:47 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastMonMar022020/today-in-history-e1722-Mon-Mar-02-2020.mp3" length="1054511" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - March 02, 1972: Pioneer 10 launched to Jupiter</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/pioneer-10-launched-to-jupiter&apos;&gt;https://www.history.com/this-day-in-history/pioneer-10-launched-to-jupiter&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - March 01, 1961: President Kennedy establishes the Peace Corps]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/peace-corps-established'>https://www.history.com/this-day-in-history/peace-corps-established</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - March 04, 1965: Kite Runner author Khaled Hosseini is born</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/kite-runner-author-khaled-hosseini-is-born&apos;&gt;https://www.history.com/this-day-in-history/kite-runner-author-khaled-hosseini-is-born&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - March 03, 1991: Police brutality caught on video]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/police-brutality-caught-on-video'>https://www.history.com/this-day-in-history/police-brutality-caught-on-video</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSunMar032019/today-in-history-e1357-Sun-Mar-03-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSunMar032019/today-in-history-e1357-Sun-Mar-03-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sun, 03 Mar 2019 10:02:29 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSunMar032019/today-in-history-e1357-Sun-Mar-03-2019.mp3" length="3172937" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - March 03, 1991: Police brutality caught on video</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/police-brutality-caught-on-video&apos;&gt;https://www.history.com/this-day-in-history/police-brutality-caught-on-video&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
