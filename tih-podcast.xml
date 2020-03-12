@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Thu, 12 Mar 2020 10:01:15 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 12 Mar 2020 14:01:15 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -42,19 +42,19 @@
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
 		<item>
-			<title><![CDATA[Today In History - null]]></title>
+			<title><![CDATA[Today In History - March 12, 1993: Reno sworn in as attorney general]]></title>
 			<description><![CDATA[<a href='null'>null</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastThuMar122020/today-in-history-e1732-Thu-Mar-12-2020.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuMar122020/today-in-history-e1732-Thu-Mar-12-2020.mp3</guid>
+			<link>https://ia600903.us.archive.org/29/items/tihpodcastTueMar122019/today-in-history-e1366-Tue-Mar-12-2019.mp3</link>
+			<guid isPermaLink="true">https://ia600903.us.archive.org/29/items/tihpodcastTueMar122019/today-in-history-e1366-Tue-Mar-12-2019.mp3</guid>
 			<category><![CDATA[Today In History]]></category>
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
 			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 12 Mar 2020 11:01:15 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastThuMar122020/today-in-history-e1732-Thu-Mar-12-2020.mp3" length="447007" type="audio/mpeg"/>
+			<enclosure url="https://ia600903.us.archive.org/29/items/tihpodcastTueMar122019/today-in-history-e1366-Tue-Mar-12-2019.mp3" length="1290448" type="audio/mpeg"/>
 			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - null</itunes:subtitle>
+			<itunes:subtitle>Today In History - March 12, 1993: Reno sworn in as attorney general</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;null&apos;&gt;null&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
