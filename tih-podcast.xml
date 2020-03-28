@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Fri, 27 Mar 2020 10:01:41 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 28 Mar 2020 10:01:27 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - President Eisenhower dies]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/eisenhower-dies'>https://www.history.com/this-day-in-history/eisenhower-dies</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSatMar282020/today-in-history-e1745-Sat-Mar-28-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatMar282020/today-in-history-e1745-Sat-Mar-28-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sat, 28 Mar 2020 11:01:27 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSatMar282020/today-in-history-e1745-Sat-Mar-28-2020.mp3" length="1535791" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - President Eisenhower dies</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/eisenhower-dies&apos;&gt;https://www.history.com/this-day-in-history/eisenhower-dies&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Khrushchev becomes Soviet premier]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/khrushchev-becomes-soviet-premier'>https://www.history.com/this-day-in-history/khrushchev-becomes-soviet-premier</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - March 30, 1867: U.S. Purchase of Alaska ridiculed as &quot;Seward&apos;s Folly”</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/sewards-folly&apos;&gt;https://www.history.com/this-day-in-history/sewards-folly&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - March 29, 1974: U.S. space probe, Mariner, visits Mercury]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/mariner-10-visits-mercury'>https://www.history.com/this-day-in-history/mariner-10-visits-mercury</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastFriMar292019/today-in-history-e1383-Fri-Mar-29-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastFriMar292019/today-in-history-e1383-Fri-Mar-29-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Fri, 29 Mar 2019 11:01:31 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastFriMar292019/today-in-history-e1383-Fri-Mar-29-2019.mp3" length="1075200" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - March 29, 1974: U.S. space probe, Mariner, visits Mercury</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/mariner-10-visits-mercury&apos;&gt;https://www.history.com/this-day-in-history/mariner-10-visits-mercury&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
