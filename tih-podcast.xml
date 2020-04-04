@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Fri, 03 Apr 2020 10:01:27 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 04 Apr 2020 10:01:17 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Radio host Don Imus makes offensive remarks about Rutgers' women's basketball team]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/don-imus-offensive-remarks-rutgers-womens-basketball-team'>https://www.history.com/this-day-in-history/don-imus-offensive-remarks-rutgers-womens-basketball-team</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSatApr042020/today-in-history-e1752-Sat-Apr-04-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatApr042020/today-in-history-e1752-Sat-Apr-04-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sat, 04 Apr 2020 11:01:17 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSatApr042020/today-in-history-e1752-Sat-Apr-04-2020.mp3" length="1417508" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Radio host Don Imus makes offensive remarks about Rutgers&apos; women&apos;s basketball team</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/don-imus-offensive-remarks-rutgers-womens-basketball-team&apos;&gt;https://www.history.com/this-day-in-history/don-imus-offensive-remarks-rutgers-womens-basketball-team&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - President Harry Truman signs Marshall Plan]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/president-harry-truman-signs-marshall-plan'>https://www.history.com/this-day-in-history/president-harry-truman-signs-marshall-plan</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - April 06, 1909: Peary’s expedition reaches North Pole?</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/pearys-expedition-reaches-north-pole&apos;&gt;https://www.history.com/this-day-in-history/pearys-expedition-reaches-north-pole&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - April 05, 1955: Winston Churchill resigns]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/winston-churchill-resigns'>https://www.history.com/this-day-in-history/winston-churchill-resigns</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastFriApr052019/today-in-history-e1390-Fri-Apr-05-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastFriApr052019/today-in-history-e1390-Fri-Apr-05-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Fri, 05 Apr 2019 11:01:47 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastFriApr052019/today-in-history-e1390-Fri-Apr-05-2019.mp3" length="1583647" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - April 05, 1955: Winston Churchill resigns</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/winston-churchill-resigns&apos;&gt;https://www.history.com/this-day-in-history/winston-churchill-resigns&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
