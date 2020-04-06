@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sun, 05 Apr 2020 10:01:18 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 06 Apr 2020 10:00:59 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Germany invades Yugoslavia and Greece]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/germany-invades-yugoslavia-and-greece'>https://www.history.com/this-day-in-history/germany-invades-yugoslavia-and-greece</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastMonApr062020/today-in-history-e1754-Mon-Apr-06-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonApr062020/today-in-history-e1754-Mon-Apr-06-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Mon, 06 Apr 2020 11:00:59 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastMonApr062020/today-in-history-e1754-Mon-Apr-06-2020.mp3" length="934974" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Germany invades Yugoslavia and Greece</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/germany-invades-yugoslavia-and-greece&apos;&gt;https://www.history.com/this-day-in-history/germany-invades-yugoslavia-and-greece&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Winston Churchill retires as prime minister]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/winston-churchill-resigns'>https://www.history.com/this-day-in-history/winston-churchill-resigns</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - April 08, 2013: Margaret Thatcher, Britain’s first female prime minister, dies</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/margaret-thatcher-britains-first-female-prime-minister-dies&apos;&gt;https://www.history.com/this-day-in-history/margaret-thatcher-britains-first-female-prime-minister-dies&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - April 07, 2012: Longtime “60 Minutes” journalist Mike Wallace dies]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/longtime-60-minutes-journalist-mike-wallace-dies'>https://www.history.com/this-day-in-history/longtime-60-minutes-journalist-mike-wallace-dies</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1392-Sun-Apr-07-2019.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1392-Sun-Apr-07-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sun, 07 Apr 2019 11:01:44 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1392-Sun-Apr-07-2019.mp3" length="1973603" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - April 07, 2012: Longtime “60 Minutes” journalist Mike Wallace dies</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/longtime-60-minutes-journalist-mike-wallace-dies&apos;&gt;https://www.history.com/this-day-in-history/longtime-60-minutes-journalist-mike-wallace-dies&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
