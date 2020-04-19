@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sat, 18 Apr 2020 10:01:15 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 19 Apr 2020 10:01:16 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Central Park jogger attack shocks New York City]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/central-park-jogger-attack-shocks-new-york-city'>https://www.history.com/this-day-in-history/central-park-jogger-attack-shocks-new-york-city</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSunApr192020/today-in-history-e1767-Sun-Apr-19-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSunApr192020/today-in-history-e1767-Sun-Apr-19-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sun, 19 Apr 2020 11:01:16 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSunApr192020/today-in-history-e1767-Sun-Apr-19-2020.mp3" length="1401626" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Central Park jogger attack shocks New York City</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/central-park-jogger-attack-shocks-new-york-city&apos;&gt;https://www.history.com/this-day-in-history/central-park-jogger-attack-shocks-new-york-city&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Mt. Everest sees its single deadliest day]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/mt-everest-sees-its-single-deadliest-day'>https://www.history.com/this-day-in-history/mt-everest-sees-its-single-deadliest-day</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - April 21, 1973: “Tie a Yellow Ribbon Round the Ole Oak Tree” tops the U.S. pop charts and creates a cultural phenomenon</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/tie-a-yellow-ribbon-round-the-old-oak-tree-tops-the-u-s-pop-charts-and-creates-a-cultural-phenomenon&apos;&gt;https://www.history.com/this-day-in-history/tie-a-yellow-ribbon-round-the-old-oak-tree-tops-the-u-s-pop-charts-and-creates-a-cultural-phenomenon&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - April 20, 2010: Massive oil spill begins in Gulf of Mexico]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/massive-oil-spill-begins-in-gulf-of-mexico'>https://www.history.com/this-day-in-history/massive-oil-spill-begins-in-gulf-of-mexico</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSatApr202019/today-in-history-e1405-Sat-Apr-20-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatApr202019/today-in-history-e1405-Sat-Apr-20-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sat, 20 Apr 2019 11:01:52 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSatApr202019/today-in-history-e1405-Sat-Apr-20-2019.mp3" length="1727216" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - April 20, 2010: Massive oil spill begins in Gulf of Mexico</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/massive-oil-spill-begins-in-gulf-of-mexico&apos;&gt;https://www.history.com/this-day-in-history/massive-oil-spill-begins-in-gulf-of-mexico&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
