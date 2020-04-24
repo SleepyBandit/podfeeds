@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Thu, 23 Apr 2020 10:01:03 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 24 Apr 2020 10:01:15 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Library of Congress established]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/library-of-congress-established'>https://www.history.com/this-day-in-history/library-of-congress-established</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastFriApr242020/today-in-history-e1772-Fri-Apr-24-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastFriApr242020/today-in-history-e1772-Fri-Apr-24-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Fri, 24 Apr 2020 11:01:14 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastFriApr242020/today-in-history-e1772-Fri-Apr-24-2020.mp3" length="1286687" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Library of Congress established</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/library-of-congress-established&apos;&gt;https://www.history.com/this-day-in-history/library-of-congress-established&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - King Brian of Ireland murdered by Vikings]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/king-brian-of-ireland-murdered-by-vikings'>https://www.history.com/this-day-in-history/king-brian-of-ireland-murdered-by-vikings</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - April 26, 2012: Former Liberian President Charles Taylor found guilty of war crimes</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/former-liberian-president-charles-taylor-found-guilty-of-war-crimes&apos;&gt;https://www.history.com/this-day-in-history/former-liberian-president-charles-taylor-found-guilty-of-war-crimes&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - April 25, 2015: Magnitude 7.8 earthquake kills thousands in Nepal]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/magnitude-7-8-earthquake-kills-thousands-in-nepal'>https://www.history.com/this-day-in-history/magnitude-7-8-earthquake-kills-thousands-in-nepal</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastThuApr252019/today-in-history-e1410-Thu-Apr-25-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuApr252019/today-in-history-e1410-Thu-Apr-25-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Thu, 25 Apr 2019 11:01:40 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastThuApr252019/today-in-history-e1410-Thu-Apr-25-2019.mp3" length="1360666" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - April 25, 2015: Magnitude 7.8 earthquake kills thousands in Nepal</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/magnitude-7-8-earthquake-kills-thousands-in-nepal&apos;&gt;https://www.history.com/this-day-in-history/magnitude-7-8-earthquake-kills-thousands-in-nepal&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
