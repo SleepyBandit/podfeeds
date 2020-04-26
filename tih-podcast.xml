@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sat, 25 Apr 2020 10:01:09 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 26 Apr 2020 10:01:21 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Former Liberian president Charles Taylor found guilty of war crimes]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/former-liberian-president-charles-taylor-found-guilty-of-war-crimes'>https://www.history.com/this-day-in-history/former-liberian-president-charles-taylor-found-guilty-of-war-crimes</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSunApr262020/today-in-history-e1774-Sun-Apr-26-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSunApr262020/today-in-history-e1774-Sun-Apr-26-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sun, 26 Apr 2020 11:01:21 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSunApr262020/today-in-history-e1774-Sun-Apr-26-2020.mp3" length="1412911" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Former Liberian president Charles Taylor found guilty of war crimes</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/former-liberian-president-charles-taylor-found-guilty-of-war-crimes&apos;&gt;https://www.history.com/this-day-in-history/former-liberian-president-charles-taylor-found-guilty-of-war-crimes&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Magnitude 7.8 earthquake kills thousands in Nepal]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/magnitude-7-8-earthquake-kills-thousands-in-nepal'>https://www.history.com/this-day-in-history/magnitude-7-8-earthquake-kills-thousands-in-nepal</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - April 28, 2011: Jaycee Dugard’s kidnappers plead guilty</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/jaycee-dugards-kidnappers-plead-guilty&apos;&gt;https://www.history.com/this-day-in-history/jaycee-dugards-kidnappers-plead-guilty&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - April 27, 1521: Navigator Ferdinand Magellan killed in the Philippines]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/magellan-killed-in-the-philippines'>https://www.history.com/this-day-in-history/magellan-killed-in-the-philippines</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSatApr272019/today-in-history-e1412-Sat-Apr-27-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatApr272019/today-in-history-e1412-Sat-Apr-27-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sat, 27 Apr 2019 11:02:19 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSatApr272019/today-in-history-e1412-Sat-Apr-27-2019.mp3" length="2526354" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - April 27, 1521: Navigator Ferdinand Magellan killed in the Philippines</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/magellan-killed-in-the-philippines&apos;&gt;https://www.history.com/this-day-in-history/magellan-killed-in-the-philippines&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
