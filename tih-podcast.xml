@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 05 May 2020 10:01:22 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 06 May 2020 10:01:22 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Ohio kidnap victims rescued after years in captivity]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/ohio-kidnap-victims-rescued-after-years-in-captivity'>https://www.history.com/this-day-in-history/ohio-kidnap-victims-rescued-after-years-in-captivity</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastWedMay062020/today-in-history-e1784-Wed-May-06-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedMay062020/today-in-history-e1784-Wed-May-06-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 06 May 2020 11:01:22 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastWedMay062020/today-in-history-e1784-Wed-May-06-2020.mp3" length="1513430" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Ohio kidnap victims rescued after years in captivity</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/ohio-kidnap-victims-rescued-after-years-in-captivity&apos;&gt;https://www.history.com/this-day-in-history/ohio-kidnap-victims-rescued-after-years-in-captivity&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - "One Hundred Years of Solitude" is published]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/one-hundred-years-of-solitude-is-published'>https://www.history.com/this-day-in-history/one-hundred-years-of-solitude-is-published</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - May 8th: V-E Day is celebrated in America and Britain</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history&apos;&gt;https://www.history.com/this-day-in-history&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - May 07, 1965: "Satisfaction" comes to Keith Richards in his sleep]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/satisfaction-comes-to-keith-richards'>https://www.history.com/this-day-in-history/satisfaction-comes-to-keith-richards</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastTueMay072019/today-in-history-e1422-Tue-May-07-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastTueMay072019/today-in-history-e1422-Tue-May-07-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Tue, 07 May 2019 11:01:39 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastTueMay072019/today-in-history-e1422-Tue-May-07-2019.mp3" length="1420225" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - May 07, 1965: &quot;Satisfaction&quot; comes to Keith Richards in his sleep</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/satisfaction-comes-to-keith-richards&apos;&gt;https://www.history.com/this-day-in-history/satisfaction-comes-to-keith-richards&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
