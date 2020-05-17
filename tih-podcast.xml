@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sat, 16 May 2020 10:01:27 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 17 May 2020 10:01:05 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - First legal same-sex marriage performed in Massachusetts]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/first-legal-same-sex-marriage-performed-in-massachusetts'>https://www.history.com/this-day-in-history/first-legal-same-sex-marriage-performed-in-massachusetts</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSunMay172020/today-in-history-e1795-Sun-May-17-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSunMay172020/today-in-history-e1795-Sun-May-17-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sun, 17 May 2020 11:01:05 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSunMay172020/today-in-history-e1795-Sun-May-17-2020.mp3" length="1125773" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - First legal same-sex marriage performed in Massachusetts</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/first-legal-same-sex-marriage-performed-in-massachusetts&apos;&gt;https://www.history.com/this-day-in-history/first-legal-same-sex-marriage-performed-in-massachusetts&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Discovery of Ozone Hole announced]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/discovery-of-antarctic-ozone-hole-announced'>https://www.history.com/this-day-in-history/discovery-of-antarctic-ozone-hole-announced</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - May 19, 2016: EgyptAir flight 804 disappears over the Mediterranean Sea</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/egyptair-flight-804-disappears-over-the-mediterranean-sea&apos;&gt;https://www.history.com/this-day-in-history/egyptair-flight-804-disappears-over-the-mediterranean-sea&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - May 18, 2012: Facebook raises $16 billion in largest tech IPO in U.S. history]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/facebook-raises-16-billion-in-largest-tech-ipo-in-u-s-history'>https://www.history.com/this-day-in-history/facebook-raises-16-billion-in-largest-tech-ipo-in-u-s-history</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSatMay182019/today-in-history-e1433-Sat-May-18-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatMay182019/today-in-history-e1433-Sat-May-18-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sat, 18 May 2019 11:02:00 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSatMay182019/today-in-history-e1433-Sat-May-18-2019.mp3" length="1964617" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - May 18, 2012: Facebook raises $16 billion in largest tech IPO in U.S. history</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/facebook-raises-16-billion-in-largest-tech-ipo-in-u-s-history&apos;&gt;https://www.history.com/this-day-in-history/facebook-raises-16-billion-in-largest-tech-ipo-in-u-s-history&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
