@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Wed, 20 May 2020 10:01:11 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 21 May 2020 10:02:16 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Charles Lindbergh completes the first solo, nonstop transatlantic flight]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/lindbergh-lands-in-paris'>https://www.history.com/this-day-in-history/lindbergh-lands-in-paris</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastThuMay212020/today-in-history-e1799-Thu-May-21-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuMay212020/today-in-history-e1799-Thu-May-21-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Thu, 21 May 2020 11:02:16 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastThuMay212020/today-in-history-e1799-Thu-May-21-2020.mp3" length="3550145" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Charles Lindbergh completes the first solo, nonstop transatlantic flight</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/lindbergh-lands-in-paris&apos;&gt;https://www.history.com/this-day-in-history/lindbergh-lands-in-paris&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Sunday Silence wins Preakness Stakes by a nose]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/sunday-silence-wins-preakness-by-a-nose'>https://www.history.com/this-day-in-history/sunday-silence-wins-preakness-by-a-nose</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - May 23, 2015: Ireland legalizes same sex marriage</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/ireland-legalizes-same-sex-marriage&apos;&gt;https://www.history.com/this-day-in-history/ireland-legalizes-same-sex-marriage&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - May 22, 2017: Manchester Arena bombed during Ariana Grande concert]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/manchester-arena-bombed-during-ariana-grande-concert'>https://www.history.com/this-day-in-history/manchester-arena-bombed-during-ariana-grande-concert</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastWedMay222019/today-in-history-e1437-Wed-May-22-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedMay222019/today-in-history-e1437-Wed-May-22-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Wed, 22 May 2019 11:01:39 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastWedMay222019/today-in-history-e1437-Wed-May-22-2019.mp3" length="1325557" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - May 22, 2017: Manchester Arena bombed during Ariana Grande concert</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/manchester-arena-bombed-during-ariana-grande-concert&apos;&gt;https://www.history.com/this-day-in-history/manchester-arena-bombed-during-ariana-grande-concert&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
