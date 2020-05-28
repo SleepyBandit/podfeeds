@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Wed, 27 May 2020 10:01:14 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 28 May 2020 10:01:47 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Terrorists attack Ahmadiyya mosques in Pakistan]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/terrorists-attack-ahmadiyya-mosques-in-pakistan'>https://www.history.com/this-day-in-history/terrorists-attack-ahmadiyya-mosques-in-pakistan</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastThuMay282020/today-in-history-e1806-Thu-May-28-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuMay282020/today-in-history-e1806-Thu-May-28-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Thu, 28 May 2020 11:01:47 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastThuMay282020/today-in-history-e1806-Thu-May-28-2020.mp3" length="1645923" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Terrorists attack Ahmadiyya mosques in Pakistan</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/terrorists-attack-ahmadiyya-mosques-in-pakistan&apos;&gt;https://www.history.com/this-day-in-history/terrorists-attack-ahmadiyya-mosques-in-pakistan&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - British navy sinks the German battleship Bismarck]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/bismarck-sunk-by-royal-navy'>https://www.history.com/this-day-in-history/bismarck-sunk-by-royal-navy</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - May 30, 2016: Former president of Chad, Hissene Habre, sentenced to life for war crimes</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/former-president-of-chad-hissene-habre-sentenced-to-life-for-war-crimes&apos;&gt;https://www.history.com/this-day-in-history/former-president-of-chad-hissene-habre-sentenced-to-life-for-war-crimes&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - May 29, 1848: Wisconsin enters the Union]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/wisconsin-enters-the-union'>https://www.history.com/this-day-in-history/wisconsin-enters-the-union</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastWedMay292019/today-in-history-e1444-Wed-May-29-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedMay292019/today-in-history-e1444-Wed-May-29-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Wed, 29 May 2019 11:01:36 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastWedMay292019/today-in-history-e1444-Wed-May-29-2019.mp3" length="1259520" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - May 29, 1848: Wisconsin enters the Union</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/wisconsin-enters-the-union&apos;&gt;https://www.history.com/this-day-in-history/wisconsin-enters-the-union&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
