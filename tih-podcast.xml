@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sat, 30 May 2020 10:01:29 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 31 May 2020 10:01:08 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - The BBC bans the Sex Pistols’ “God Save the Queen”]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/the-bbc-bans-the-sex-pistols-god-save-the-queen'>https://www.history.com/this-day-in-history/the-bbc-bans-the-sex-pistols-god-save-the-queen</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1809-Sun-May-31-2020.mp3</link>
+			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1809-Sun-May-31-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sun, 31 May 2020 11:01:08 GMT</pubDate>
+			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1809-Sun-May-31-2020.mp3" length="1665358" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - The BBC bans the Sex Pistols’ “God Save the Queen”</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/the-bbc-bans-the-sex-pistols-god-save-the-queen&apos;&gt;https://www.history.com/this-day-in-history/the-bbc-bans-the-sex-pistols-god-save-the-queen&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Republic of Biafra proclaimed]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/republic-of-biafra-proclaimed'>https://www.history.com/this-day-in-history/republic-of-biafra-proclaimed</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - June 02, 2015: FIFA president Sepp Blatter announces resignation amidst corruption scandal</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/sepp-blatter-announces-resignation-fifa-corruption&apos;&gt;https://www.history.com/this-day-in-history/sepp-blatter-announces-resignation-fifa-corruption&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - June 01, 1958: Charles de Gaulle reassumes French leadership]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/de-gaulle-reassumes-french-leadership'>https://www.history.com/this-day-in-history/de-gaulle-reassumes-french-leadership</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSatJun012019/today-in-history-e1447-Sat-Jun-01-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatJun012019/today-in-history-e1447-Sat-Jun-01-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sat, 01 Jun 2019 11:01:41 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSatJun012019/today-in-history-e1447-Sat-Jun-01-2019.mp3" length="1423777" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - June 01, 1958: Charles de Gaulle reassumes French leadership</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/de-gaulle-reassumes-french-leadership&apos;&gt;https://www.history.com/this-day-in-history/de-gaulle-reassumes-french-leadership&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
