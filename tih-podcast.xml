@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 02 Jun 2020 10:02:24 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 03 Jun 2020 10:01:52 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Zoot Suit Riots begin in Los Angeles]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/zoot-suit-riots-erupt-in-los-angeles'>https://www.history.com/this-day-in-history/zoot-suit-riots-erupt-in-los-angeles</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastWedJun032020/today-in-history-e1812-Wed-Jun-03-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedJun032020/today-in-history-e1812-Wed-Jun-03-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 03 Jun 2020 11:01:52 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastWedJun032020/today-in-history-e1812-Wed-Jun-03-2020.mp3" length="2338690" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Zoot Suit Riots begin in Los Angeles</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/zoot-suit-riots-erupt-in-los-angeles&apos;&gt;https://www.history.com/this-day-in-history/zoot-suit-riots-erupt-in-los-angeles&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - FIFA president Sepp Blatter announces resignation amidst corruption scandal]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/sepp-blatter-announces-resignation-fifa-corruption'>https://www.history.com/this-day-in-history/sepp-blatter-announces-resignation-fifa-corruption</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - June 05, 2012: Ray Bradbury, bestselling science fiction author, dies at 91</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/ray-bradbury-bestselling-science-fiction-author-dies-at-91&apos;&gt;https://www.history.com/this-day-in-history/ray-bradbury-bestselling-science-fiction-author-dies-at-91&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - June 04, 1976: Four dozen people witness historic Sex Pistols set]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/four-dozen-people-witness-the-gig-that-changed-the-world'>https://www.history.com/this-day-in-history/four-dozen-people-witness-the-gig-that-changed-the-world</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastTueJun042019/today-in-history-e1450-Tue-Jun-04-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastTueJun042019/today-in-history-e1450-Tue-Jun-04-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Tue, 04 Jun 2019 11:01:54 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastTueJun042019/today-in-history-e1450-Tue-Jun-04-2019.mp3" length="1814360" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - June 04, 1976: Four dozen people witness historic Sex Pistols set</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/four-dozen-people-witness-the-gig-that-changed-the-world&apos;&gt;https://www.history.com/this-day-in-history/four-dozen-people-witness-the-gig-that-changed-the-world&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
