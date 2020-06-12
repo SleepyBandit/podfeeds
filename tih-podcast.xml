@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Thu, 11 Jun 2020 10:01:26 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 12 Jun 2020 10:01:46 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Terrorist gunman attacks Pulse Nightclub in Orlando, Florida]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/terrorist-gunman-attacks-pulse-nightclub-in-orlando-florida'>https://www.history.com/this-day-in-history/terrorist-gunman-attacks-pulse-nightclub-in-orlando-florida</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastFriJun122020/today-in-history-e1821-Fri-Jun-12-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastFriJun122020/today-in-history-e1821-Fri-Jun-12-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Fri, 12 Jun 2020 11:01:46 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastFriJun122020/today-in-history-e1821-Fri-Jun-12-2020.mp3" length="1745188" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Terrorist gunman attacks Pulse Nightclub in Orlando, Florida</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/terrorist-gunman-attacks-pulse-nightclub-in-orlando-florida&apos;&gt;https://www.history.com/this-day-in-history/terrorist-gunman-attacks-pulse-nightclub-in-orlando-florida&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - University of Alabama desegregated]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/university-of-alabama-desegregated'>https://www.history.com/this-day-in-history/university-of-alabama-desegregated</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - June 14, 2017: Grenfell Tower fire kills 72 in London</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/grenfell-tower-fire-2017&apos;&gt;https://www.history.com/this-day-in-history/grenfell-tower-fire-2017&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - June 13, 1975: Linda Ronstadt has her first #1 hit on the country-music charts]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/linda-ronstadt-has-her-first-1-hit-on-the-country-music-charts'>https://www.history.com/this-day-in-history/linda-ronstadt-has-her-first-1-hit-on-the-country-music-charts</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastThuJun132019/today-in-history-e1459-Thu-Jun-13-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuJun132019/today-in-history-e1459-Thu-Jun-13-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Thu, 13 Jun 2019 11:01:42 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastThuJun132019/today-in-history-e1459-Thu-Jun-13-2019.mp3" length="1445929" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - June 13, 1975: Linda Ronstadt has her first #1 hit on the country-music charts</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/linda-ronstadt-has-her-first-1-hit-on-the-country-music-charts&apos;&gt;https://www.history.com/this-day-in-history/linda-ronstadt-has-her-first-1-hit-on-the-country-music-charts&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
