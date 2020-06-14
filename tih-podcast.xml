@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sat, 13 Jun 2020 10:01:06 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 14 Jun 2020 10:01:43 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Grenfell Tower fire kills 72 in London]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/grenfell-tower-fire-2017'>https://www.history.com/this-day-in-history/grenfell-tower-fire-2017</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSunJun142020/today-in-history-e1823-Sun-Jun-14-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSunJun142020/today-in-history-e1823-Sun-Jun-14-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sun, 14 Jun 2020 11:01:43 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSunJun142020/today-in-history-e1823-Sun-Jun-14-2020.mp3" length="1831079" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Grenfell Tower fire kills 72 in London</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/grenfell-tower-fire-2017&apos;&gt;https://www.history.com/this-day-in-history/grenfell-tower-fire-2017&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Pioneer 10 departs solar system]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/pioneer-10-departs-solar-system'>https://www.history.com/this-day-in-history/pioneer-10-departs-solar-system</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - June 16, 1965: Bob Dylan records “Like A Rolling Stone”</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/bob-dylan-records-like-a-rolling-stone&apos;&gt;https://www.history.com/this-day-in-history/bob-dylan-records-like-a-rolling-stone&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - June 15, 2005: Police search Van der Sloot home in Holloway disappearance]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/police-search-van-der-sloot-home-in-holloway-disappearance'>https://www.history.com/this-day-in-history/police-search-van-der-sloot-home-in-holloway-disappearance</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSatJun152019/today-in-history-e1461-Sat-Jun-15-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatJun152019/today-in-history-e1461-Sat-Jun-15-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sat, 15 Jun 2019 11:02:04 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSatJun152019/today-in-history-e1461-Sat-Jun-15-2019.mp3" length="2090840" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - June 15, 2005: Police search Van der Sloot home in Holloway disappearance</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/police-search-van-der-sloot-home-in-holloway-disappearance&apos;&gt;https://www.history.com/this-day-in-history/police-search-van-der-sloot-home-in-holloway-disappearance&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
