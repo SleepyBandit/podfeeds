@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Mon, 15 Jun 2020 10:01:32 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 16 Jun 2020 10:01:09 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Bob Dylan records “Like A Rolling Stone”]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/bob-dylan-records-like-a-rolling-stone'>https://www.history.com/this-day-in-history/bob-dylan-records-like-a-rolling-stone</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1825-Tue-Jun-16-2020.mp3</link>
+			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1825-Tue-Jun-16-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Tue, 16 Jun 2020 11:01:09 GMT</pubDate>
+			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1825-Tue-Jun-16-2020.mp3" length="1718439" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Bob Dylan records “Like A Rolling Stone”</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/bob-dylan-records-like-a-rolling-stone&apos;&gt;https://www.history.com/this-day-in-history/bob-dylan-records-like-a-rolling-stone&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Construction on Global Seed Vault begins]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/construction-on-global-seed-vault-begins-norway'>https://www.history.com/this-day-in-history/construction-on-global-seed-vault-begins-norway</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - June 18, 1815: Napoleon defeated at Waterloo</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/napoleon-defeated-at-waterloo&apos;&gt;https://www.history.com/this-day-in-history/napoleon-defeated-at-waterloo&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - June 17, 1940: France to surrender]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/france-to-surrender'>https://www.history.com/this-day-in-history/france-to-surrender</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastMonJun172019/today-in-history-e1463-Mon-Jun-17-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonJun172019/today-in-history-e1463-Mon-Jun-17-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Mon, 17 Jun 2019 11:01:36 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastMonJun172019/today-in-history-e1463-Mon-Jun-17-2019.mp3" length="1217724" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - June 17, 1940: France to surrender</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/france-to-surrender&apos;&gt;https://www.history.com/this-day-in-history/france-to-surrender&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
