@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Fri, 10 Jul 2020 10:01:12 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 11 Jul 2020 10:01:20 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Members of the Niagara Movement meet for the first time]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/members-of-the-niagara-movement-meet-for-first-time'>https://www.history.com/this-day-in-history/members-of-the-niagara-movement-meet-for-first-time</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSatJul112020/today-in-history-e1850-Sat-Jul-11-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatJul112020/today-in-history-e1850-Sat-Jul-11-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sat, 11 Jul 2020 11:01:20 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSatJul112020/today-in-history-e1850-Sat-Jul-11-2020.mp3" length="1326184" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Members of the Niagara Movement meet for the first time</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/members-of-the-niagara-movement-meet-for-first-time&apos;&gt;https://www.history.com/this-day-in-history/members-of-the-niagara-movement-meet-for-first-time&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Last of Thai soccer team rescued from cave]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/thai-soccer-team-rescued-from-cave'>https://www.history.com/this-day-in-history/thai-soccer-team-rescued-from-cave</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - July 13, 1960: John F. Kennedy nominated for presidency</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/kennedy-nominated-for-presidency&apos;&gt;https://www.history.com/this-day-in-history/kennedy-nominated-for-presidency&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - July 12, 1862: Medal of Honor created]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/medal-of-honor-created'>https://www.history.com/this-day-in-history/medal-of-honor-created</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastFriJul122019/today-in-history-e1488-Fri-Jul-12-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastFriJul122019/today-in-history-e1488-Fri-Jul-12-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Fri, 12 Jul 2019 11:01:24 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastFriJul122019/today-in-history-e1488-Fri-Jul-12-2019.mp3" length="930168" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - July 12, 1862: Medal of Honor created</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/medal-of-honor-created&apos;&gt;https://www.history.com/this-day-in-history/medal-of-honor-created&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
