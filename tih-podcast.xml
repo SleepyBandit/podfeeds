@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sat, 29 Aug 2020 10:01:13 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 30 Aug 2020 10:01:07 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Christopher Cross has his first of two #1 hits with “Sailing”]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/christopher-cross-has-his-first-of-two-1-hits-with-sailing'>https://www.history.com/this-day-in-history/christopher-cross-has-his-first-of-two-1-hits-with-sailing</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1900-Sun-Aug-30-2020.mp3</link>
+			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1900-Sun-Aug-30-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sun, 30 Aug 2020 11:01:07 GMT</pubDate>
+			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1900-Sun-Aug-30-2020.mp3" length="1675389" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Christopher Cross has his first of two #1 hits with “Sailing”</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/christopher-cross-has-his-first-of-two-1-hits-with-sailing&apos;&gt;https://www.history.com/this-day-in-history/christopher-cross-has-his-first-of-two-1-hits-with-sailing&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Thousands of Mexican-American antiwar activists march in Chicano Moratorium]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/chicano-moratorium-march-mexican-american-antiwar'>https://www.history.com/this-day-in-history/chicano-moratorium-march-mexican-american-antiwar</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - September 01, 1985: Wreck of the Titanic found</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/wreck-of-the-titanic-found&apos;&gt;https://www.history.com/this-day-in-history/wreck-of-the-titanic-found&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - August 31, 1777: Sam Mason survives Native American attack]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/sam-mason-survives-indian-attack-2'>https://www.history.com/this-day-in-history/sam-mason-survives-indian-attack-2</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSatAug312019/today-in-history-e1538-Sat-Aug-31-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatAug312019/today-in-history-e1538-Sat-Aug-31-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sat, 31 Aug 2019 11:01:44 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSatAug312019/today-in-history-e1538-Sat-Aug-31-2019.mp3" length="1654700" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - August 31, 1777: Sam Mason survives Native American attack</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/sam-mason-survives-indian-attack-2&apos;&gt;https://www.history.com/this-day-in-history/sam-mason-survives-indian-attack-2&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
