@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 29 Sep 2020 10:01:22 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 30 Sep 2020 10:01:25 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Joseph Marion Hernández becomes the first Hispanic elected to Congress]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/joseph-marion-hern%C3%A1ndez-first-hispanic-elected-to-congress'>https://www.history.com/this-day-in-history/joseph-marion-hern%C3%A1ndez-first-hispanic-elected-to-congress</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastWedSep302020/today-in-history-e1931-Wed-Sep-30-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedSep302020/today-in-history-e1931-Wed-Sep-30-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 30 Sep 2020 11:01:25 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastWedSep302020/today-in-history-e1931-Wed-Sep-30-2020.mp3" length="1556062" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Joseph Marion Hernández becomes the first Hispanic elected to Congress</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/joseph-marion-hern%C3%A1ndez-first-hispanic-elected-to-congress&apos;&gt;https://www.history.com/this-day-in-history/joseph-marion-hern%C3%A1ndez-first-hispanic-elected-to-congress&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Mexican-American voting rights advocate Willie Velasquez awarded Presidential Medal of Freedom]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/hispanic-american-activist-willie-velasquez-presidential-medal-freedom'>https://www.history.com/this-day-in-history/hispanic-american-activist-willie-velasquez-presidential-medal-freedom</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - October 02, 1944: Warsaw Uprising ends</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/warsaw-uprising-ends&apos;&gt;https://www.history.com/this-day-in-history/warsaw-uprising-ends&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - October 01, 2005: Suicide bombers stage attacks in Bali]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/terrorists-strike-again-in-bali'>https://www.history.com/this-day-in-history/terrorists-strike-again-in-bali</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastTueOct012019/today-in-history-e1569-Tue-Oct-01-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastTueOct012019/today-in-history-e1569-Tue-Oct-01-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Tue, 01 Oct 2019 11:01:22 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastTueOct012019/today-in-history-e1569-Tue-Oct-01-2019.mp3" length="1018357" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - October 01, 2005: Suicide bombers stage attacks in Bali</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/terrorists-strike-again-in-bali&apos;&gt;https://www.history.com/this-day-in-history/terrorists-strike-again-in-bali&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
