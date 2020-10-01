@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Wed, 30 Sep 2020 10:01:25 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 01 Oct 2020 10:01:02 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Suicide bombers stage attacks in Bali]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/terrorists-strike-again-in-bali'>https://www.history.com/this-day-in-history/terrorists-strike-again-in-bali</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastThuOct012020/today-in-history-e1932-Thu-Oct-01-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuOct012020/today-in-history-e1932-Thu-Oct-01-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Thu, 01 Oct 2020 11:01:02 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastThuOct012020/today-in-history-e1932-Thu-Oct-01-2020.mp3" length="1001221" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Suicide bombers stage attacks in Bali</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/terrorists-strike-again-in-bali&apos;&gt;https://www.history.com/this-day-in-history/terrorists-strike-again-in-bali&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Joseph Marion Hernández becomes the first Hispanic elected to Congress]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/joseph-marion-hern%C3%A1ndez-first-hispanic-elected-to-congress'>https://www.history.com/this-day-in-history/joseph-marion-hern%C3%A1ndez-first-hispanic-elected-to-congress</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - October 03, 1981: Maze hunger strike called off</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/maze-hunger-strike-called-off&apos;&gt;https://www.history.com/this-day-in-history/maze-hunger-strike-called-off&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - October 02, 1944: Warsaw Uprising ends]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/warsaw-uprising-ends'>https://www.history.com/this-day-in-history/warsaw-uprising-ends</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastWedOct022019/today-in-history-e1570-Wed-Oct-02-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedOct022019/today-in-history-e1570-Wed-Oct-02-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Wed, 02 Oct 2019 11:01:28 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastWedOct022019/today-in-history-e1570-Wed-Oct-02-2019.mp3" length="1090873" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - October 02, 1944: Warsaw Uprising ends</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/warsaw-uprising-ends&apos;&gt;https://www.history.com/this-day-in-history/warsaw-uprising-ends&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
