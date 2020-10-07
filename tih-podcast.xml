@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 06 Oct 2020 10:00:59 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 07 Oct 2020 10:01:14 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Union and Confederate forces clash at Battle of Darbytown Road]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/battle-of-darbytown-road-johnsons-farm'>https://www.history.com/this-day-in-history/battle-of-darbytown-road-johnsons-farm</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastWedOct072020/today-in-history-e1938-Wed-Oct-07-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedOct072020/today-in-history-e1938-Wed-Oct-07-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 07 Oct 2020 11:01:14 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastWedOct072020/today-in-history-e1938-Wed-Oct-07-2020.mp3" length="1357113" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Union and Confederate forces clash at Battle of Darbytown Road</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/battle-of-darbytown-road-johnsons-farm&apos;&gt;https://www.history.com/this-day-in-history/battle-of-darbytown-road-johnsons-farm&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - President Kennedy urges Americans to build bomb shelters]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/kennedy-urges-americans-to-build-bomb-shelters'>https://www.history.com/this-day-in-history/kennedy-urges-americans-to-build-bomb-shelters</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - October 09, 1975: Andrei Sakharov wins Nobel Peace Prize</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/sakharov-wins-peace-prize&apos;&gt;https://www.history.com/this-day-in-history/sakharov-wins-peace-prize&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - October 08, 2001: The Office of Homeland Security is founded]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/office-of-homeland-security-founded'>https://www.history.com/this-day-in-history/office-of-homeland-security-founded</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastTueOct082019/today-in-history-e1576-Tue-Oct-08-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastTueOct082019/today-in-history-e1576-Tue-Oct-08-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Tue, 08 Oct 2019 11:01:48 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastTueOct082019/today-in-history-e1576-Tue-Oct-08-2019.mp3" length="1460558" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - October 08, 2001: The Office of Homeland Security is founded</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/office-of-homeland-security-founded&apos;&gt;https://www.history.com/this-day-in-history/office-of-homeland-security-founded&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
