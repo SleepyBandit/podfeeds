@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Wed, 14 Oct 2020 10:00:55 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Oct 2020 10:01:10 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Vichy leader executed for treason]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/vichy-leader-executed-for-treason'>https://www.history.com/this-day-in-history/vichy-leader-executed-for-treason</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastThuOct152020/today-in-history-e1946-Thu-Oct-15-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuOct152020/today-in-history-e1946-Thu-Oct-15-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Thu, 15 Oct 2020 11:01:10 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastThuOct152020/today-in-history-e1946-Thu-Oct-15-2020.mp3" length="1236532" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Vichy leader executed for treason</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/vichy-leader-executed-for-treason&apos;&gt;https://www.history.com/this-day-in-history/vichy-leader-executed-for-treason&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - “Wake Up Little Susie” becomes the Everly Brothers’ first #1 hit]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/wake-up-little-susie-becomes-the-everly-brothers-first-1-hit'>https://www.history.com/this-day-in-history/wake-up-little-susie-becomes-the-everly-brothers-first-1-hit</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - October 17, 1973: OPEC enacts oil embargo</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/opec-enacts-oil-embargo&apos;&gt;https://www.history.com/this-day-in-history/opec-enacts-oil-embargo&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - October 16, 1923: Walt Disney Company is founded]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/walt-disney-company-founded'>https://www.history.com/this-day-in-history/walt-disney-company-founded</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastWedOct162019/today-in-history-e1584-Wed-Oct-16-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedOct162019/today-in-history-e1584-Wed-Oct-16-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Wed, 16 Oct 2019 11:02:08 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastWedOct162019/today-in-history-e1584-Wed-Oct-16-2019.mp3" length="1594096" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - October 16, 1923: Walt Disney Company is founded</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/walt-disney-company-founded&apos;&gt;https://www.history.com/this-day-in-history/walt-disney-company-founded&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
