@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Fri, 23 Oct 2020 10:01:23 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 24 Oct 2020 10:01:04 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Thirty Years' War ends]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/thirty-years-war-ends'>https://www.history.com/this-day-in-history/thirty-years-war-ends</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSatOct242020/today-in-history-e1955-Sat-Oct-24-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatOct242020/today-in-history-e1955-Sat-Oct-24-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sat, 24 Oct 2020 11:01:04 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSatOct242020/today-in-history-e1955-Sat-Oct-24-2020.mp3" length="858488" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Thirty Years&apos; War ends</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/thirty-years-war-ends&apos;&gt;https://www.history.com/this-day-in-history/thirty-years-war-ends&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Gas leak kills 23 at plastics factory]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/gas-leak-kills-23-at-plastics-factory'>https://www.history.com/this-day-in-history/gas-leak-kills-23-at-plastics-factory</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - October 26, 1985: Whitney Houston earns her first #1 hit with “Saving All My Love For You”</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/whitney-houston-earns-her-first-1-hit-with-saving-all-my-love-for-you&apos;&gt;https://www.history.com/this-day-in-history/whitney-houston-earns-her-first-1-hit-with-saving-all-my-love-for-you&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - October 25, 1980: Australian rock gods AC/DC earn their first Top 40 hit with “You Shook Me All Night Long”]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/australian-rock-gods-acdc-earn-their-first-top-40-hit-with-you-shook-me-all-night-long'>https://www.history.com/this-day-in-history/australian-rock-gods-acdc-earn-their-first-top-40-hit-with-you-shook-me-all-night-long</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1593-Fri-Oct-25-2019.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1593-Fri-Oct-25-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Fri, 25 Oct 2019 11:01:28 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1593-Fri-Oct-25-2019.mp3" length="1627951" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - October 25, 1980: Australian rock gods AC/DC earn their first Top 40 hit with “You Shook Me All Night Long”</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/australian-rock-gods-acdc-earn-their-first-top-40-hit-with-you-shook-me-all-night-long&apos;&gt;https://www.history.com/this-day-in-history/australian-rock-gods-acdc-earn-their-first-top-40-hit-with-you-shook-me-all-night-long&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
