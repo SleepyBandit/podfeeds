@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Mon, 26 Oct 2020 10:01:04 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 27 Oct 2020 10:01:14 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - The United States and Soviet Union step back from brink of nuclear war]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/the-united-states-and-soviet-union-step-back-from-brink-of-nuclear-war'>https://www.history.com/this-day-in-history/the-united-states-and-soviet-union-step-back-from-brink-of-nuclear-war</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastTueOct272020/today-in-history-e1958-Tue-Oct-27-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastTueOct272020/today-in-history-e1958-Tue-Oct-27-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Tue, 27 Oct 2020 11:01:14 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastTueOct272020/today-in-history-e1958-Tue-Oct-27-2020.mp3" length="1558569" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - The United States and Soviet Union step back from brink of nuclear war</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/the-united-states-and-soviet-union-step-back-from-brink-of-nuclear-war&apos;&gt;https://www.history.com/this-day-in-history/the-united-states-and-soviet-union-step-back-from-brink-of-nuclear-war&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Whitney Houston earns her first #1 hit with “Saving All My Love For You”]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/whitney-houston-earns-her-first-1-hit-with-saving-all-my-love-for-you'>https://www.history.com/this-day-in-history/whitney-houston-earns-her-first-1-hit-with-saving-all-my-love-for-you</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - October 29, 1929: Stock market crashes on Black Tuesday</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/stock-market-crashes&apos;&gt;https://www.history.com/this-day-in-history/stock-market-crashes&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - October 28, 1940: Italy invades Greece]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/italy-invades-greece'>https://www.history.com/this-day-in-history/italy-invades-greece</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastMonOct282019/today-in-history-e1596-Mon-Oct-28-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonOct282019/today-in-history-e1596-Mon-Oct-28-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Mon, 28 Oct 2019 11:01:32 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastMonOct282019/today-in-history-e1596-Mon-Oct-28-2019.mp3" length="1213753" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - October 28, 1940: Italy invades Greece</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/italy-invades-greece&apos;&gt;https://www.history.com/this-day-in-history/italy-invades-greece&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
