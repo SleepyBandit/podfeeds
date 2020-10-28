@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 27 Oct 2020 10:01:14 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 28 Oct 2020 10:01:24 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Statue of Liberty dedicated]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/statue-of-liberty-dedicated'>https://www.history.com/this-day-in-history/statue-of-liberty-dedicated</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastWedOct282020/today-in-history-e1959-Wed-Oct-28-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedOct282020/today-in-history-e1959-Wed-Oct-28-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 28 Oct 2020 11:01:24 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastWedOct282020/today-in-history-e1959-Wed-Oct-28-2020.mp3" length="1525133" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Statue of Liberty dedicated</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/statue-of-liberty-dedicated&apos;&gt;https://www.history.com/this-day-in-history/statue-of-liberty-dedicated&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - The United States and Soviet Union step back from brink of nuclear war]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/the-united-states-and-soviet-union-step-back-from-brink-of-nuclear-war'>https://www.history.com/this-day-in-history/the-united-states-and-soviet-union-step-back-from-brink-of-nuclear-war</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - October 30, 1908: Queen of American high society dies</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/queen-of-american-high-society-dies&apos;&gt;https://www.history.com/this-day-in-history/queen-of-american-high-society-dies&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - October 29, 1929: Stock market crashes on Black Tuesday]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/stock-market-crashes'>https://www.history.com/this-day-in-history/stock-market-crashes</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastTueOct292019/today-in-history-e1597-Tue-Oct-29-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastTueOct292019/today-in-history-e1597-Tue-Oct-29-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Tue, 29 Oct 2019 11:01:47 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastTueOct292019/today-in-history-e1597-Tue-Oct-29-2019.mp3" length="1655327" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - October 29, 1929: Stock market crashes on Black Tuesday</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/stock-market-crashes&apos;&gt;https://www.history.com/this-day-in-history/stock-market-crashes&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
