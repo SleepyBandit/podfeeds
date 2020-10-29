@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Wed, 28 Oct 2020 10:01:24 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 29 Oct 2020 10:01:24 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Stock market crashes on Black Tuesday]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/stock-market-crashes'>https://www.history.com/this-day-in-history/stock-market-crashes</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastThuOct292020/today-in-history-e1960-Thu-Oct-29-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuOct292020/today-in-history-e1960-Thu-Oct-29-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Thu, 29 Oct 2020 11:01:24 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastThuOct292020/today-in-history-e1960-Thu-Oct-29-2020.mp3" length="1626279" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Stock market crashes on Black Tuesday</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/stock-market-crashes&apos;&gt;https://www.history.com/this-day-in-history/stock-market-crashes&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Statue of Liberty dedicated]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/statue-of-liberty-dedicated'>https://www.history.com/this-day-in-history/statue-of-liberty-dedicated</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - October 31, 1961: Stalin’s body removed from Lenin’s tomb</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/stalins-body-removed-from-lenins-tomb&apos;&gt;https://www.history.com/this-day-in-history/stalins-body-removed-from-lenins-tomb&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - October 30, 1908: Queen of American high society dies]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/queen-of-american-high-society-dies'>https://www.history.com/this-day-in-history/queen-of-american-high-society-dies</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastWedOct302019/today-in-history-e1598-Wed-Oct-30-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedOct302019/today-in-history-e1598-Wed-Oct-30-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Wed, 30 Oct 2019 11:01:19 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastWedOct302019/today-in-history-e1598-Wed-Oct-30-2019.mp3" length="871235" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - October 30, 1908: Queen of American high society dies</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/queen-of-american-high-society-dies&apos;&gt;https://www.history.com/this-day-in-history/queen-of-american-high-society-dies&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
