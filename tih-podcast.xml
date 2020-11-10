@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Mon, 09 Nov 2020 10:01:49 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 10 Nov 2020 10:01:12 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Playwright and activist hanged in Nigeria]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/playwright-and-activist-hanged-in-nigeria'>https://www.history.com/this-day-in-history/playwright-and-activist-hanged-in-nigeria</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastTueNov102020/today-in-history-e1972-Tue-Nov-10-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastTueNov102020/today-in-history-e1972-Tue-Nov-10-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Tue, 10 Nov 2020 10:01:12 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastTueNov102020/today-in-history-e1972-Tue-Nov-10-2020.mp3" length="926824" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Playwright and activist hanged in Nigeria</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/playwright-and-activist-hanged-in-nigeria&apos;&gt;https://www.history.com/this-day-in-history/playwright-and-activist-hanged-in-nigeria&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Best-selling Millennium trilogy author Stieg Larsson dies at 50]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/best-selling-millennium-trilogy-author-stieg-larsson-dies-at-50'>https://www.history.com/this-day-in-history/best-selling-millennium-trilogy-author-stieg-larsson-dies-at-50</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - November 12, 1799: First meteor shower on record</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/first-meteor-shower-on-record&apos;&gt;https://www.history.com/this-day-in-history/first-meteor-shower-on-record&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - November 11, 1921: Dedication of the Tomb of the Unknowns]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/dedication-of-the-tomb-of-the-unknowns'>https://www.history.com/this-day-in-history/dedication-of-the-tomb-of-the-unknowns</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastMonNov112019/today-in-history-e1610-Mon-Nov-11-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonNov112019/today-in-history-e1610-Mon-Nov-11-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Mon, 11 Nov 2019 10:01:32 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastMonNov112019/today-in-history-e1610-Mon-Nov-11-2019.mp3" length="1236323" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - November 11, 1921: Dedication of the Tomb of the Unknowns</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/dedication-of-the-tomb-of-the-unknowns&apos;&gt;https://www.history.com/this-day-in-history/dedication-of-the-tomb-of-the-unknowns&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
