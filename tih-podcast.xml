@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Thu, 12 Nov 2020 10:00:58 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 13 Nov 2020 10:01:23 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - ISIL stages series of terrorist attacks in Paris, culminating in massacre at Bataclan theater]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/paris-terrorist-attacks-bataclan'>https://www.history.com/this-day-in-history/paris-terrorist-attacks-bataclan</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastFriNov132020/today-in-history-e1975-Fri-Nov-13-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastFriNov132020/today-in-history-e1975-Fri-Nov-13-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Fri, 13 Nov 2020 10:01:23 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastFriNov132020/today-in-history-e1975-Fri-Nov-13-2020.mp3" length="1675598" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - ISIL stages series of terrorist attacks in Paris, culminating in massacre at Bataclan theater</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/paris-terrorist-attacks-bataclan&apos;&gt;https://www.history.com/this-day-in-history/paris-terrorist-attacks-bataclan&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - First meteor shower on record]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/first-meteor-shower-on-record'>https://www.history.com/this-day-in-history/first-meteor-shower-on-record</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - November 15, 1917: Georges Clemenceau named French prime minister</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/georges-clemenceau-named-french-prime-minister&apos;&gt;https://www.history.com/this-day-in-history/georges-clemenceau-named-french-prime-minister&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - November 14, 1965: Major battle erupts in the Ia Drang Valley]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/major-battle-erupts-in-the-ia-drang-valley'>https://www.history.com/this-day-in-history/major-battle-erupts-in-the-ia-drang-valley</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastThuNov142019/today-in-history-e1613-Thu-Nov-14-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuNov142019/today-in-history-e1613-Thu-Nov-14-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Thu, 14 Nov 2019 10:01:47 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastThuNov142019/today-in-history-e1613-Thu-Nov-14-2019.mp3" length="1648640" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - November 14, 1965: Major battle erupts in the Ia Drang Valley</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/major-battle-erupts-in-the-ia-drang-valley&apos;&gt;https://www.history.com/this-day-in-history/major-battle-erupts-in-the-ia-drang-valley&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
