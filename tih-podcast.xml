@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sat, 14 Nov 2020 10:01:32 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 15 Nov 2020 10:01:23 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Microsoft releases Xbox gaming console]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/microsoft-releases-xbox-gaming-console'>https://www.history.com/this-day-in-history/microsoft-releases-xbox-gaming-console</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSunNov152020/today-in-history-e1977-Sun-Nov-15-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSunNov152020/today-in-history-e1977-Sun-Nov-15-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sun, 15 Nov 2020 10:01:23 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSunNov152020/today-in-history-e1977-Sun-Nov-15-2020.mp3" length="1324303" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Microsoft releases Xbox gaming console</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/microsoft-releases-xbox-gaming-console&apos;&gt;https://www.history.com/this-day-in-history/microsoft-releases-xbox-gaming-console&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Apollo 12 lifts off]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/apollo-12-lifts-off'>https://www.history.com/this-day-in-history/apollo-12-lifts-off</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - November 17, 1863: Siege of Knoxville, Tennessee, begins</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/siege-of-knoxville-tennessee-begins&apos;&gt;https://www.history.com/this-day-in-history/siege-of-knoxville-tennessee-begins&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - November 16, 1971: U.S. provides support to beleaguered Cambodians]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/u-s-provides-support-to-beleaguered-cambodians'>https://www.history.com/this-day-in-history/u-s-provides-support-to-beleaguered-cambodians</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSatNov162019/today-in-history-e1615-Sat-Nov-16-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatNov162019/today-in-history-e1615-Sat-Nov-16-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sat, 16 Nov 2019 10:01:16 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSatNov162019/today-in-history-e1615-Sat-Nov-16-2019.mp3" length="598935" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - November 16, 1971: U.S. provides support to beleaguered Cambodians</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/u-s-provides-support-to-beleaguered-cambodians&apos;&gt;https://www.history.com/this-day-in-history/u-s-provides-support-to-beleaguered-cambodians&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
