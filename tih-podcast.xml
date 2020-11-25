@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 24 Nov 2020 10:01:11 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Nov 2020 10:01:05 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Japanese author Yukio Mishima dies by suicide]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/mishima-commits-ritual-suicide'>https://www.history.com/this-day-in-history/mishima-commits-ritual-suicide</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastWedNov252020/today-in-history-e1987-Wed-Nov-25-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedNov252020/today-in-history-e1987-Wed-Nov-25-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 25 Nov 2020 10:01:05 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastWedNov252020/today-in-history-e1987-Wed-Nov-25-2020.mp3" length="1070184" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Japanese author Yukio Mishima dies by suicide</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/mishima-commits-ritual-suicide&apos;&gt;https://www.history.com/this-day-in-history/mishima-commits-ritual-suicide&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Terrorists attack mosque in Sinai, Egypt]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/terrorist-attack-sinai-mosque-egypt'>https://www.history.com/this-day-in-history/terrorist-attack-sinai-mosque-egypt</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - November 27, 2005: Aerosmith and 50 Cent headline a $10 million bat mitzvah</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/aerosmith-and-50-cent-headline-a-10-million-bar-mitzvah&apos;&gt;https://www.history.com/this-day-in-history/aerosmith-and-50-cent-headline-a-10-million-bar-mitzvah&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - November 26, 1968: Air Force helicopter pilot rescues Special Forces team]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/air-force-helicopter-pilot-rescues-special-forces-team'>https://www.history.com/this-day-in-history/air-force-helicopter-pilot-rescues-special-forces-team</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastTueNov262019/today-in-history-e1625-Tue-Nov-26-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastTueNov262019/today-in-history-e1625-Tue-Nov-26-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Tue, 26 Nov 2019 10:01:24 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastTueNov262019/today-in-history-e1625-Tue-Nov-26-2019.mp3" length="801436" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - November 26, 1968: Air Force helicopter pilot rescues Special Forces team</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/air-force-helicopter-pilot-rescues-special-forces-team&apos;&gt;https://www.history.com/this-day-in-history/air-force-helicopter-pilot-rescues-special-forces-team&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
