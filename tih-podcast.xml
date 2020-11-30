@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sun, 29 Nov 2020 10:01:26 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 30 Nov 2020 10:01:25 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Winston Churchill born]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/winston-churchill-born'>https://www.history.com/this-day-in-history/winston-churchill-born</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastMonNov302020/today-in-history-e1992-Mon-Nov-30-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonNov302020/today-in-history-e1992-Mon-Nov-30-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Mon, 30 Nov 2020 10:01:25 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastMonNov302020/today-in-history-e1992-Mon-Nov-30-2020.mp3" length="1781551" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Winston Churchill born</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/winston-churchill-born&apos;&gt;https://www.history.com/this-day-in-history/winston-churchill-born&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - George Harrison, lead guitarist for the Beatles, dies]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/george-harrison-beatles-guitarist-dies'>https://www.history.com/this-day-in-history/george-harrison-beatles-guitarist-dies</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - December 02, 1859: Abolitionist John Brown is hanged</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/john-brown-hanged&apos;&gt;https://www.history.com/this-day-in-history/john-brown-hanged&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - December 01, 1934: Russian revolutionary Sergei Kirov murdered]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/sergey-kirov-murdered'>https://www.history.com/this-day-in-history/sergey-kirov-murdered</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSunDec012019/today-in-history-e1630-Sun-Dec-01-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSunDec012019/today-in-history-e1630-Sun-Dec-01-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sun, 01 Dec 2019 10:01:25 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSunDec012019/today-in-history-e1630-Sun-Dec-01-2019.mp3" length="988682" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - December 01, 1934: Russian revolutionary Sergei Kirov murdered</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/sergey-kirov-murdered&apos;&gt;https://www.history.com/this-day-in-history/sergey-kirov-murdered&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
