@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 01 Dec 2020 10:01:03 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 02 Dec 2020 10:01:17 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Environmental Protection Agency opens]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/environmental-protection-agency-opens'>https://www.history.com/this-day-in-history/environmental-protection-agency-opens</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastWedDec022020/today-in-history-e1994-Wed-Dec-02-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedDec022020/today-in-history-e1994-Wed-Dec-02-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 02 Dec 2020 10:01:17 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastWedDec022020/today-in-history-e1994-Wed-Dec-02-2020.mp3" length="1486889" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Environmental Protection Agency opens</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/environmental-protection-agency-opens&apos;&gt;https://www.history.com/this-day-in-history/environmental-protection-agency-opens&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Russian revolutionary Sergei Kirov murdered]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/sergey-kirov-murdered'>https://www.history.com/this-day-in-history/sergey-kirov-murdered</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - December 04, 2009: Amanda Knox convicted of murder in Italy</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/amanda-knox-convicted-of-murder-in-italy&apos;&gt;https://www.history.com/this-day-in-history/amanda-knox-convicted-of-murder-in-italy&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - December 03, 1818: Illinois becomes the 21st state]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/illinois-becomes-the-21st-state'>https://www.history.com/this-day-in-history/illinois-becomes-the-21st-state</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastTueDec032019/today-in-history-e1632-Tue-Dec-03-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastTueDec032019/today-in-history-e1632-Tue-Dec-03-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Tue, 03 Dec 2019 10:01:38 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastTueDec032019/today-in-history-e1632-Tue-Dec-03-2019.mp3" length="1497756" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - December 03, 1818: Illinois becomes the 21st state</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/illinois-becomes-the-21st-state&apos;&gt;https://www.history.com/this-day-in-history/illinois-becomes-the-21st-state&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
