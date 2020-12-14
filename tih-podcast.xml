@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sun, 13 Dec 2020 10:01:10 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 14 Dec 2020 10:01:04 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2020]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - The birth of quantum theory]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/the-birth-of-quantum-theory'>https://www.history.com/this-day-in-history/the-birth-of-quantum-theory</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastMonDec142020/today-in-history-e2006-Mon-Dec-14-2020.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonDec142020/today-in-history-e2006-Mon-Dec-14-2020.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Mon, 14 Dec 2020 10:01:04 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastMonDec142020/today-in-history-e2006-Mon-Dec-14-2020.mp3" length="1118458" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - The birth of quantum theory</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/the-birth-of-quantum-theory&apos;&gt;https://www.history.com/this-day-in-history/the-birth-of-quantum-theory&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - 16-year-old climate activist Greta Thunberg named Time's Person of the Year]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/climate-activist-greta-thunberg-named-time-person-of-the-year'>https://www.history.com/this-day-in-history/climate-activist-greta-thunberg-named-time-person-of-the-year</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - December 16, 1914: Germans bombard English ports of Hartlepool and Scarborough</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/germans-bombard-english-ports-of-hartlepool-and-scarborough&apos;&gt;https://www.history.com/this-day-in-history/germans-bombard-english-ports-of-hartlepool-and-scarborough&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - December 15, 1973: Kidnapped grandson of Getty billionaire found]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/billionaires-kidnapped-grandson-found-in-italy'>https://www.history.com/this-day-in-history/billionaires-kidnapped-grandson-found-in-italy</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSunDec152019/today-in-history-e1644-Sun-Dec-15-2019.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSunDec152019/today-in-history-e1644-Sun-Dec-15-2019.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sun, 15 Dec 2019 10:01:46 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSunDec152019/today-in-history-e1644-Sun-Dec-15-2019.mp3" length="1311555" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - December 15, 1973: Kidnapped grandson of Getty billionaire found</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/billionaires-kidnapped-grandson-found-in-italy&apos;&gt;https://www.history.com/this-day-in-history/billionaires-kidnapped-grandson-found-in-italy&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
