@@ -10,10 +10,10 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Thu, 31 Dec 2020 10:01:07 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 01 Jan 2021 10:01:21 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
-		<copyright><![CDATA[Copyright 2020]]></copyright>
+		<copyright><![CDATA[Copyright 2021]]></copyright>
 		<language><![CDATA[en]]></language>
 		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
 		<webMaster><![CDATA[Matt Greene]]></webMaster>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - The North American Free Trade Agreement comes into effect]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/nafta-comes-into-effect-us-mexico-canada-trade'>https://www.history.com/this-day-in-history/nafta-comes-into-effect-us-mexico-canada-trade</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastFriJan012021/today-in-history-e2024-Fri-Jan-01-2021.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastFriJan012021/today-in-history-e2024-Fri-Jan-01-2021.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Fri, 01 Jan 2021 10:01:21 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastFriJan012021/today-in-history-e2024-Fri-Jan-01-2021.mp3" length="1697123" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - The North American Free Trade Agreement comes into effect</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/nafta-comes-into-effect-us-mexico-canada-trade&apos;&gt;https://www.history.com/this-day-in-history/nafta-comes-into-effect-us-mexico-canada-trade&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Charter granted to the East India Company]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/charter-granted-to-the-east-india-company'>https://www.history.com/this-day-in-history/charter-granted-to-the-east-india-company</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - January 03, 2004: The Mars Exploration Rover &quot;Spirit&quot; safely lands on the Red Planet</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/nasa-mars-exploration-rover-spirit-lands-on-mars&apos;&gt;https://www.history.com/this-day-in-history/nasa-mars-exploration-rover-spirit-lands-on-mars&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - January 02, 2006: 13 coal miners are trapped in Sago Mine disaster; 12 die]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/13-coal-miners-are-trapped-in-sago-mine-disaster-west-virginia'>https://www.history.com/this-day-in-history/13-coal-miners-are-trapped-in-sago-mine-disaster-west-virginia</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastThuJan022020/today-in-history-e1662-Thu-Jan-02-2020.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuJan022020/today-in-history-e1662-Thu-Jan-02-2020.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Thu, 02 Jan 2020 10:01:48 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastThuJan022020/today-in-history-e1662-Thu-Jan-02-2020.mp3" length="1702138" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - January 02, 2006: 13 coal miners are trapped in Sago Mine disaster; 12 die</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/13-coal-miners-are-trapped-in-sago-mine-disaster-west-virginia&apos;&gt;https://www.history.com/this-day-in-history/13-coal-miners-are-trapped-in-sago-mine-disaster-west-virginia&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
