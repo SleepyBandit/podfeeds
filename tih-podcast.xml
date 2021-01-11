@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sun, 10 Jan 2021 10:01:01 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 11 Jan 2021 10:01:25 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2021]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - U.S. Surgeon General announces definitive link between smoking and cancer]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/surgeon-general-announces-link-between-smoking-cigarettes-and-cancer'>https://www.history.com/this-day-in-history/surgeon-general-announces-link-between-smoking-cigarettes-and-cancer</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastMonJan112021/today-in-history-e2034-Mon-Jan-11-2021.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonJan112021/today-in-history-e2034-Mon-Jan-11-2021.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Mon, 11 Jan 2021 10:01:25 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastMonJan112021/today-in-history-e2034-Mon-Jan-11-2021.mp3" length="1812271" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - U.S. Surgeon General announces definitive link between smoking and cancer</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/surgeon-general-announces-link-between-smoking-cigarettes-and-cancer&apos;&gt;https://www.history.com/this-day-in-history/surgeon-general-announces-link-between-smoking-cigarettes-and-cancer&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - First meeting of the United Nations]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/first-meeting-of-the-united-nations'>https://www.history.com/this-day-in-history/first-meeting-of-the-united-nations</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - January 13, 1968: Johnny Cash performs at Folsom Prison</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/johnny-cash-performs-at-folsom-prison-california&apos;&gt;https://www.history.com/this-day-in-history/johnny-cash-performs-at-folsom-prison-california&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - January 12, 1962: Operation Ranch Hand initiated]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/operation-ranch-hand-initiated'>https://www.history.com/this-day-in-history/operation-ranch-hand-initiated</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSunJan122020/today-in-history-e1672-Sun-Jan-12-2020.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSunJan122020/today-in-history-e1672-Sun-Jan-12-2020.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sun, 12 Jan 2020 10:01:31 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSunJan122020/today-in-history-e1672-Sun-Jan-12-2020.mp3" length="1031314" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - January 12, 1962: Operation Ranch Hand initiated</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/operation-ranch-hand-initiated&apos;&gt;https://www.history.com/this-day-in-history/operation-ranch-hand-initiated&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
