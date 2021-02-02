@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Mon, 01 Feb 2021 10:01:13 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 02 Feb 2021 10:01:23 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2021]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Viet Cong officer is shot in the head; iconic photo taken]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/viet-cong-officer-is-shot-in-the-head-iconic-photo-taken'>https://www.history.com/this-day-in-history/viet-cong-officer-is-shot-in-the-head-iconic-photo-taken</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastTueFeb022021/today-in-history-e2056-Tue-Feb-02-2021.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastTueFeb022021/today-in-history-e2056-Tue-Feb-02-2021.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Tue, 02 Feb 2021 10:01:23 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastTueFeb022021/today-in-history-e2056-Tue-Feb-02-2021.mp3" length="1831915" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Viet Cong officer is shot in the head; iconic photo taken</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/viet-cong-officer-is-shot-in-the-head-iconic-photo-taken&apos;&gt;https://www.history.com/this-day-in-history/viet-cong-officer-is-shot-in-the-head-iconic-photo-taken&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - "House of Cards," Netflix's first original series, starts streaming]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/house-of-cards-netflix-first-original-series-starts-streaming'>https://www.history.com/this-day-in-history/house-of-cards-netflix-first-original-series-starts-streaming</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - February 04, 1861: States meet to form Confederacy</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/states-meet-to-form-confederacy&apos;&gt;https://www.history.com/this-day-in-history/states-meet-to-form-confederacy&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - February 03, 1924: Woodrow Wilson dies]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/woodrow-wilson-dies'>https://www.history.com/this-day-in-history/woodrow-wilson-dies</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastMonFeb032020/today-in-history-e1694-Mon-Feb-03-2020.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonFeb032020/today-in-history-e1694-Mon-Feb-03-2020.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Mon, 03 Feb 2020 10:01:42 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastMonFeb032020/today-in-history-e1694-Mon-Feb-03-2020.mp3" length="1548329" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - February 03, 1924: Woodrow Wilson dies</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/woodrow-wilson-dies&apos;&gt;https://www.history.com/this-day-in-history/woodrow-wilson-dies&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
