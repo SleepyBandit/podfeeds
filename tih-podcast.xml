@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 02 Feb 2021 10:01:23 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 03 Feb 2021 10:00:59 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2021]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Lunik 9 soft-lands on lunar surface]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/lunik-9-soft-lands-on-lunar-surface'>https://www.history.com/this-day-in-history/lunik-9-soft-lands-on-lunar-surface</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastWedFeb032021/today-in-history-e2057-Wed-Feb-03-2021.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedFeb032021/today-in-history-e2057-Wed-Feb-03-2021.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 03 Feb 2021 10:00:59 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastWedFeb032021/today-in-history-e2057-Wed-Feb-03-2021.mp3" length="951902" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Lunik 9 soft-lands on lunar surface</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/lunik-9-soft-lands-on-lunar-surface&apos;&gt;https://www.history.com/this-day-in-history/lunik-9-soft-lands-on-lunar-surface&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Viet Cong officer is shot in the head; iconic photo taken]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/viet-cong-officer-is-shot-in-the-head-iconic-photo-taken'>https://www.history.com/this-day-in-history/viet-cong-officer-is-shot-in-the-head-iconic-photo-taken</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - February 05, 2003: Secretary of State Colin Powell speaks at UN, justifies US invasion of Iraq</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/secretary-of-state-colin-powell-speaks-at-un-invasion-of-iraq&apos;&gt;https://www.history.com/this-day-in-history/secretary-of-state-colin-powell-speaks-at-un-invasion-of-iraq&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - February 04, 1861: States meet to form Confederacy]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/states-meet-to-form-confederacy'>https://www.history.com/this-day-in-history/states-meet-to-form-confederacy</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastTueFeb042020/today-in-history-e1695-Tue-Feb-04-2020.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastTueFeb042020/today-in-history-e1695-Tue-Feb-04-2020.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Tue, 04 Feb 2020 10:01:38 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastTueFeb042020/today-in-history-e1695-Tue-Feb-04-2020.mp3" length="1410821" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - February 04, 1861: States meet to form Confederacy</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/states-meet-to-form-confederacy&apos;&gt;https://www.history.com/this-day-in-history/states-meet-to-form-confederacy&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
