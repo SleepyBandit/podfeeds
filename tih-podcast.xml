@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sun, 07 Feb 2021 10:01:20 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 Feb 2021 10:01:21 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2021]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Three protestors die in the Orangeburg Massacre]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/three-protestors-die-in-the-orangeburg-massacre'>https://www.history.com/this-day-in-history/three-protestors-die-in-the-orangeburg-massacre</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastMonFeb082021/today-in-history-e2062-Mon-Feb-08-2021.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonFeb082021/today-in-history-e2062-Mon-Feb-08-2021.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Mon, 08 Feb 2021 10:01:21 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastMonFeb082021/today-in-history-e2062-Mon-Feb-08-2021.mp3" length="1737247" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Three protestors die in the Orangeburg Massacre</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/three-protestors-die-in-the-orangeburg-massacre&apos;&gt;https://www.history.com/this-day-in-history/three-protestors-die-in-the-orangeburg-massacre&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Full U.S.-Cuba embargo is announced]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/full-us-cuba-embargo-is-announced'>https://www.history.com/this-day-in-history/full-us-cuba-embargo-is-announced</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - February 10, 1957: Laura Ingalls Wilder, chronicler of American frontier life, dies</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/laura-ingalls-wilder-chronicler-of-american-frontier-life-dies&apos;&gt;https://www.history.com/this-day-in-history/laura-ingalls-wilder-chronicler-of-american-frontier-life-dies&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - February 09, 1942: The Normandie catches fire]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/the-normandie-catches-fire'>https://www.history.com/this-day-in-history/the-normandie-catches-fire</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSunFeb092020/today-in-history-e1700-Sun-Feb-09-2020.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSunFeb092020/today-in-history-e1700-Sun-Feb-09-2020.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sun, 09 Feb 2020 10:02:02 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSunFeb092020/today-in-history-e1700-Sun-Feb-09-2020.mp3" length="1615412" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - February 09, 1942: The Normandie catches fire</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/the-normandie-catches-fire&apos;&gt;https://www.history.com/this-day-in-history/the-normandie-catches-fire&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
