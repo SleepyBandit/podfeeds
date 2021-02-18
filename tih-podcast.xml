@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Wed, 17 Feb 2021 10:00:54 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 18 Feb 2021 10:01:27 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2021]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - WikiLeaks publishes the first documents leaked by Chelsea Manning]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/wikileaks-publishes-first-documents-leaked-by-chelsea-manning'>https://www.history.com/this-day-in-history/wikileaks-publishes-first-documents-leaked-by-chelsea-manning</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastThuFeb182021/today-in-history-e2072-Thu-Feb-18-2021.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuFeb182021/today-in-history-e2072-Thu-Feb-18-2021.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Thu, 18 Feb 2021 10:01:27 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastThuFeb182021/today-in-history-e2072-Thu-Feb-18-2021.mp3" length="1927836" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - WikiLeaks publishes the first documents leaked by Chelsea Manning</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/wikileaks-publishes-first-documents-leaked-by-chelsea-manning&apos;&gt;https://www.history.com/this-day-in-history/wikileaks-publishes-first-documents-leaked-by-chelsea-manning&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - China invades Vietnam]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/china-invades-vietnam'>https://www.history.com/this-day-in-history/china-invades-vietnam</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - February 20, 1962: John Glenn becomes first American to orbit Earth</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/an-american-orbits-earth&apos;&gt;https://www.history.com/this-day-in-history/an-american-orbits-earth&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - February 19, 1473: Polish astronomer Copernicus is born]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/copernicus-born'>https://www.history.com/this-day-in-history/copernicus-born</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastWedFeb192020/today-in-history-e1710-Wed-Feb-19-2020.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedFeb192020/today-in-history-e1710-Wed-Feb-19-2020.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Wed, 19 Feb 2020 10:02:40 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastWedFeb192020/today-in-history-e1710-Wed-Feb-19-2020.mp3" length="3178370" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - February 19, 1473: Polish astronomer Copernicus is born</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/copernicus-born&apos;&gt;https://www.history.com/this-day-in-history/copernicus-born&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
