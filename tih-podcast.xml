@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Thu, 18 Feb 2021 10:01:27 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 19 Feb 2021 10:01:13 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2021]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Tiger Woods apologizes for extramarital affairs]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/tiger-woods-apologizes-for-extramarital-affairs'>https://www.history.com/this-day-in-history/tiger-woods-apologizes-for-extramarital-affairs</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastFriFeb192021/today-in-history-e2073-Fri-Feb-19-2021.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastFriFeb192021/today-in-history-e2073-Fri-Feb-19-2021.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Fri, 19 Feb 2021 10:01:13 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastFriFeb192021/today-in-history-e2073-Fri-Feb-19-2021.mp3" length="1479575" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Tiger Woods apologizes for extramarital affairs</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/tiger-woods-apologizes-for-extramarital-affairs&apos;&gt;https://www.history.com/this-day-in-history/tiger-woods-apologizes-for-extramarital-affairs&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - WikiLeaks publishes the first documents leaked by Chelsea Manning]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/wikileaks-publishes-first-documents-leaked-by-chelsea-manning'>https://www.history.com/this-day-in-history/wikileaks-publishes-first-documents-leaked-by-chelsea-manning</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - February 21, 1885: Washington Monument dedicated</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/washington-monument-dedicated&apos;&gt;https://www.history.com/this-day-in-history/washington-monument-dedicated&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - February 20, 1962: John Glenn becomes first American to orbit Earth]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/an-american-orbits-earth'>https://www.history.com/this-day-in-history/an-american-orbits-earth</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastThuFeb202020/today-in-history-e1711-Thu-Feb-20-2020.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuFeb202020/today-in-history-e1711-Thu-Feb-20-2020.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Thu, 20 Feb 2020 10:02:31 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastThuFeb202020/today-in-history-e1711-Thu-Feb-20-2020.mp3" length="3126961" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - February 20, 1962: John Glenn becomes first American to orbit Earth</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/an-american-orbits-earth&apos;&gt;https://www.history.com/this-day-in-history/an-american-orbits-earth&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
