@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Mon, 08 Mar 2021 10:01:36 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 09 Mar 2021 10:01:18 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2021]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Russian Bolshevik Party becomes the Communist Party]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/russian-bolshevik-party-becomes-the-communist-party'>https://www.history.com/this-day-in-history/russian-bolshevik-party-becomes-the-communist-party</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastTueMar092021/today-in-history-e2091-Tue-Mar-09-2021.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastTueMar092021/today-in-history-e2091-Tue-Mar-09-2021.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Tue, 09 Mar 2021 10:01:18 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastTueMar092021/today-in-history-e2091-Tue-Mar-09-2021.mp3" length="1723036" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Russian Bolshevik Party becomes the Communist Party</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/russian-bolshevik-party-becomes-the-communist-party&apos;&gt;https://www.history.com/this-day-in-history/russian-bolshevik-party-becomes-the-communist-party&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Malaysia Airlines flight vanishes with more than 200 people aboard]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/malaysia-airlines-flight-vanishes-with-more-than-200-people-aboard'>https://www.history.com/this-day-in-history/malaysia-airlines-flight-vanishes-with-more-than-200-people-aboard</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - March 10, 1970: Army captain charged with My Lai war crimes</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/army-captain-charged-with-my-lai-war-crimes&apos;&gt;https://www.history.com/this-day-in-history/army-captain-charged-with-my-lai-war-crimes&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - March 09, 1841: Supreme Court rules on Amistad slave ship mutiny case]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/supreme-court-rules-on-amistad-mutiny'>https://www.history.com/this-day-in-history/supreme-court-rules-on-amistad-mutiny</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastMonMar092020/today-in-history-e1729-Mon-Mar-09-2020.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonMar092020/today-in-history-e1729-Mon-Mar-09-2020.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Mon, 09 Mar 2020 11:02:10 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastMonMar092020/today-in-history-e1729-Mon-Mar-09-2020.mp3" length="2478288" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - March 09, 1841: Supreme Court rules on Amistad slave ship mutiny case</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/supreme-court-rules-on-amistad-mutiny&apos;&gt;https://www.history.com/this-day-in-history/supreme-court-rules-on-amistad-mutiny&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
