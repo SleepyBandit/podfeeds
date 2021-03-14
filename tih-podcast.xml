@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sat, 13 Mar 2021 10:01:24 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 14 Mar 2021 10:01:00 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2021]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - First Gold Record awarded to Perry Como for “Catch a Falling Star”]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/the-recording-industry-association-of-america-awards-first-gold-record-to-perry-como-for-catch-a-falling-star'>https://www.history.com/this-day-in-history/the-recording-industry-association-of-america-awards-first-gold-record-to-perry-como-for-catch-a-falling-star</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2096-Sun-Mar-14-2021.mp3</link>
+			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2096-Sun-Mar-14-2021.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sun, 14 Mar 2021 11:01:00 GMT</pubDate>
+			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2096-Sun-Mar-14-2021.mp3" length="1509041" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - First Gold Record awarded to Perry Como for “Catch a Falling Star”</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/the-recording-industry-association-of-america-awards-first-gold-record-to-perry-como-for-catch-a-falling-star&apos;&gt;https://www.history.com/this-day-in-history/the-recording-industry-association-of-america-awards-first-gold-record-to-perry-como-for-catch-a-falling-star&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Breonna Taylor is killed by police in botched raid]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/breonna-taylor-is-killed-by-police'>https://www.history.com/this-day-in-history/breonna-taylor-is-killed-by-police</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6589,24 +6607,6 @@
 			<enclosure url="https://archive.org/download/tihpodcastThuMar152018/today-in-history-e1014-Thu-Mar-15-2018.mp3" length="1788447" type="audio/mpeg"/>
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - March 15, 1965: Johnson calls for equal voting rights</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - March 14, 1879: Albert Einstein born]]></title>
-			<description><![CDATA[<a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastWedMar142018/today-in-history-e1013-Wed-Mar-14-2018.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedMar142018/today-in-history-e1013-Wed-Mar-14-2018.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sat, 14 Mar 2020 12:01:24 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastWedMar142018/today-in-history-e1013-Wed-Mar-14-2018.mp3" length="3089972" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - March 14, 1879: Albert Einstein born</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
