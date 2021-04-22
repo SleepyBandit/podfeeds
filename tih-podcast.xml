@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Wed, 21 Apr 2021 10:01:19 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 22 Apr 2021 10:01:00 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2021]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Peruvian President Fujimori orders assault on Japanese ambassador’s home]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/fujimori-orders-assault-on-japanese-ambassadors-home'>https://www.history.com/this-day-in-history/fujimori-orders-assault-on-japanese-ambassadors-home</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2135-Thu-Apr-22-2021.mp3</link>
+			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2135-Thu-Apr-22-2021.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Thu, 22 Apr 2021 11:01:00 GMT</pubDate>
+			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2135-Thu-Apr-22-2021.mp3" length="1494831" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Peruvian President Fujimori orders assault on Japanese ambassador’s home</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/fujimori-orders-assault-on-japanese-ambassadors-home&apos;&gt;https://www.history.com/this-day-in-history/fujimori-orders-assault-on-japanese-ambassadors-home&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - “Sip-In” takes place at Julius' Bar in New York City]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/sip-in-gay-rights-takes-place-at-julius-bar-in-nyc'>https://www.history.com/this-day-in-history/sip-in-gay-rights-takes-place-at-julius-bar-in-nyc</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - King Brian of Ireland murdered by Vikings</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/king-brian-of-ireland-murdered-by-vikings&apos;&gt;https://www.history.com/this-day-in-history/king-brian-of-ireland-murdered-by-vikings&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - Peruvian President Fujimori orders assault on Japanese ambassador’s home]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/fujimori-orders-assault-on-japanese-ambassadors-home'>https://www.history.com/this-day-in-history/fujimori-orders-assault-on-japanese-ambassadors-home</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1770-Wed-Apr-22-2020.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1770-Wed-Apr-22-2020.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Wed, 22 Apr 2020 11:00:59 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e1770-Wed-Apr-22-2020.mp3" length="1495040" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - Peruvian President Fujimori orders assault on Japanese ambassador’s home</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/fujimori-orders-assault-on-japanese-ambassadors-home&apos;&gt;https://www.history.com/this-day-in-history/fujimori-orders-assault-on-japanese-ambassadors-home&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
