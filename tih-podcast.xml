@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Wed, 26 May 2021 10:01:50 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 27 May 2021 10:01:08 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2021]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Chinese gold miners are slaughtered in the Hells Canyon Massacre]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/hells-canyon-massacre'>https://www.history.com/this-day-in-history/hells-canyon-massacre</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastThuMay272021/today-in-history-e2170-Thu-May-27-2021.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuMay272021/today-in-history-e2170-Thu-May-27-2021.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Thu, 27 May 2021 11:01:08 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastThuMay272021/today-in-history-e2170-Thu-May-27-2021.mp3" length="1298599" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Chinese gold miners are slaughtered in the Hells Canyon Massacre</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/hells-canyon-massacre&apos;&gt;https://www.history.com/this-day-in-history/hells-canyon-massacre&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - President Johnson acquitted in Senate impeachment trial]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/president-johnson-acquitted'>https://www.history.com/this-day-in-history/president-johnson-acquitted</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Terrorists attack Ahmadiyya mosques in Pakistan</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/terrorists-attack-ahmadiyya-mosques-in-pakistan&apos;&gt;https://www.history.com/this-day-in-history/terrorists-attack-ahmadiyya-mosques-in-pakistan&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - British navy sinks the German battleship Bismarck]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/bismarck-sunk-by-royal-navy'>https://www.history.com/this-day-in-history/bismarck-sunk-by-royal-navy</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastWedMay272020/today-in-history-e1805-Wed-May-27-2020.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedMay272020/today-in-history-e1805-Wed-May-27-2020.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Wed, 27 May 2020 11:01:14 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastWedMay272020/today-in-history-e1805-Wed-May-27-2020.mp3" length="1288150" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - British navy sinks the German battleship Bismarck</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/bismarck-sunk-by-royal-navy&apos;&gt;https://www.history.com/this-day-in-history/bismarck-sunk-by-royal-navy&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
