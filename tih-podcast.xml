@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sun, 06 Jun 2021 10:01:27 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 07 Jun 2021 10:01:12 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2021]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Texas passes a bill becoming the first state in the nation to make Juneteenth an official state holiday]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/texas-bill-makes-juneteenth-an-official-state-holiday'>https://www.history.com/this-day-in-history/texas-bill-makes-juneteenth-an-official-state-holiday</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastMonJun072021/today-in-history-e2181-Mon-Jun-07-2021.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonJun072021/today-in-history-e2181-Mon-Jun-07-2021.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Mon, 07 Jun 2021 11:01:12 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastMonJun072021/today-in-history-e2181-Mon-Jun-07-2021.mp3" length="1461603" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Texas passes a bill becoming the first state in the nation to make Juneteenth an official state holiday</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/texas-bill-makes-juneteenth-an-official-state-holiday&apos;&gt;https://www.history.com/this-day-in-history/texas-bill-makes-juneteenth-an-official-state-holiday&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Edward Snowden discloses U.S. government operations]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/edward-snowden-discloses-u-s-government-operations'>https://www.history.com/this-day-in-history/edward-snowden-discloses-u-s-government-operations</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Muhammad, founder of Islam, dies</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/founder-of-islam-dies&apos;&gt;https://www.history.com/this-day-in-history/founder-of-islam-dies&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - Michael Skakel convicted of 1975 murder in Greenwich]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/michael-skakel-convicted-of-1975-murder-in-greenwich'>https://www.history.com/this-day-in-history/michael-skakel-convicted-of-1975-murder-in-greenwich</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSunJun072020/today-in-history-e1816-Sun-Jun-07-2020.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSunJun072020/today-in-history-e1816-Sun-Jun-07-2020.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sun, 07 Jun 2020 11:01:48 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSunJun072020/today-in-history-e1816-Sun-Jun-07-2020.mp3" length="2140995" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - Michael Skakel convicted of 1975 murder in Greenwich</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/michael-skakel-convicted-of-1975-murder-in-greenwich&apos;&gt;https://www.history.com/this-day-in-history/michael-skakel-convicted-of-1975-murder-in-greenwich&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
