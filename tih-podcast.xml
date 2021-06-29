@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Mon, 28 Jun 2021 10:01:11 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 29 Jun 2021 10:01:40 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2021]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Germans advance in USSR]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/germans-advance-in-ussr'>https://www.history.com/this-day-in-history/germans-advance-in-ussr</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastTueJun292021/today-in-history-e2202-Tue-Jun-29-2021.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastTueJun292021/today-in-history-e2202-Tue-Jun-29-2021.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Tue, 29 Jun 2021 11:01:40 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastTueJun292021/today-in-history-e2202-Tue-Jun-29-2021.mp3" length="2451330" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Germans advance in USSR</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/germans-advance-in-ussr&apos;&gt;https://www.history.com/this-day-in-history/germans-advance-in-ussr&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Bald Eagle removed from list of threatened species]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/bald-eagle-removed-from-list-of-threatened-species'>https://www.history.com/this-day-in-history/bald-eagle-removed-from-list-of-threatened-species</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Germans advance in USSR</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/germans-advance-in-ussr&apos;&gt;https://www.history.com/this-day-in-history/germans-advance-in-ussr&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - Bald Eagle removed from list of threatened species]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/bald-eagle-removed-from-list-of-threatened-species'>https://www.history.com/this-day-in-history/bald-eagle-removed-from-list-of-threatened-species</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSunJun282020/today-in-history-e1837-Sun-Jun-28-2020.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSunJun282020/today-in-history-e1837-Sun-Jun-28-2020.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sun, 28 Jun 2020 11:01:15 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSunJun282020/today-in-history-e1837-Sun-Jun-28-2020.mp3" length="1328901" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - Bald Eagle removed from list of threatened species</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/bald-eagle-removed-from-list-of-threatened-species&apos;&gt;https://www.history.com/this-day-in-history/bald-eagle-removed-from-list-of-threatened-species&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
