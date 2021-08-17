@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Mon, 16 Aug 2021 10:01:15 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 17 Aug 2021 10:01:12 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2021]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Foul balls batter unlucky Philadelphia Phillies fan]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/philadelphia-phillies-fan-hit-foul-balls-1957'>https://www.history.com/this-day-in-history/philadelphia-phillies-fan-hit-foul-balls-1957</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastTueAug172021/today-in-history-e2251-Tue-Aug-17-2021.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastTueAug172021/today-in-history-e2251-Tue-Aug-17-2021.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Tue, 17 Aug 2021 11:01:12 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastTueAug172021/today-in-history-e2251-Tue-Aug-17-2021.mp3" length="1277492" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Foul balls batter unlucky Philadelphia Phillies fan</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/philadelphia-phillies-fan-hit-foul-balls-1957&apos;&gt;https://www.history.com/this-day-in-history/philadelphia-phillies-fan-hit-foul-balls-1957&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Usain Bolt sets 100-meter dash world record]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/usain-bolt-100-meter-run-world-record'>https://www.history.com/this-day-in-history/usain-bolt-100-meter-run-world-record</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - The first Miss Black America pageant takes place</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/the-first-black-miss-america-pageant-takes-place&apos;&gt;https://www.history.com/this-day-in-history/the-first-black-miss-america-pageant-takes-place&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - U.S. surrenders Fort Detroit to the British]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/detroit-surrenders-without-a-fight'>https://www.history.com/this-day-in-history/detroit-surrenders-without-a-fight</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSunAug162020/today-in-history-e1886-Sun-Aug-16-2020.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSunAug162020/today-in-history-e1886-Sun-Aug-16-2020.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sun, 16 Aug 2020 11:01:06 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSunAug162020/today-in-history-e1886-Sun-Aug-16-2020.mp3" length="1003520" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - U.S. surrenders Fort Detroit to the British</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/detroit-surrenders-without-a-fight&apos;&gt;https://www.history.com/this-day-in-history/detroit-surrenders-without-a-fight&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
