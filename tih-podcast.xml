@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 31 Aug 2021 10:01:11 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 01 Sep 2021 10:01:16 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2021]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Pittsburgh Pirates field MLB's first all-Black lineup]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/mlb-all-black-lineup-pittsburgh-pirates'>https://www.history.com/this-day-in-history/mlb-all-black-lineup-pittsburgh-pirates</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastWedSep012021/today-in-history-e2266-Wed-Sep-01-2021.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedSep012021/today-in-history-e2266-Wed-Sep-01-2021.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 01 Sep 2021 11:01:16 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastWedSep012021/today-in-history-e2266-Wed-Sep-01-2021.mp3" length="1490233" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Pittsburgh Pirates field MLB&apos;s first all-Black lineup</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/mlb-all-black-lineup-pittsburgh-pirates&apos;&gt;https://www.history.com/this-day-in-history/mlb-all-black-lineup-pittsburgh-pirates&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Princess Diana dies in a car crash]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/princess-diana-dies-in-car-crash-paris'>https://www.history.com/this-day-in-history/princess-diana-dies-in-car-crash-paris</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Bobby Fischer becomes the first American to win the World Chess Championship</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/bobby-fischer-first-american-winner-world-chess-championship&apos;&gt;https://www.history.com/this-day-in-history/bobby-fischer-first-american-winner-world-chess-championship&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - Princess Diana dies in a car crash]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/princess-diana-dies-in-car-crash-paris'>https://www.history.com/this-day-in-history/princess-diana-dies-in-car-crash-paris</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastMonAug312020/today-in-history-e1901-Mon-Aug-31-2020.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonAug312020/today-in-history-e1901-Mon-Aug-31-2020.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Mon, 31 Aug 2020 11:01:15 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastMonAug312020/today-in-history-e1901-Mon-Aug-31-2020.mp3" length="1481247" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - Princess Diana dies in a car crash</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/princess-diana-dies-in-car-crash-paris&apos;&gt;https://www.history.com/this-day-in-history/princess-diana-dies-in-car-crash-paris&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
