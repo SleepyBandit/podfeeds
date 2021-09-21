@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Mon, 20 Sep 2021 10:01:05 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 21 Sep 2021 10:01:11 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2021]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Last baseball game played at historic Yankee Stadium]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/yankee-stadium-final-baseball-game'>https://www.history.com/this-day-in-history/yankee-stadium-final-baseball-game</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastTueSep212021/today-in-history-e2286-Tue-Sep-21-2021.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastTueSep212021/today-in-history-e2286-Tue-Sep-21-2021.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Tue, 21 Sep 2021 11:01:11 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastTueSep212021/today-in-history-e2286-Tue-Sep-21-2021.mp3" length="1460976" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Last baseball game played at historic Yankee Stadium</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/yankee-stadium-final-baseball-game&apos;&gt;https://www.history.com/this-day-in-history/yankee-stadium-final-baseball-game&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Louganis wins Olympic gold the day after suffering head injury]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/louganis-1988-summer-olympics-diving'>https://www.history.com/this-day-in-history/louganis-1988-summer-olympics-diving</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - The Great New England Hurricane</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/the-great-new-england-hurricane&apos;&gt;https://www.history.com/this-day-in-history/the-great-new-england-hurricane&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - First European battle on American soil]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/first-european-battle-on-american-soil'>https://www.history.com/this-day-in-history/first-european-battle-on-american-soil</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSunSep202020/today-in-history-e1921-Sun-Sep-20-2020.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSunSep202020/today-in-history-e1921-Sun-Sep-20-2020.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sun, 20 Sep 2020 11:01:22 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSunSep202020/today-in-history-e1921-Sun-Sep-20-2020.mp3" length="1093799" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - First European battle on American soil</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/first-european-battle-on-american-soil&apos;&gt;https://www.history.com/this-day-in-history/first-european-battle-on-american-soil&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
