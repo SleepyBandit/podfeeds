@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 12 Oct 2021 10:01:13 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 13 Oct 2021 10:01:27 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2021]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Uruguayan Air Force Flight 571 crashes in the Andes]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/uruguayan-air-force-flight-571-crashes-in-the-andes'>https://www.history.com/this-day-in-history/uruguayan-air-force-flight-571-crashes-in-the-andes</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastWedOct132021/today-in-history-e2308-Wed-Oct-13-2021.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedOct132021/today-in-history-e2308-Wed-Oct-13-2021.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 13 Oct 2021 11:01:27 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastWedOct132021/today-in-history-e2308-Wed-Oct-13-2021.mp3" length="1983007" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Uruguayan Air Force Flight 571 crashes in the Andes</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/uruguayan-air-force-flight-571-crashes-in-the-andes&apos;&gt;https://www.history.com/this-day-in-history/uruguayan-air-force-flight-571-crashes-in-the-andes&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Silent-film star Tom Mix dies in Arizona car wreck]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/silent-film-star-tom-mix-dies-in-arizona-car-wreck-brained-by-suitcase-of-death'>https://www.history.com/this-day-in-history/silent-film-star-tom-mix-dies-in-arizona-car-wreck-brained-by-suitcase-of-death</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Chilean miners are rescued after 69 days underground</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/chilean-miners-are-rescued-after-69-days-underground&apos;&gt;https://www.history.com/this-day-in-history/chilean-miners-are-rescued-after-69-days-underground&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - Silent-film star Tom Mix dies in Arizona car wreck]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/silent-film-star-tom-mix-dies-in-arizona-car-wreck-brained-by-suitcase-of-death'>https://www.history.com/this-day-in-history/silent-film-star-tom-mix-dies-in-arizona-car-wreck-brained-by-suitcase-of-death</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastMonOct122020/today-in-history-e1943-Mon-Oct-12-2020.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonOct122020/today-in-history-e1943-Mon-Oct-12-2020.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Mon, 12 Oct 2020 11:01:31 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastMonOct122020/today-in-history-e1943-Mon-Oct-12-2020.mp3" length="1503190" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - Silent-film star Tom Mix dies in Arizona car wreck</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/silent-film-star-tom-mix-dies-in-arizona-car-wreck-brained-by-suitcase-of-death&apos;&gt;https://www.history.com/this-day-in-history/silent-film-star-tom-mix-dies-in-arizona-car-wreck-brained-by-suitcase-of-death&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
