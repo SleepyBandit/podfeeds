@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Wed, 13 Oct 2021 10:01:27 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 14 Oct 2021 10:00:56 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2021]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - “Wake Up Little Susie” becomes the Everly Brothers’ first #1 hit]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/wake-up-little-susie-becomes-the-everly-brothers-first-1-hit'>https://www.history.com/this-day-in-history/wake-up-little-susie-becomes-the-everly-brothers-first-1-hit</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2309-Thu-Oct-14-2021.mp3</link>
+			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2309-Thu-Oct-14-2021.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Thu, 14 Oct 2021 11:00:56 GMT</pubDate>
+			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2309-Thu-Oct-14-2021.mp3" length="1313436" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - “Wake Up Little Susie” becomes the Everly Brothers’ first #1 hit</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/wake-up-little-susie-becomes-the-everly-brothers-first-1-hit&apos;&gt;https://www.history.com/this-day-in-history/wake-up-little-susie-becomes-the-everly-brothers-first-1-hit&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Uruguayan Air Force Flight 571 crashes in the Andes]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/uruguayan-air-force-flight-571-crashes-in-the-andes'>https://www.history.com/this-day-in-history/uruguayan-air-force-flight-571-crashes-in-the-andes</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - “Wake Up Little Susie” becomes the Everly Brothers’ first #1 hit</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/wake-up-little-susie-becomes-the-everly-brothers-first-1-hit&apos;&gt;https://www.history.com/this-day-in-history/wake-up-little-susie-becomes-the-everly-brothers-first-1-hit&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - Chilean miners are rescued after 69 days underground]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/chilean-miners-are-rescued-after-69-days-underground'>https://www.history.com/this-day-in-history/chilean-miners-are-rescued-after-69-days-underground</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastTueOct132020/today-in-history-e1944-Tue-Oct-13-2020.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastTueOct132020/today-in-history-e1944-Tue-Oct-13-2020.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Tue, 13 Oct 2020 11:01:23 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastTueOct132020/today-in-history-e1944-Tue-Oct-13-2020.mp3" length="1676643" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - Chilean miners are rescued after 69 days underground</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/chilean-miners-are-rescued-after-69-days-underground&apos;&gt;https://www.history.com/this-day-in-history/chilean-miners-are-rescued-after-69-days-underground&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
