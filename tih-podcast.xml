@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 16 Nov 2021 10:01:21 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 17 Nov 2021 10:01:12 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2021]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Velvet Revolution begins in Czechoslovakia]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/velvet-revolution-begins-in-czechoslovakia'>https://www.history.com/this-day-in-history/velvet-revolution-begins-in-czechoslovakia</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastWedNov172021/today-in-history-e2343-Wed-Nov-17-2021.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedNov172021/today-in-history-e2343-Wed-Nov-17-2021.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 17 Nov 2021 10:01:12 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastWedNov172021/today-in-history-e2343-Wed-Nov-17-2021.mp3" length="1465155" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Velvet Revolution begins in Czechoslovakia</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/velvet-revolution-begins-in-czechoslovakia&apos;&gt;https://www.history.com/this-day-in-history/velvet-revolution-begins-in-czechoslovakia&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Oklahoma enters the Union]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/oklahoma-enters-the-union'>https://www.history.com/this-day-in-history/oklahoma-enters-the-union</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Siege of Knoxville, Tennessee, begins</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/siege-of-knoxville-tennessee-begins&apos;&gt;https://www.history.com/this-day-in-history/siege-of-knoxville-tennessee-begins&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - Oklahoma enters the Union]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/oklahoma-enters-the-union'>https://www.history.com/this-day-in-history/oklahoma-enters-the-union</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastMonNov162020/today-in-history-e1978-Mon-Nov-16-2020.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonNov162020/today-in-history-e1978-Mon-Nov-16-2020.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Mon, 16 Nov 2020 10:01:48 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastMonNov162020/today-in-history-e1978-Mon-Nov-16-2020.mp3" length="1809136" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - Oklahoma enters the Union</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/oklahoma-enters-the-union&apos;&gt;https://www.history.com/this-day-in-history/oklahoma-enters-the-union&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
