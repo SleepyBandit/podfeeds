@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Fri, 17 Dec 2021 10:01:03 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 18 Dec 2021 10:01:14 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2021]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - First NFL playoff game is played indoors]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/memorable-nfl-playoffs-indoors-bears'>https://www.history.com/this-day-in-history/memorable-nfl-playoffs-indoors-bears</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSatDec182021/today-in-history-e2374-Sat-Dec-18-2021.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatDec182021/today-in-history-e2374-Sat-Dec-18-2021.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sat, 18 Dec 2021 10:01:14 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSatDec182021/today-in-history-e2374-Sat-Dec-18-2021.mp3" length="1418762" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - First NFL playoff game is played indoors</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/memorable-nfl-playoffs-indoors-bears&apos;&gt;https://www.history.com/this-day-in-history/memorable-nfl-playoffs-indoors-bears&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - First issue of "Vogue" is published]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/first-issue-of-vogue-magazine-is-published'>https://www.history.com/this-day-in-history/first-issue-of-vogue-magazine-is-published</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - President Donald Trump impeached</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/president-trump-impeached-house-of-representatives&apos;&gt;https://www.history.com/this-day-in-history/president-trump-impeached-house-of-representatives&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - First issue of "Vogue" is published]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/first-issue-of-vogue-magazine-is-published'>https://www.history.com/this-day-in-history/first-issue-of-vogue-magazine-is-published</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastThuDec172020/today-in-history-e2009-Thu-Dec-17-2020.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuDec172020/today-in-history-e2009-Thu-Dec-17-2020.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Thu, 17 Dec 2020 10:01:05 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastThuDec172020/today-in-history-e2009-Thu-Dec-17-2020.mp3" length="1152104" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - First issue of &quot;Vogue&quot; is published</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/first-issue-of-vogue-magazine-is-published&apos;&gt;https://www.history.com/this-day-in-history/first-issue-of-vogue-magazine-is-published&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
