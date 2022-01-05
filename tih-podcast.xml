@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 04 Jan 2022 10:01:10 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 05 Jan 2022 10:01:25 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2022]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Pope Clement VII forbids King Henry VIII from remarrying]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/pope-clement-vii-forbids-king-henry-viii-from-remarrying'>https://www.history.com/this-day-in-history/pope-clement-vii-forbids-king-henry-viii-from-remarrying</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastWedJan052022/today-in-history-e2392-Wed-Jan-05-2022.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedJan052022/today-in-history-e2392-Wed-Jan-05-2022.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 05 Jan 2022 10:01:25 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastWedJan052022/today-in-history-e2392-Wed-Jan-05-2022.mp3" length="1693779" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Pope Clement VII forbids King Henry VIII from remarrying</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/pope-clement-vii-forbids-king-henry-viii-from-remarrying&apos;&gt;https://www.history.com/this-day-in-history/pope-clement-vii-forbids-king-henry-viii-from-remarrying&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Patsy T. Mink sworn in as first Asian American woman and woman of color in Congress]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/patsy-mink-sworn-in-first-asian-american-woman-of-color-in-congress'>https://www.history.com/this-day-in-history/patsy-mink-sworn-in-first-asian-american-woman-of-color-in-congress</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Pope Clement VII forbids King Henry VIII from remarrying</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/pope-clement-vii-forbids-king-henry-viii-from-remarrying&apos;&gt;https://www.history.com/this-day-in-history/pope-clement-vii-forbids-king-henry-viii-from-remarrying&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - President Nixon refuses to hand over tapes]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/president-nixon-refuses-to-hand-over-tapes'>https://www.history.com/this-day-in-history/president-nixon-refuses-to-hand-over-tapes</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastMonJan042021/today-in-history-e2027-Mon-Jan-04-2021.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonJan042021/today-in-history-e2027-Mon-Jan-04-2021.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Mon, 04 Jan 2021 10:00:50 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastMonJan042021/today-in-history-e2027-Mon-Jan-04-2021.mp3" length="597681" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - President Nixon refuses to hand over tapes</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/president-nixon-refuses-to-hand-over-tapes&apos;&gt;https://www.history.com/this-day-in-history/president-nixon-refuses-to-hand-over-tapes&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
