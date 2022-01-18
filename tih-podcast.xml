@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Mon, 17 Jan 2022 10:01:07 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 18 Jan 2022 10:01:04 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2022]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - MLB owners approve interleague play]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/mlb-interleague-play-approval-1996'>https://www.history.com/this-day-in-history/mlb-interleague-play-approval-1996</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastTueJan182022/today-in-history-e2405-Tue-Jan-18-2022.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastTueJan182022/today-in-history-e2405-Tue-Jan-18-2022.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Tue, 18 Jan 2022 10:01:04 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastTueJan182022/today-in-history-e2405-Tue-Jan-18-2022.mp3" length="1152731" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - MLB owners approve interleague play</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/mlb-interleague-play-approval-1996&apos;&gt;https://www.history.com/this-day-in-history/mlb-interleague-play-approval-1996&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - NFL's Rams announce move to St. Louis]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/nfl-team-relocations-los-angeles-rams-st-louis'>https://www.history.com/this-day-in-history/nfl-team-relocations-los-angeles-rams-st-louis</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - “Mandy” is Barry Manilow’s first #1 pop hit</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/mandy-is-barry-manilows-first-1-pop-hit&apos;&gt;https://www.history.com/this-day-in-history/mandy-is-barry-manilows-first-1-pop-hit&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - Ireland grants a divorce for the first time in the country's history]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/ireland-grants-first-divorce-history-catholic-church'>https://www.history.com/this-day-in-history/ireland-grants-first-divorce-history-catholic-church</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSunJan172021/today-in-history-e2040-Sun-Jan-17-2021.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSunJan172021/today-in-history-e2040-Sun-Jan-17-2021.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sun, 17 Jan 2021 10:01:15 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSunJan172021/today-in-history-e2040-Sun-Jan-17-2021.mp3" length="1519699" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - Ireland grants a divorce for the first time in the country&apos;s history</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/ireland-grants-first-divorce-history-catholic-church&apos;&gt;https://www.history.com/this-day-in-history/ireland-grants-first-divorce-history-catholic-church&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
