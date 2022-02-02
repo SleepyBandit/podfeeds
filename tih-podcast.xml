@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 01 Feb 2022 10:01:05 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 02 Feb 2022 10:01:22 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2022]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Viet Cong officer is shot in the head; iconic photo taken]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/viet-cong-officer-is-shot-in-the-head-iconic-photo-taken'>https://www.history.com/this-day-in-history/viet-cong-officer-is-shot-in-the-head-iconic-photo-taken</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastWedFeb022022/today-in-history-e2420-Wed-Feb-02-2022.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedFeb022022/today-in-history-e2420-Wed-Feb-02-2022.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 02 Feb 2022 10:01:22 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastWedFeb022022/today-in-history-e2420-Wed-Feb-02-2022.mp3" length="1831706" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Viet Cong officer is shot in the head; iconic photo taken</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/viet-cong-officer-is-shot-in-the-head-iconic-photo-taken&apos;&gt;https://www.history.com/this-day-in-history/viet-cong-officer-is-shot-in-the-head-iconic-photo-taken&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Greensboro sit-in begins]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/greensboro-sit-in-begins'>https://www.history.com/this-day-in-history/greensboro-sit-in-begins</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Viet Cong officer is shot in the head; iconic photo taken</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/viet-cong-officer-is-shot-in-the-head-iconic-photo-taken&apos;&gt;https://www.history.com/this-day-in-history/viet-cong-officer-is-shot-in-the-head-iconic-photo-taken&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - "House of Cards," Netflix's first original series, starts streaming]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/house-of-cards-netflix-first-original-series-starts-streaming'>https://www.history.com/this-day-in-history/house-of-cards-netflix-first-original-series-starts-streaming</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastMonFeb012021/today-in-history-e2055-Mon-Feb-01-2021.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonFeb012021/today-in-history-e2055-Mon-Feb-01-2021.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Mon, 01 Feb 2021 10:01:13 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastMonFeb012021/today-in-history-e2055-Mon-Feb-01-2021.mp3" length="1474560" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - &quot;House of Cards,&quot; Netflix&apos;s first original series, starts streaming</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/house-of-cards-netflix-first-original-series-starts-streaming&apos;&gt;https://www.history.com/this-day-in-history/house-of-cards-netflix-first-original-series-starts-streaming&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
