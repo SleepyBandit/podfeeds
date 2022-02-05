@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Fri, 04 Feb 2022 10:01:19 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 05 Feb 2022 10:01:36 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2022]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Secretary of State Colin Powell speaks at UN, justifies US invasion of Iraq]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/secretary-of-state-colin-powell-speaks-at-un-invasion-of-iraq'>https://www.history.com/this-day-in-history/secretary-of-state-colin-powell-speaks-at-un-invasion-of-iraq</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSatFeb052022/today-in-history-e2423-Sat-Feb-05-2022.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatFeb052022/today-in-history-e2423-Sat-Feb-05-2022.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sat, 05 Feb 2022 10:01:36 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSatFeb052022/today-in-history-e2423-Sat-Feb-05-2022.mp3" length="2285609" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Secretary of State Colin Powell speaks at UN, justifies US invasion of Iraq</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/secretary-of-state-colin-powell-speaks-at-un-invasion-of-iraq&apos;&gt;https://www.history.com/this-day-in-history/secretary-of-state-colin-powell-speaks-at-un-invasion-of-iraq&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Amadou Diallo killed by police]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/amadou-diallo-killed-by-police-new-york-city'>https://www.history.com/this-day-in-history/amadou-diallo-killed-by-police-new-york-city</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Secretary of State Colin Powell speaks at UN, justifies US invasion of Iraq</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/secretary-of-state-colin-powell-speaks-at-un-invasion-of-iraq&apos;&gt;https://www.history.com/this-day-in-history/secretary-of-state-colin-powell-speaks-at-un-invasion-of-iraq&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - Facebook launches]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/facebook-launches-mark-zuckerberg'>https://www.history.com/this-day-in-history/facebook-launches-mark-zuckerberg</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastThuFeb042021/today-in-history-e2058-Thu-Feb-04-2021.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuFeb042021/today-in-history-e2058-Thu-Feb-04-2021.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Thu, 04 Feb 2021 10:01:22 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastThuFeb042021/today-in-history-e2058-Thu-Feb-04-2021.mp3" length="1688137" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - Facebook launches</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/facebook-launches-mark-zuckerberg&apos;&gt;https://www.history.com/this-day-in-history/facebook-launches-mark-zuckerberg&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
