@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Thu, 24 Feb 2022 10:01:01 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 25 Feb 2022 10:01:03 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2022]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - NHL game televised in US for first time]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/nhl-hockey-milestone-broadcast-1940'>https://www.history.com/this-day-in-history/nhl-hockey-milestone-broadcast-1940</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastFriFeb252022/today-in-history-e2443-Fri-Feb-25-2022.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastFriFeb252022/today-in-history-e2443-Fri-Feb-25-2022.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Fri, 25 Feb 2022 10:01:03 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastFriFeb252022/today-in-history-e2443-Fri-Feb-25-2022.mp3" length="1206230" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - NHL game televised in US for first time</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/nhl-hockey-milestone-broadcast-1940&apos;&gt;https://www.history.com/this-day-in-history/nhl-hockey-milestone-broadcast-1940&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Zimmermann Telegram presented to U.S. ambassador]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/zimmermann-note-presented-to-u-s-ambassador'>https://www.history.com/this-day-in-history/zimmermann-note-presented-to-u-s-ambassador</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Legal Tender Act passed to help finance the Civil War</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/legal-tender-act-passed&apos;&gt;https://www.history.com/this-day-in-history/legal-tender-act-passed&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - Zimmermann Telegram presented to U.S. ambassador]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/zimmermann-note-presented-to-u-s-ambassador'>https://www.history.com/this-day-in-history/zimmermann-note-presented-to-u-s-ambassador</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastWedFeb242021/today-in-history-e2078-Wed-Feb-24-2021.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedFeb242021/today-in-history-e2078-Wed-Feb-24-2021.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Wed, 24 Feb 2021 10:01:01 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastWedFeb242021/today-in-history-e2078-Wed-Feb-24-2021.mp3" length="1064960" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - Zimmermann Telegram presented to U.S. ambassador</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/zimmermann-note-presented-to-u-s-ambassador&apos;&gt;https://www.history.com/this-day-in-history/zimmermann-note-presented-to-u-s-ambassador&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
