@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sat, 05 Mar 2022 10:01:10 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 06 Mar 2022 10:01:21 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2022]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Walter Cronkite signs off as anchorman of "CBS Evening News"]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/walter-cronkite-retires-from-cbs-evening-news'>https://www.history.com/this-day-in-history/walter-cronkite-retires-from-cbs-evening-news</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSunMar062022/today-in-history-e2452-Sun-Mar-06-2022.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSunMar062022/today-in-history-e2452-Sun-Mar-06-2022.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sun, 06 Mar 2022 10:01:21 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSunMar062022/today-in-history-e2452-Sun-Mar-06-2022.mp3" length="1844662" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Walter Cronkite signs off as anchorman of &quot;CBS Evening News&quot;</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/walter-cronkite-retires-from-cbs-evening-news&apos;&gt;https://www.history.com/this-day-in-history/walter-cronkite-retires-from-cbs-evening-news&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Marvin Miller elected first full-time MLB Players Association executive director]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/marvin-miller-mlb-players-association-election'>https://www.history.com/this-day-in-history/marvin-miller-mlb-players-association-election</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Walter Cronkite signs off as anchorman of &quot;CBS Evening News&quot;</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/walter-cronkite-retires-from-cbs-evening-news&apos;&gt;https://www.history.com/this-day-in-history/walter-cronkite-retires-from-cbs-evening-news&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - Iconic photo of Che Guevara taken]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/iconic-photo-of-che-guevara-taken'>https://www.history.com/this-day-in-history/iconic-photo-of-che-guevara-taken</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastFriMar052021/today-in-history-e2087-Fri-Mar-05-2021.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastFriMar052021/today-in-history-e2087-Fri-Mar-05-2021.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Fri, 05 Mar 2021 10:01:45 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastFriMar052021/today-in-history-e2087-Fri-Mar-05-2021.mp3" length="2106932" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - Iconic photo of Che Guevara taken</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/iconic-photo-of-che-guevara-taken&apos;&gt;https://www.history.com/this-day-in-history/iconic-photo-of-che-guevara-taken&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
