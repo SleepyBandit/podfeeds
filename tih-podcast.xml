@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Fri, 08 Apr 2022 10:01:14 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 09 Apr 2022 10:00:55 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2022]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - The Journey of Reconciliation—considered the first Freedom Ride—sets out from D.C.]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/journey-of-reconciliation-freedom-rides'>https://www.history.com/this-day-in-history/journey-of-reconciliation-freedom-rides</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2486-Sat-Apr-09-2022.mp3</link>
+			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2486-Sat-Apr-09-2022.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sat, 09 Apr 2022 11:00:55 GMT</pubDate>
+			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2486-Sat-Apr-09-2022.mp3" length="1314899" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - The Journey of Reconciliation—considered the first Freedom Ride—sets out from D.C.</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/journey-of-reconciliation-freedom-rides&apos;&gt;https://www.history.com/this-day-in-history/journey-of-reconciliation-freedom-rides&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Pitcher Jim Abbott, born without right hand, makes MLB debut]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/jim-abbott-major-league-debut-angels'>https://www.history.com/this-day-in-history/jim-abbott-major-league-debut-angels</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Rita Moreno becomes the first Hispanic woman to win an Oscar</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/rita-moreno-first-hispanic-woman-to-win-oscar-west-side-story&apos;&gt;https://www.history.com/this-day-in-history/rita-moreno-first-hispanic-woman-to-win-oscar-west-side-story&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - Somali pirates hijack Maersk Alabama ship]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/somali-pirates-hijack-maersk-alabama-ship'>https://www.history.com/this-day-in-history/somali-pirates-hijack-maersk-alabama-ship</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastThuApr082021/today-in-history-e2121-Thu-Apr-08-2021.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuApr082021/today-in-history-e2121-Thu-Apr-08-2021.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Thu, 08 Apr 2021 11:01:17 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastThuApr082021/today-in-history-e2121-Thu-Apr-08-2021.mp3" length="1653028" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - Somali pirates hijack Maersk Alabama ship</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/somali-pirates-hijack-maersk-alabama-ship&apos;&gt;https://www.history.com/this-day-in-history/somali-pirates-hijack-maersk-alabama-ship&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
