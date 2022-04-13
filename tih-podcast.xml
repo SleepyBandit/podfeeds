@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 12 Apr 2022 10:01:30 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 13 Apr 2022 10:01:25 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2022]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - U.S. military drops "Mother of All Bombs" on ISIS tunnel complex]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/mother-of-all-bombs-afghanistan'>https://www.history.com/this-day-in-history/mother-of-all-bombs-afghanistan</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastWedApr132022/today-in-history-e2490-Wed-Apr-13-2022.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedApr132022/today-in-history-e2490-Wed-Apr-13-2022.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 13 Apr 2022 11:01:25 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastWedApr132022/today-in-history-e2490-Wed-Apr-13-2022.mp3" length="1096097" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - U.S. military drops &quot;Mother of All Bombs&quot; on ISIS tunnel complex</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/mother-of-all-bombs-afghanistan&apos;&gt;https://www.history.com/this-day-in-history/mother-of-all-bombs-afghanistan&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Canadians capture Vimy Ridge in northern France]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/canadians-capture-vimy-ridge'>https://www.history.com/this-day-in-history/canadians-capture-vimy-ridge</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Metropolitan Museum of Art opens in New York City</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/metropolitan-museum-of-art-opens-in-new-york-city&apos;&gt;https://www.history.com/this-day-in-history/metropolitan-museum-of-art-opens-in-new-york-city&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - Martin Luther King, Jr. is jailed; writes "Letter from a Birmingham Jail"]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/martin-luther-king-jr-writes-letter-from-a-birmingham-jail'>https://www.history.com/this-day-in-history/martin-luther-king-jr-writes-letter-from-a-birmingham-jail</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastMonApr122021/today-in-history-e2125-Mon-Apr-12-2021.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonApr122021/today-in-history-e2125-Mon-Apr-12-2021.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Mon, 12 Apr 2021 11:01:32 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastMonApr122021/today-in-history-e2125-Mon-Apr-12-2021.mp3" length="2009338" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - Martin Luther King, Jr. is jailed; writes &quot;Letter from a Birmingham Jail&quot;</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/martin-luther-king-jr-writes-letter-from-a-birmingham-jail&apos;&gt;https://www.history.com/this-day-in-history/martin-luther-king-jr-writes-letter-from-a-birmingham-jail&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
