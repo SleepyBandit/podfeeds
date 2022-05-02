@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sun, 01 May 2022 10:01:13 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 02 May 2022 10:01:22 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2022]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - More than 1,000 schoolchildren protest segregation in the Children's Crusade]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/childrens-crusade-march-birmingham'>https://www.history.com/this-day-in-history/childrens-crusade-march-birmingham</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastMonMay022022/today-in-history-e2509-Mon-May-02-2022.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonMay022022/today-in-history-e2509-Mon-May-02-2022.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Mon, 02 May 2022 11:01:22 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastMonMay022022/today-in-history-e2509-Mon-May-02-2022.mp3" length="1278955" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - More than 1,000 schoolchildren protest segregation in the Children&apos;s Crusade</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/childrens-crusade-march-birmingham&apos;&gt;https://www.history.com/this-day-in-history/childrens-crusade-march-birmingham&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Babe Didrikson Zaharias wins final LPGA tournament of her career]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/babe-didrikson-zaharias-golf-champion'>https://www.history.com/this-day-in-history/babe-didrikson-zaharias-golf-champion</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Osama bin Laden killed by U.S. forces</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/osama-bin-laden-killed-by-u-s-forces&apos;&gt;https://www.history.com/this-day-in-history/osama-bin-laden-killed-by-u-s-forces&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - Gloria Steinem publishes part one of "A Bunny's Tale" in SHOW magazine]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/gloria-steinem-publishes-a-bunnys-tale-show-magazine'>https://www.history.com/this-day-in-history/gloria-steinem-publishes-a-bunnys-tale-show-magazine</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSatMay012021/today-in-history-e2144-Sat-May-01-2021.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatMay012021/today-in-history-e2144-Sat-May-01-2021.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sat, 01 May 2021 11:01:20 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSatMay012021/today-in-history-e2144-Sat-May-01-2021.mp3" length="1653655" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - Gloria Steinem publishes part one of &quot;A Bunny&apos;s Tale&quot; in SHOW magazine</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/gloria-steinem-publishes-a-bunnys-tale-show-magazine&apos;&gt;https://www.history.com/this-day-in-history/gloria-steinem-publishes-a-bunnys-tale-show-magazine&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
