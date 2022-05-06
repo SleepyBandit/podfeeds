@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Thu, 05 May 2022 10:01:09 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 06 May 2022 10:01:12 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2022]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - Ohio kidnap victims rescued after years in captivity]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/ohio-kidnap-victims-rescued-after-years-in-captivity'>https://www.history.com/this-day-in-history/ohio-kidnap-victims-rescued-after-years-in-captivity</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastFriMay062022/today-in-history-e2513-Fri-May-06-2022.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastFriMay062022/today-in-history-e2513-Fri-May-06-2022.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Fri, 06 May 2022 11:01:12 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastFriMay062022/today-in-history-e2513-Fri-May-06-2022.mp3" length="1518863" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - Ohio kidnap victims rescued after years in captivity</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/ohio-kidnap-victims-rescued-after-years-in-captivity&apos;&gt;https://www.history.com/this-day-in-history/ohio-kidnap-victims-rescued-after-years-in-captivity&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Cy Young pitches first perfect game in MLB history]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/perfect-games-mlb-history-cy-young'>https://www.history.com/this-day-in-history/perfect-games-mlb-history-cy-young</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Ohio kidnap victims rescued after years in captivity</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/ohio-kidnap-victims-rescued-after-years-in-captivity&apos;&gt;https://www.history.com/this-day-in-history/ohio-kidnap-victims-rescued-after-years-in-captivity&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - Chanel No. 5 perfume launches]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/chanel-no-5-perfume-launches'>https://www.history.com/this-day-in-history/chanel-no-5-perfume-launches</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastWedMay052021/today-in-history-e2148-Wed-May-05-2021.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedMay052021/today-in-history-e2148-Wed-May-05-2021.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Wed, 05 May 2021 11:01:23 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastWedMay052021/today-in-history-e2148-Wed-May-05-2021.mp3" length="1673508" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - Chanel No. 5 perfume launches</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/chanel-no-5-perfume-launches&apos;&gt;https://www.history.com/this-day-in-history/chanel-no-5-perfume-launches&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
