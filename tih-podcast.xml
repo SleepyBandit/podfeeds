@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Wed, 08 Jun 2022 10:01:13 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 09 Jun 2022 10:01:08 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2022]]></copyright>
@@ -41,6 +41,24 @@
 		<itunes:category text="Education"/>
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
+		<item>
+			<title><![CDATA[Today In History - 23 die in collapse of Ford's Theatre, site of Lincoln assassination]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/fords-theatre-collapse-lincoln-assassination'>https://www.history.com/this-day-in-history/fords-theatre-collapse-lincoln-assassination</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastThuJun092022/today-in-history-e2547-Thu-Jun-09-2022.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuJun092022/today-in-history-e2547-Thu-Jun-09-2022.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Thu, 09 Jun 2022 11:01:08 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastThuJun092022/today-in-history-e2547-Thu-Jun-09-2022.mp3" length="1332662" type="audio/mpeg"/>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:subtitle>Today In History - 23 die in collapse of Ford&apos;s Theatre, site of Lincoln assassination</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/fords-theatre-collapse-lincoln-assassination&apos;&gt;https://www.history.com/this-day-in-history/fords-theatre-collapse-lincoln-assassination&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - Shirley Chisholm visits her opponent George Wallace in the hospital]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/shirley-chisholm-visits-opponent-george-wallace-in-hospital'>https://www.history.com/this-day-in-history/shirley-chisholm-visits-opponent-george-wallace-in-hospital</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - “Where the Wild Things Are” author Maurice Sendak is born</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/where-the-wild-things-are-author-maurice-sendak-is-born&apos;&gt;https://www.history.com/this-day-in-history/where-the-wild-things-are-author-maurice-sendak-is-born&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - Best-selling crime novelist Patricia Cornwell is born]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/best-selling-crime-novelist-patricia-cornwell-is-born'>https://www.history.com/this-day-in-history/best-selling-crime-novelist-patricia-cornwell-is-born</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastWedJun092021/today-in-history-e2182-Wed-Jun-09-2021.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedJun092021/today-in-history-e2182-Wed-Jun-09-2021.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Wed, 09 Jun 2021 11:01:14 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastWedJun092021/today-in-history-e2182-Wed-Jun-09-2021.mp3" length="1477276" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - Best-selling crime novelist Patricia Cornwell is born</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/best-selling-crime-novelist-patricia-cornwell-is-born&apos;&gt;https://www.history.com/this-day-in-history/best-selling-crime-novelist-patricia-cornwell-is-born&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
