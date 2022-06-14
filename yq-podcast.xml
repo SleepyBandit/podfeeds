@@ -12,15 +12,15 @@
 		<generator>Podcast for Node</generator>
 		<lastBuildDate>Mon, 02 Apr 2018 13:02:29 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/yq-podcast.xml" rel="self" type="application/rss+xml"/>
-		<author><![CDATA[Matt Greene]]></author>
+		<author><![CDATA[Matt]]></author>
 		<copyright><![CDATA[Copyright 2018]]></copyright>
 		<language><![CDATA[en]]></language>
-		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
-		<webMaster><![CDATA[Matt Greene]]></webMaster>
+		<managingEditor><![CDATA[Matt]]></managingEditor>
+		<webMaster><![CDATA[Matt]]></webMaster>
 		<ttl>60</ttl>
 		<category><![CDATA[Entertainment]]></category>
 		<category><![CDATA[Education]]></category>
-		<itunes:author>Matt Greene</itunes:author>
+		<itunes:author>Matt</itunes:author>
 		<itunes:subtitle>Weekly, Bite-sized, Blockchain news stories.</itunes:subtitle>
 		<itunes:summary>Weekly, Bite-sized, Blockchain news stories.</itunes:summary>
 		<itunes:owner>
@@ -45,10 +45,10 @@
 			<category><![CDATA[Currency]]></category>
 			<category><![CDATA[Bitcoin]]></category>
 			<category><![CDATA[Blockchain]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<dc:creator><![CDATA[Matt]]></dc:creator>
 			<pubDate>Mon, 19 Mar 2018 14:02:22 GMT</pubDate>
 			<enclosure url="https://archive.org/download/yourqoinpodcastMonMar192018/yqp-e16-Mon-Mar-19-2018.mp3" length="3465508" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
+			<itunes:author>Matt</itunes:author>
 			<itunes:subtitle>Your Qoin Podcast - March 19th 2018</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://yqpod.com/the-crown-prince-of-liechtenstein-wants-to-invest-in-crypto/&apos;&gt;The Crown Prince of Liechtenstein Wants to Invest in Crypto&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/luxembourgs-regulators-warns-against-cryptocurrencies-and-icos/&apos;&gt;Luxembourg’s Regulators warns against Cryptocurrencies and ICOs&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/israel-bars-crypto-firms-from-tel-aviv-stock-exchange-indices/&apos;&gt;Israel Bars Crypto Firms from Tel Aviv Stock Exchange Indices&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/crypto-featured-for-first-time-in-us-congress-economic-report/&apos;&gt;Crypto Featured for First Time in US Congress Economic Report&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/sec-says-dozens-of-crypto-investigations-underway/&apos;&gt;SEC Says ‘Dozens’ of Crypto Investigations Underway&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/peter-thiel-bitcoin-will-be-the-one-online-equivalent-to-gold/&apos;&gt;Peter Thiel: Bitcoin Will Be the ‘One Online Equivalent to Gold’&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/coinbase-was-charged-with-two-class-action-suits/&apos;&gt;Coinbase was charged with two class action suits&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/binance-unveils-blockchain-for-new-crypto-exchange/&apos;&gt;Binance Unveils Blockchain for New Crypto Exchange&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/cryptomatoes-fruit-from-bitcoin-mining-heat/&apos;&gt;‘Cryptomatoes’ Fruit From Bitcoin Mining Heat&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/coinbase-adds-a-crypto-tax-calculator/&apos;&gt;Coinbase adds a crypto Tax Calculator&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
@@ -64,10 +64,10 @@
 			<category><![CDATA[Currency]]></category>
 			<category><![CDATA[Bitcoin]]></category>
 			<category><![CDATA[Blockchain]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<dc:creator><![CDATA[Matt]]></dc:creator>
 			<pubDate>Mon, 12 Mar 2018 14:02:15 GMT</pubDate>
 			<enclosure url="https://archive.org/download/yourqoinpodcastMonMar122018/yqp-e15-Mon-Mar-12-2018.mp3" length="3471360" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
+			<itunes:author>Matt</itunes:author>
 			<itunes:subtitle>Your Qoin Podcast - March 12th 2018</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://yqpod.com/bitcoin-transaction-volume-hits-two-year-low/&apos;&gt;Bitcoin Transaction Volume Hits Two-Year Low&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/auto-giant-launches-crypto-coin-to-reward-eco-friendly-driving/&apos;&gt;Auto Giant Launches Crypto Coin To Reward Eco-Friendly Driving&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/sec-chair-says-they-are-watching-companies-who-launch-icos/&apos;&gt;SEC Chair Says they are watching Companies who Launch ICOs&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/steve-bannon-says-cryptocurrency-will-bring-true-freedom/&apos;&gt;Steve Bannon Says Cryptocurrency Will Bring ‘True Freedom’&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/new-jersey-stops-ico-endorsed-by-steven-seagal/&apos;&gt;New Jersey stops ICO Endorsed by Steven Seagal&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/overstock-invest-in-blockchain-payments-startup/&apos;&gt;Overstock Invest in Blockchain Payments Startup&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/comcast-leads-seed-round-for-blockchain-startup/&apos;&gt;Comcast Leads Seed Round For Blockchain Startup&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/japans-crypto-exchanges-self-regulate-after-500-million-hack/&apos;&gt;Japan’s Crypto Exchanges Self-Regulate after $500 Million Hack&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/icelandic-police-are-hunting-for-bitcoin-miners/&apos;&gt;Icelandic Police Are Hunting for Bitcoin Miners&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/paypal-files-patent-for-cryptocurrency/&apos;&gt;PayPal Files Patent For Cryptocurrency&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
@@ -83,10 +83,10 @@
 			<category><![CDATA[Currency]]></category>
 			<category><![CDATA[Bitcoin]]></category>
 			<category><![CDATA[Blockchain]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<dc:creator><![CDATA[Matt]]></dc:creator>
 			<pubDate>Mon, 05 Mar 2018 13:02:24 GMT</pubDate>
 			<enclosure url="https://archive.org/download/yourqoinpodcastMonMar052018/yqp-e14-Mon-Mar-05-2018.mp3" length="3558295" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
+			<itunes:author>Matt</itunes:author>
 			<itunes:subtitle>Your Qoin Podcast - March 5th 2018</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://yqpod.com/belgian-tax-authority-to-search-for-taxpayers-using-foreign-crypto-exchanges/&apos;&gt;Belgian Tax Authority To Search For Taxpayers Using Foreign Crypto Exchanges&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/vc-investments-in-blockchain-companies-on-track-to-exceed-2017s-numbers/&apos;&gt;VC Investments In Blockchain Companies On Track To Exceed 2017’s Numbers&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/major-dutch-bank-rabobank-exploring-idea-of-launching-own-cryptocurrency-wallet/&apos;&gt;Major Dutch Bank Rabobank Exploring Idea Of Launching Own Cryptocurrency Wallet&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/liechtenstein-bank-opens-up-cryptocurrency-investment-for-clients/&apos;&gt;Liechtenstein Bank Opens Up Cryptocurrency Investment for Clients&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/50-million-gone-south-african-police-probe-suspected-bitcoin-ponzi/&apos;&gt;$50 Million Gone? South African Police Probe Suspected Bitcoin Ponzi&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/techcrunch-founders-crypto-fund-subpoenaed-by-sec/&apos;&gt;TechCrunch Founder’s Crypto Fund Subpoenaed By SEC&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/walmart-is-using-blockchain-to-make-shipping-smarter/&apos;&gt;Walmart Is Using Blockchain to Make Shipping ‘Smarter’&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/starbuckscoin-exec-says-coffee-seller-will-probably-use-blockchain/&apos;&gt;StarbucksCoin? Exec Says Coffee Seller Will ‘Probably’ Use Blockchain&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/germany-wont-tax-cryptocurrencies-used-to-make-purchases/&apos;&gt;Germany Won’t Tax Cryptocurrencies Used To Make Purchases&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/australians-can-now-purchase-btc-eth-across-1200-newsstands-in-win-for-adoption/&apos;&gt;Australians Can Now Purchase BTC, ETH Across 1,200 Newsstands In Win For Adoption&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
@@ -102,10 +102,10 @@
 			<category><![CDATA[Currency]]></category>
 			<category><![CDATA[Bitcoin]]></category>
 			<category><![CDATA[Blockchain]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<dc:creator><![CDATA[Matt]]></dc:creator>
 			<pubDate>Mon, 26 Feb 2018 13:02:21 GMT</pubDate>
 			<enclosure url="https://archive.org/download/yourqoinpodcastMonFeb262018/yqp-e13-Mon-Feb-26-2018.mp3" length="3480346" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
+			<itunes:author>Matt</itunes:author>
 			<itunes:subtitle>Your Qoin Podcast - February 26th 2018</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://yqpod.com/why-bitcoin-fees-are-down-again-and-what-it-means/&apos;&gt;Why Bitcoin Fees Are Down Again and What It Means&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/bank-of-china-thinks-it-has-a-solution-to-the-blockchain-scaling-issue/&apos;&gt;Bank of China Thinks It Has a Solution to the Blockchain Scaling Issue&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/eu-regulators-to-discuss-crypto-regulation-next-week/&apos;&gt;EU Regulators to Discuss Crypto Regulation Next Week&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/us-government-arrests-bitcoin-stock-exchange-founder/&apos;&gt;US Government Arrests Bitcoin Stock Exchange Founder&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/venezuelas-petro-token-launches-in-pre-sale/&apos;&gt;Venezuela’s ‘Petro’ Token Launches in Pre-Sale&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/actor-steven-seagal-endorses-questionable-b2g-ico/&apos;&gt;Actor Steven Seagal Endorses Questionable B2G ICO&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/israel-confirms-it-will-tax-bitcoin-as-property/&apos;&gt;Israel Confirms It Will Tax Bitcoin as Property&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/pc-giant-lenovo-seeks-blockchain-validation-patent/&apos;&gt;PC Giant Lenovo Seeks Blockchain Validation Patent&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/croatia-launches-self-regulating-blockchain-organization-amidst-growing-worldwide-trend/&apos;&gt;Croatia Launches Self-Regulating Blockchain Organization Amidst Growing Worldwide Trend&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/polish-central-bank-secretly-funds-anti-crypto-youtube-propaganda-videos/&apos;&gt;Polish Central Bank Secretly Funds Anti-Crypto Youtube Propaganda Videos&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
@@ -121,10 +121,10 @@
 			<category><![CDATA[Currency]]></category>
 			<category><![CDATA[Bitcoin]]></category>
 			<category><![CDATA[Blockchain]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<dc:creator><![CDATA[Matt]]></dc:creator>
 			<pubDate>Mon, 19 Feb 2018 13:02:07 GMT</pubDate>
 			<enclosure url="https://archive.org/download/yourqoinpodcastMonFeb192018/yqp-e12-Mon-Feb-19-2018.mp3" length="3253394" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
+			<itunes:author>Matt</itunes:author>
 			<itunes:subtitle>Your Qoin Podcast - February 19th 2018</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://yqpod.com/imf-chief-christine-lagarde-says-international-crypto-regulation-is-inevitable-and-necessary/&apos;&gt;IMF Chief Christine Lagarde Says International Crypto Regulation Is ‘Inevitable’ And Necessary&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/gibraltar-to-introduce-worlds-first-ico-regulations/&apos;&gt;Gibraltar To Introduce ‘World’s First’ ICO Regulations&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/64-of-germans-aware-of-bitcoin-says-it-association-bitkom/&apos;&gt;64% Of Germans Aware Of Bitcoin, Says IT Association Bitkom&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/game-maker-atari-is-planning-to-launch-its-own-cryptocurrency/&apos;&gt;Game Maker Atari Is Planning to Launch Its Own Cryptocurrency&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/bitcoin-price-tops-10k-across-major-exchanges/&apos;&gt;Bitcoin Price Tops $10K Across Major Exchanges&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/cftc-joins-sec-in-warning-against-crypto-pump-and-dumps/&apos;&gt;CFTC Joins SEC In Warning Against Crypto Pump-and-Dumps&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/philippines-banks-to-use-visas-blockchain-payments-platform/&apos;&gt;Philippines Banks to Use Visa’s Blockchain Payments Platform&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/ethereum-developer-resigns-as-code-editor-citing-legal-concerns/&apos;&gt;Ethereum Developer Resigns as Code Editor Citing Legal Concerns&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/western-union-confirms-testing-ripple-technology-for-money-transfers/&apos;&gt;Western Union Confirms Testing Ripple Technology For Money Transfers&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/cisco-and-ukrainian-cyber-police-uncover-50-mln-bitcoin-phishing-scam/&apos;&gt;Cisco And Ukrainian Cyber Police Uncover $50 Mln Bitcoin Phishing Scam&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
@@ -140,10 +140,10 @@
 			<category><![CDATA[Currency]]></category>
 			<category><![CDATA[Bitcoin]]></category>
 			<category><![CDATA[Blockchain]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<dc:creator><![CDATA[Matt]]></dc:creator>
 			<pubDate>Mon, 12 Feb 2018 13:02:27 GMT</pubDate>
 			<enclosure url="https://archive.org/download/yourqoinpodcastMonFeb122018/yqp-e11-Mon-Feb-12-2018.mp3" length="3304385" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
+			<itunes:author>Matt</itunes:author>
 			<itunes:subtitle>Your Qoin Podcast - February 12th 2018</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://yqpod.com/bitcoin-slumps-to-3-month-low-below-6k/&apos;&gt;Bitcoin Slumps to 3-Month Low Below $6K&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/newly-discovered-vulnerability-in-all-ledger-hardware-wallets-puts-user-funds-at-risk/&apos;&gt;Newly Discovered Vulnerability In All Ledger Hardware Wallets Puts User Funds At Risk&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/russian-scientists-arrested-for-crypto-mining-at-nuclear-lab/&apos;&gt;Russian Scientists Arrested for Crypto Mining at Nuclear Lab&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/indias-tax-department-is-sending-notices-to-crypto-investors/&apos;&gt;India’s Tax Department Is Sending Notices to Crypto Investors&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/forbes-publishes-first-ever-richest-people-in-cryptocurrency-list/&apos;&gt;Forbes Publishes ‘First-Ever’ Richest People In Cryptocurrency List&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/china-fintech-watchdog-to-step-up-ico-oversight/&apos;&gt;China Fintech Watchdog to Step Up ICO Oversight&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/us-marshals-successfully-auction-30-million-in-bitcoin/&apos;&gt;US Marshals Successfully Auction $30 Million in Bitcoin&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/search-giant-baidu-launches-cryptokitties-knock-off/&apos;&gt;Search Giant Baidu Launches CryptoKitties Knock-off&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/lloyds-banking-group-blocks-bitcoin-purchases-using-credit-cards/&apos;&gt;Lloyds Banking Group Blocks Bitcoin Purchases Using Credit Cards&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/nvidia-ceo-says-cryptocurrency-is-not-going-to-go-away/&apos;&gt;Nvidia CEO Says Cryptocurrency Is ‘Not Going to Go Away’&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
@@ -159,10 +159,10 @@
 			<category><![CDATA[Currency]]></category>
 			<category><![CDATA[Bitcoin]]></category>
 			<category><![CDATA[Blockchain]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<dc:creator><![CDATA[Matt]]></dc:creator>
 			<pubDate>Mon, 05 Feb 2018 13:02:07 GMT</pubDate>
 			<enclosure url="https://archive.org/download/yourqoinpodcastMonFeb052018/yqp-e10-Mon-Feb-05-2018.mp3" length="3312953" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
+			<itunes:author>Matt</itunes:author>
 			<itunes:subtitle>Your Qoin Podcast - February 5th 2018</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://yqpod.com/european-utility-giant-says-no-to-crypto-mining-even-with-clean-energy/&apos;&gt;European Utility Giant Says ‘No’ To Crypto Mining, Even With ‘Clean Energy’&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/mnuchin-calls-for-crypto-regulatory-talk-at-g20-summit/&apos;&gt;Mnuchin Calls for Crypto Regulatory Talk At G20 Summit&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/botnet-infects-half-a-million-servers-to-mine-thousands-of-monero/&apos;&gt;Botnet Infects Half a Million Servers to Mine Thousands of Monero&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/bank-of-america-jp-morgan-ban-credit-crypto-purchases/&apos;&gt;Bank of America, JP Morgan Ban Credit Crypto Purchases&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/cryptocurrency-markets-move-back-into-green-after-substantial-selloff/&apos;&gt;Cryptocurrency Markets Move Back Into Green After Substantial Selloff&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/bitcoin-exchange-huobi-to-open-us-office/&apos;&gt;Bitcoin Exchange Huobi to Open US Office&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/fedex-moves-forward-with-blockchain-logistics-plans/&apos;&gt;FedEx Moves Forward With Blockchain Logistics Plans&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/hong-kong-to-educate-public-on-crypto-and-icos/&apos;&gt;Hong Kong to Educate Public on Crypto and ICOs&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/19-year-old-bitcoin-millionaire-says-if-you-dont-become-a-millionaire-in-10-years-its-your-own-fault/&apos;&gt;19-Year-Old Bitcoin Millionaire Says If You Don’t become a Millionaire in 10 Years ‘It’s Your Own Fault’&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/facebook-is-banning-ads-for-bitcoin-and-icos/&apos;&gt;Facebook Is Banning Ads for Bitcoin and ICOs&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
@@ -178,10 +178,10 @@
 			<category><![CDATA[Currency]]></category>
 			<category><![CDATA[Bitcoin]]></category>
 			<category><![CDATA[Blockchain]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<dc:creator><![CDATA[Matt]]></dc:creator>
 			<pubDate>Mon, 29 Jan 2018 13:02:14 GMT</pubDate>
 			<enclosure url="https://archive.org/download/yourqoinpodcastMonJan292018/yqp-e9-Mon-Jan-29-2018.mp3" length="3305639" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
+			<itunes:author>Matt</itunes:author>
 			<itunes:subtitle>Your Qoin Podcast - January 29th 2018</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://yqpod.com/energy-company-hydro-quebec-looks-to-attract-bitcoin-miners/&apos;&gt;Energy Company Hydro-Quebec Looks to Attract Bitcoin Miners&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/coincheck-confirms-crypto-hack-loss-larger-than-mt-gox/&apos;&gt;Coincheck Confirms Crypto Hack Loss Larger than Mt Gox&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/world-leaders-are-talking-crypto-at-davos/&apos;&gt;World Leaders Are Talking Crypto at Davos&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/bitcoin-dev-jimmy-song-is-now-at-blockchain-capital/&apos;&gt;Bitcoin Dev Jimmy Song Is Now at Blockchain Capital&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/worlds-first-cryptocurrency-airport-in-brisbane/&apos;&gt;World’s First Cryptocurrency Airport In Brisbane&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/opera-browser-addresses-cryptojacking-adds-anti-crypto-mining-for-mobile/&apos;&gt;Opera Browser Addresses Cryptojacking, Adds Anti-Crypto Mining For Mobile&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/s-korea-to-tax-crypto-exchanges-24-2-percent-in-line-with-existing-tax-policy/&apos;&gt;S. Korea To Tax Crypto Exchanges 24.2 Percent, In Line With Existing Tax Policy&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/imf-calls-for-international-cooperation-on-crypto/&apos;&gt;IMF Calls for International Cooperation on Crypto&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/bitcoin-laundering-less-than-one-percent-of-all-transactions/&apos;&gt;Bitcoin Laundering Less Than One Percent of All Transactions&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/indian-banks-suspending-bitcoin-exchange-accounts/&apos;&gt;Indian Banks Suspending Bitcoin Exchange Accounts&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
@@ -197,10 +197,10 @@
 			<category><![CDATA[Currency]]></category>
 			<category><![CDATA[Bitcoin]]></category>
 			<category><![CDATA[Blockchain]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<dc:creator><![CDATA[Matt]]></dc:creator>
 			<pubDate>Mon, 22 Jan 2018 13:02:07 GMT</pubDate>
 			<enclosure url="https://archive.org/download/yourqoinpodcastMonJan222018/yqp-e8-Mon-Jan-22-2018.mp3" length="2952463" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
+			<itunes:author>Matt</itunes:author>
 			<itunes:subtitle>Your Qoin Podcast - January 22nd 2018</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://yqpod.com/france-creates-working-group-for-cryptocurrency-regulation/&apos;&gt;France Creates Working Group for Cryptocurrency Regulation&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/unicef-wants-to-fund-early-stage-blockchain-startups/&apos;&gt;UNICEF Wants to Fund Early Stage Blockchain Startups&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/lithuanias-central-bank-unveils-blockchain-startup-sandbox/&apos;&gt;Lithuania’s Central Bank Unveils Blockchain Startup Sandbox&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/world-famous-brothel-buying-into-bitcoin/&apos;&gt;World Famous Brothel Buying Into Bitcoin&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/new-us-bill-seeks-to-fight-terrorist-use-of-cryptocurrencies/&apos;&gt;New US Bill Seeks To Fight Terrorist Use of Cryptocurrencies&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/hardware-wallet-maker-ledger-nets-75-million-in-series-b-funding/&apos;&gt;Hardware Wallet Maker Ledger Nets $75 Million in Series B Funding&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/korean-regulator-investigating-staff-insider-trading-of-cryptocurrencies/&apos;&gt;Korean Regulator Investigating Staff Insider Trading of Cryptocurrencies&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/gold-sales-spike-during-crypto-market-crash-highlighting-inverse-correlation/&apos;&gt;Gold Sales Spike During Crypto Market Crash, Highlighting Inverse Correlation&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/the-ecb-wants-to-hear-your-cryptocurrency-questions/&apos;&gt;The ECB Wants to Hear Your Cryptocurrency Questions&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/sec-outlines-reasons-for-reluctance-to-list-cryptocurrency-etfs/&apos;&gt;SEC Outlines Reasons for Reluctance to List Cryptocurrency ETFs&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
@@ -216,10 +216,10 @@
 			<category><![CDATA[Currency]]></category>
 			<category><![CDATA[Bitcoin]]></category>
 			<category><![CDATA[Blockchain]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<dc:creator><![CDATA[Matt]]></dc:creator>
 			<pubDate>Mon, 15 Jan 2018 13:02:14 GMT</pubDate>
 			<enclosure url="https://archive.org/download/yourqoinpodcastMonJan152018/yqp-e7-Mon-Jan-15-2018.mp3" length="3267813" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
+			<itunes:author>Matt</itunes:author>
 			<itunes:subtitle>Your Qoin Podcast - January 15th 2018</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://yqpod.com/african-youths-gaining-political-voice-through-blockchain/&apos;&gt;African Youths Gaining Political Voice Through Blockchain&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/ukraine-forms-cryptocurrency-oversight-working-group/&apos;&gt;Ukraine Forms Cryptocurrency Oversight Working Group&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/bitcoin-only-charity-pledges-up-to-4-million-for-ptsd-research/&apos;&gt;Bitcoin-Only Charity Pledges Up To $4 Million for PTSD Research&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/moneygram-to-pilot-ripples-xrp-token-for-international-payments/&apos;&gt;MoneyGram to Pilot Ripple’s XRP Token for International Payments&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/florida-bill-would-legally-recognize-blockchain-signatures-smart-contracts/&apos;&gt;Florida Bill Would Legally Recognize Blockchain Signatures, Smart Contracts&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/bitcoin-battles-with-regulatory-pressure/&apos;&gt;Bitcoin Battles With Regulatory Pressure&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/venezuela-parliament-rejects-formation-of-petro-coin/&apos;&gt;Venezuela parliament rejects formation of petro coin&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/microsoft-resumes-accepting-bitcoin-as-quickly-as-it-stops/&apos;&gt;Microsoft Resumes Accepting Bitcoin as Quickly as It Stops&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/harvard-professors-predict-bitcoin-collapse-due-to-government-regulation/&apos;&gt;Harvard Professors Predict Bitcoin Collapse Due to Government Regulation&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/newly-detected-malware-mines-monero-sends-it-to-north-korean-university/&apos;&gt;Newly Detected Malware Mines Monero, Sends It To North Korean University&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
@@ -235,10 +235,10 @@
 			<category><![CDATA[Currency]]></category>
 			<category><![CDATA[Bitcoin]]></category>
 			<category><![CDATA[Blockchain]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<dc:creator><![CDATA[Matt]]></dc:creator>
 			<pubDate>Mon, 08 Jan 2018 13:02:20 GMT</pubDate>
 			<enclosure url="https://archive.org/download/yourqoinpodcastMonJan082018/yqp-e6-Mon-Jan-08-2018.mp3" length="3575640" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
+			<itunes:author>Matt</itunes:author>
 			<itunes:subtitle>Your Qoin Podcast - January 8th 2018</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://yqpod.com/bitcoin-gives-japans-gdp-a-boost/&apos;&gt;Bitcoin gives Japan’s GDP a boost&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/binance-bitfinex-bittrex-temporarily-say-no-to-new-users/&apos;&gt;Binance, Bitfinex, Bittrex Temporarily Say No to New Users&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/u-s-government-receives-approval-to-sell-bitcoin-bitcoin-cash-seized-from-dark-web-dealer/&apos;&gt;U.S. Government Receives Approval to Sell Bitcoin, Bitcoin Cash Seized From Dark Web Dealer&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/zuckerberg-to-study-crypto-in-quest-to-fix-facebook/&apos;&gt;Zuckerberg to Study Crypto in Quest to Fix Facebook&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/texas-regulator-orders-bitconnect-to-call-off-token-sale/&apos;&gt;Texas Regulator Orders BitConnect to Call Off Token Sale&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/ecb-official-calls-for-tax-on-bitcoin/&apos;&gt;ECB Official Calls for Tax on Bitcoin&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/peter-thiels-founders-fund-bets-millions-on-bitcoin/&apos;&gt;Peter Thiel’s Founders Fund Bets Millions on Bitcoin&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/cardano-blockchains-first-use-case-proof-of-university-diplomas-in-greece/&apos;&gt;Cardano Blockchain’s First Use Case: Proof of University Diplomas in Greece&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/telegram-to-release-blockchain-platform-native-cryptocurrency/&apos;&gt;Telegram to Release Blockchain Platform, Native Cryptocurrency&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/local-bitcoin-meetups-are-booming-worldwide/&apos;&gt;Local Bitcoin Meetups Are Booming Worldwide&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
@@ -254,10 +254,10 @@
 			<category><![CDATA[Currency]]></category>
 			<category><![CDATA[Bitcoin]]></category>
 			<category><![CDATA[Blockchain]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<dc:creator><![CDATA[Matt]]></dc:creator>
 			<pubDate>Mon, 01 Jan 2018 13:02:00 GMT</pubDate>
 			<enclosure url="https://archive.org/download/yourqoinpodcastMonJan012018/yqp-e5-Mon-Jan-01-2018.mp3" length="2734706" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
+			<itunes:author>Matt</itunes:author>
 			<itunes:subtitle>Your Qoin Podcast - January 1st 2018</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://yqpod.com/ripple-gains-1000-in-one-month-now-the-second-largest-cryptocurrency/&apos;&gt;Ripple Gains 1,000% in One Month – Now the Second Largest Cryptocurrency&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/investors-are-turning-to-altcoins/&apos;&gt;Investors Are Turning to Altcoins&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/opera-browser-to-include-built-in-anti-bitcoin-mining-feature/&apos;&gt;Opera Browser to Include Built-In Anti-Bitcoin Mining Feature&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/us-dollar-will-end-2017-as-worst-year-since-2003-while-bitcoin-is-up-1372/&apos;&gt;US Dollar Will End 2017 as Worst Year Since 2003, While Bitcoin is Up 1,372%&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/investors-choosing-gold-instead-of-bitcoin/&apos;&gt;Investors choosing Gold instead of Bitcoin&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/a-defining-year-for-icos/&apos;&gt;A Defining Year for ICO’s&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/bitcoin-google-searches-are-number-two-for-2017-global-news/&apos;&gt;Bitcoin Google Searches are Number Two for 2017 Global News&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/australian-banks-reportedly-freeze-accounts-of-bitcoin-users/&apos;&gt;Australian Banks Reportedly Freeze Accounts Of Bitcoin Users&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/brussels-moves-to-boost-europes-fintech-sector/&apos;&gt;Brussels moves to boost Europe’s fintech sector&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/bar-offers-bitcoin-new-year-party/&apos;&gt;Bar offers bitcoin New Year party&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
@@ -273,10 +273,10 @@
 			<category><![CDATA[Currency]]></category>
 			<category><![CDATA[Bitcoin]]></category>
 			<category><![CDATA[Blockchain]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<dc:creator><![CDATA[Matt]]></dc:creator>
 			<pubDate>Tue, 26 Dec 2017 02:14:24 GMT</pubDate>
 			<enclosure url="https://archive.org/download/yourqoinpodcastMonDec252017/yqp-e4-Mon-Dec-25-2017.mp3" length="2845675" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
+			<itunes:author>Matt</itunes:author>
 			<itunes:subtitle>Your Qoin Podcast - December 25th 2017</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://yqpod.com/bitcoin-falls-30-percent-worst-week-since-2013/&apos;&gt;Bitcoin falls 30 percent, worst week since 2013&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/israel-government-considering-national-cryptocurrency/&apos;&gt;Israel government considering national cryptocurrency&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/americans-are-taking-out-mortgages-to-buy-bitcoin/&apos;&gt;Americans Are Taking Out Mortgages to Buy Bitcoin&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/bitpay-stops-processing-payments-less-than-100-backpedals-two-days-later/&apos;&gt;BitPay Stops Processing Payments Less Than $100, Backpedals Two Days Later&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/belarus-government-cuts-taxes-for-crypto-businesses/&apos;&gt;Belarus government cuts taxes for crypto businesses&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/the-worlds-first-bitcoin-lottery-is-offering-a-1000-bitcoin-bounty/&apos;&gt;The world’s first bitcoin lottery is offering a 1,000 bitcoin bounty&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/two-weeks-after-losing-60-million-in-bitcoin-nicehash-are-back/&apos;&gt;Two weeks after losing $60 million in bitcoin, nicehash are back&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/trading-bitcoin-for-an-altcoin-wont-shield-you-from-the-irs/&apos;&gt;Trading Bitcoin for an Altcoin Won’t Shield You From the IRS&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/thomson-reuters-adds-bitcoin-cash-to-eikon-platform/&apos;&gt;Thomson Reuters Adds Bitcoin Cash to Eikon Platform&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/bitcoin-philanthropist-creates-an-85-million-fund/&apos;&gt;Bitcoin Philanthropist creates an $85 Million Fund&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
@@ -292,10 +292,10 @@
 			<category><![CDATA[Currency]]></category>
 			<category><![CDATA[Bitcoin]]></category>
 			<category><![CDATA[Blockchain]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<dc:creator><![CDATA[Matt]]></dc:creator>
 			<pubDate>Mon, 18 Dec 2017 17:20:48 GMT</pubDate>
 			<enclosure url="https://archive.org/download/yourqoinpodcastMonDec182017/yqp-e3-Mon-Dec-18-2017.mp3" length="3209299" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
+			<itunes:author>Matt</itunes:author>
 			<itunes:subtitle>Your Qoin Podcast - December 18th 2017</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://yqpod.com/fees-have-become-very-expensive/&apos;&gt;Fees Have Become very expensive&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/what-will-happen-when-all-bitcoins-are-mined/&apos;&gt;What will happen when all bitcoins are mined&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/class-action-suit-targets-ico-promoted-by-floyd-mayweather/&apos;&gt;Class-Action Suit Targets ICO Promoted by Floyd Mayweather&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/ethereum-ripple-and-litecoin-added-to-bloomberg-terminals/&apos;&gt;Ethereum, Ripple And Litecoin added to Bloomberg Terminals&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/danish-billionaire-renames-the-rungsted-capital-ice-rink-to-bitcoin-arena/&apos;&gt;Danish Billionaire Renames the Rungsted Capital Ice Rink to Bitcoin Arena&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/boeing-files-blockchain-patent-to-fight-gps-spoofing/&apos;&gt;Boeing files Blockchain patent to Fight GPS Spoofing&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/u-s-government-is-selling-seized-bitcoin/&apos;&gt;U.S. government is selling seized bitcoin&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/bitcoin-passes-20000/&apos;&gt;Bitcoin passes $20,000&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/facebook-exec-joins-ripple-team/&apos;&gt;Facebook Exec Joins Ripple Team&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/woman-hires-hitman-using-bitcoin/&apos;&gt;Woman hires hitman using bitcoin&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
@@ -311,10 +311,10 @@
 			<category><![CDATA[Currency]]></category>
 			<category><![CDATA[Bitcoin]]></category>
 			<category><![CDATA[Blockchain]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<dc:creator><![CDATA[Matt]]></dc:creator>
 			<pubDate>Mon, 11 Dec 2017 13:01:51 GMT</pubDate>
 			<enclosure url="https://yourqoinpodcast.s3-us-west-2.amazonaws.com/yqp-e2-Mon-Dec-11-2017.mp3" length="2674729" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
+			<itunes:author>Matt</itunes:author>
 			<itunes:subtitle>Your Qoin Podcast - December 11th 2017</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://yqpod.com/irs-bitcoin-operations-hints-that-the-agency-might-ramp-up-investigations/&apos;&gt;IRS Bitcoin operations hints that the agency might ramp up investigations&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/jim-cramer-says-bitcoin-is-monopoly-money/&apos;&gt;Jim Cramer says Bitcoin Is Monopoly Money&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/lightning-the-new-technology-that-will-optimize-bitcoin/&apos;&gt;Lightning The new technology that will optimize Bitcoin&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/deutsche-bank-sees-big-opportunities-for-blockchain/&apos;&gt;Deutsche Bank see’s big opportunities for Blockchain&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/u-s-senate-mulls-reporting-requirements-for-cryptocurrencies/&apos;&gt;U.S. Senate Mulls Reporting Requirements for Cryptocurrencies&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/largest-us-options-exchange-crashes-after-launch-of-bitcoin-futures/&apos;&gt;Largest US Options Exchange crashes after launch of Bitcoin Futures&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/wikipedia-gets-a-blockchain-competitor/&apos;&gt;Wikipedia gets a blockchain competitor&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/benefits-of-a-hardware-wallet/&apos;&gt;Benefits of a hardware wallet&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/bank-of-america-awarded-crypto-patent/&apos;&gt;Bank of America awarded crypto patent&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/nicehash-hack-leaves-60-million-in-bitcoins-stolen/&apos;&gt;Nicehash hack leaves 60 million in bitcoins stolen&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
@@ -330,10 +330,10 @@
 			<category><![CDATA[Currency]]></category>
 			<category><![CDATA[Bitcoin]]></category>
 			<category><![CDATA[Blockchain]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<dc:creator><![CDATA[Matt]]></dc:creator>
 			<pubDate>Thu, 07 Dec 2017 13:02:13 GMT</pubDate>
 			<enclosure url="https://archive.org/download/yourqoinpodcastThuDec072017/yqp-e1-Thu-Dec-07-2017.mp3" length="2786324" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
+			<itunes:author>Matt</itunes:author>
 			<itunes:subtitle>Your Qoin Podcast - December 7th 2017</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;http://yqpod.com/bitcoin-mining-electricity-usage-is-steadily-increasing/&apos;&gt;Article 1&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/debeers-is-putting-diamonds-on-the-blockchain/&apos;&gt;Article 2&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/cats-are-making-crypto-cool/&apos;&gt;Article 3&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/the-winklevoss-brothers-become-bitcoin-billionaires/&apos;&gt;Article 4&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/the-petro-dollar-now-has-a-digital-equivalent/&apos;&gt;Article 5&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/caribbean-island-uses-blockchain-to-create-cheaper-tourist-services/&apos;&gt;Article 6&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/legislations-are-being-introduced-for-block-chain-at-the-state-level-in-the-us/&apos;&gt;Article 7&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/almost-half-of-ico-funds-goes-to-europe/&apos;&gt;Article 8&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/coinbase-ordered-to-hand-data-on-14000-users-to-us-government/&apos;&gt;Article 9&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://yqpod.com/the-white-house-is-paying-attention-to-cryptocurrencies/&apos;&gt;Article 10&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
