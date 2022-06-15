@@ -10,9 +10,9 @@
 			<link>http://bit.ly/TILPodcast</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 14 Jun 2022 20:17:04 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 15 Jun 2022 20:17:11 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/til-podcast.xml" rel="self" type="application/rss+xml"/>
-		<author><![CDATA[Matt]]></author>
+		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2022]]></copyright>
 		<language><![CDATA[en]]></language>
 		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
@@ -20,7 +20,7 @@
 		<ttl>60</ttl>
 		<category><![CDATA[Entertainment]]></category>
 		<category><![CDATA[Education]]></category>
-		<itunes:author>Matt</itunes:author>
+		<itunes:author>Matt Greene</itunes:author>
 		<itunes:subtitle>A daily podcast covering 25 random and interesting facts.</itunes:subtitle>
 		<itunes:summary>A daily podcast covering 25 random and interesting facts.</itunes:summary>
 		<itunes:owner>
@@ -36,6 +36,25 @@
 		<itunes:category text="Entertainment"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/tilpodcast.png"/>
 		<item>
+			<title><![CDATA[Today I Learned - Episode: 2102]]></title>
+			<description><![CDATA[<a href='https://greensboro.com/fbi-informant-caught-9-11-chaos-on-tape-recording/article_6281b2bc-0e31-5b4a-aa6b-015991b685b1.html'>Item #1</a> <br> <a href='https://www.irs.gov/pub/irs-pdf/i1040gi.pdf'>Item #2</a> <br> <a href='https://oa.mg/blog/study-finds-oldest-known-homo-sapiens-is-over-233000-years-old-30000-years-more-than-we-thought/'>Item #3</a> <br> <a href='https://en.wikipedia.org/wiki/Sisamnes'>Item #4</a> <br> <a href='https://en.wikipedia.org/wiki/Green_Revolution'>Item #5</a> <br> <a href='https://www.bbc.com/travel/article/20220613-the-outback-way-is-this-the-worlds-emptiest-road'>Item #6</a> <br> <a href='https://bleedingcool.com/movies/mewling-quim-and-that-mid-credit-smile-in-the-avengers-movie/'>Item #7</a> <br> <a href='https://www.geolsoc.org.uk/Geoscientist/Archive/June-2012/Prehistoric-fossil-collectors'>Item #8</a> <br> <a href='https://www.looper.com/494060/the-suspiring-real-inspiration-behind-tenzins-name-in-the-legend-of-korra/'>Item #9</a> <br> <a href='https://theconversation.com/hate-vegetables-you-might-have-super-taster-genes-74428'>Item #10</a> <br> <a href='https://en.wikipedia.org/wiki/Portuguese_man_o%27_war'>Item #11</a> <br> <a href='https://en.wikipedia.org/wiki/Magnolia_Hotshots'>Item #12</a> <br> <a href='https://en.wikipedia.org/wiki/Shiranui_(optical_phenomenon)'>Item #13</a> <br> <a href='https://en.wikipedia.org/wiki/We_Can_Do_It!'>Item #14</a> <br> <a href='https://www.bbc.co.uk/news/world-europe-61801682'>Item #15</a> <br> <a href='https://www.gooverseas.com/high-school-abroad/italy'>Item #16</a> <br> <a href='https://www.btb.termiumplus.gc.ca/tpv2guides/guides/wrtps/index-eng.html?lang=eng&amp;lettr=indx_catlog_p&amp;page=9TeYbIhQbfVM.html#:~:text=The%20spellings%20per%20cent%20and,preferred%20in%20the%20United%20States.'>Item #17</a> <br> <a href='https://en.wikipedia.org/wiki/Edna_Mode'>Item #18</a> <br> <a href='https://wikipedia.org/wiki/Arcade_game'>Item #19</a> <br> <a href='https://en.wikipedia.org/wiki/Since_U_Been_Gone'>Item #20</a> <br> <a href='http://www.astronautix.com/o/oleary.html'>Item #21</a> <br> <a href='https://www.wbez.org/stories/baring-it-all-why-boys-swam-naked-in-chicago-high-schools/c9a3a9e2-6ae3-404b-80e5-0c4bf4d5a0be'>Item #22</a> <br> <a href='https://faroutmagazine.co.uk/how-tom-petty-the-strokes-biggest-song/'>Item #23</a> <br> <a href='https://www.coloradohistoricnewspapers.org/?a=d&amp;d=EVE19460906-01.2.29&amp;e=-------en-20--1--img-txIN%7ctxCO%7ctxTA--------0------'>Item #24</a> <br> <a href='https://en.wikipedia.org/wiki/Makibefo'>Item #25</a>]]></description>
+			<link>https://archive.org/download/tilpodcastWedJun152022/til-e2102-Wed-Jun-15-2022.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tilpodcastWedJun152022/til-e2102-Wed-Jun-15-2022.mp3</guid>
+			<category><![CDATA[Today I Learned]]></category>
+			<category><![CDATA[TIL]]></category>
+			<category><![CDATA[interesting]]></category>
+			<category><![CDATA[facts]]></category>
+			<category><![CDATA[random]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 15 Jun 2022 21:17:11 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tilpodcastWedJun152022/til-e2102-Wed-Jun-15-2022.mp3" length="2878275" type="audio/mpeg"/>
+			<itunes:author>Matt</itunes:author>
+			<itunes:subtitle>Today I Learned - Episode: 2102</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://greensboro.com/fbi-informant-caught-9-11-chaos-on-tape-recording/article_6281b2bc-0e31-5b4a-aa6b-015991b685b1.html&apos;&gt;Item #1&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://www.irs.gov/pub/irs-pdf/i1040gi.pdf&apos;&gt;Item #2&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://oa.mg/blog/study-finds-oldest-known-homo-sapiens-is-over-233000-years-old-30000-years-more-than-we-thought/&apos;&gt;Item #3&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/Sisamnes&apos;&gt;Item #4&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/Green_Revolution&apos;&gt;Item #5&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://www.bbc.com/travel/article/20220613-the-outback-way-is-this-the-worlds-emptiest-road&apos;&gt;Item #6&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://bleedingcool.com/movies/mewling-quim-and-that-mid-credit-smile-in-the-avengers-movie/&apos;&gt;Item #7&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://www.geolsoc.org.uk/Geoscientist/Archive/June-2012/Prehistoric-fossil-collectors&apos;&gt;Item #8&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://www.looper.com/494060/the-suspiring-real-inspiration-behind-tenzins-name-in-the-legend-of-korra/&apos;&gt;Item #9&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://theconversation.com/hate-vegetables-you-might-have-super-taster-genes-74428&apos;&gt;Item #10&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/Portuguese_man_o%27_war&apos;&gt;Item #11&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/Magnolia_Hotshots&apos;&gt;Item #12&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/Shiranui_(optical_phenomenon)&apos;&gt;Item #13&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/We_Can_Do_It!&apos;&gt;Item #14&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://www.bbc.co.uk/news/world-europe-61801682&apos;&gt;Item #15&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://www.gooverseas.com/high-school-abroad/italy&apos;&gt;Item #16&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://www.btb.termiumplus.gc.ca/tpv2guides/guides/wrtps/index-eng.html?lang=eng&amp;amp;lettr=indx_catlog_p&amp;amp;page=9TeYbIhQbfVM.html#:~:text=The%20spellings%20per%20cent%20and,preferred%20in%20the%20United%20States.&apos;&gt;Item #17&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/Edna_Mode&apos;&gt;Item #18&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://wikipedia.org/wiki/Arcade_game&apos;&gt;Item #19&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/Since_U_Been_Gone&apos;&gt;Item #20&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;http://www.astronautix.com/o/oleary.html&apos;&gt;Item #21&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://www.wbez.org/stories/baring-it-all-why-boys-swam-naked-in-chicago-high-schools/c9a3a9e2-6ae3-404b-80e5-0c4bf4d5a0be&apos;&gt;Item #22&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://faroutmagazine.co.uk/how-tom-petty-the-strokes-biggest-song/&apos;&gt;Item #23&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://www.coloradohistoricnewspapers.org/?a=d&amp;amp;d=EVE19460906-01.2.29&amp;amp;e=-------en-20--1--img-txIN%7ctxCO%7ctxTA--------0------&apos;&gt;Item #24&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/Makibefo&apos;&gt;Item #25&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>random</itunes:keywords>
+		</item>
+		<item>
 			<title><![CDATA[Today I Learned - Episode: 2101]]></title>
 			<description><![CDATA[<a href='https://www.bbc.com/news/uk-35978418'>Item #1</a> <br> <a href='https://thecasualcriminalist.com/podcasts/princess-susanna-colonial-con-woman/'>Item #2</a> <br> <a href='https://en.wikipedia.org/wiki/Alfie_(Lily_Allen_song)'>Item #3</a> <br> <a href='https://en.wikipedia.org/wiki/Chicxulub_crater'>Item #4</a> <br> <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4562214/'>Item #5</a> <br> <a href='https://frontiersnorth.com/blog/2015/03/5-things-you-didnt-know-about-hudson-bay'>Item #6</a> <br> <a href='https://www.vulture.com/2020/05/ken-jennings-first-jeopardy-episode.html'>Item #7</a> <br> <a href='https://www.mentalfloss.com/article/645247/when-new-york-mets-replaced-mr-met-live-mule'>Item #8</a> <br> <a href='https://en.wikipedia.org/wiki/Hexactinellid'>Item #9</a> <br> <a href='https://en.wikipedia.org/wiki/Ariel_School_UFO_incident'>Item #10</a> <br> <a href='https://en.wikipedia.org/wiki/Byun_Jung-il'>Item #11</a> <br> <a href='https://www.gamineral.org/writings/enhydros-gray.html'>Item #12</a> <br> <a href='https://en.wikipedia.org/wiki/Danish_pastry'>Item #13</a> <br> <a href='https://faroutmagazine.co.uk/david-byrne-mistaken-for-famous-psycho-killer/'>Item #14</a> <br> <a href='https://en.wikipedia.org/wiki/Turia_(river)'>Item #15</a> <br> <a href='https://www.guinnessworldrecords.com/world-records/most-consecutive-opponents-squash-singles#:~:text=The%20Mexico%20City%20Olympics%20held,testing%20positive%20for%20excessive%20alcohol.'>Item #16</a> <br> <a href='https://www.mcgill.ca/oss/article/did-you-know-infographics/there-are-more-ways-arrange-deck-cards-there-are-atoms-earth'>Item #17</a> <br> <a href='https://basketballgem.com/highest-vertical-jump-in-nba/'>Item #18</a> <br> <a href='https://www.playgroundequipment.com/the-oldest-schools-in-every-us-state/'>Item #19</a> <br> <a href='https://www.mybeeline.co/en/p/pollen-identification-color-guide'>Item #20</a> <br> <a href='https://papyrus-stories.com/2020/07/20/on-a-document-signed-by-cleopatra/'>Item #21</a> <br> <a href='https://en.wikipedia.org/wiki/Dina_Sanichar'>Item #22</a> <br> <a href='https://youtu.be/KoheVioD3Bg'>Item #23</a> <br> <a href='https://www.nhm.ac.uk/discover/quick-questions/how-do-oysters-make-pearls.html#:~:text=Pearls%20are%20made%20by%20marine,also%20make%20up%20its%20shell.'>Item #24</a> <br> <a href='https://www.history.com/.amp/this-day-in-history/john-wayne-is-born'>Item #25</a>]]></description>
 			<link>https://archive.org/download/tilpodcastTueJun142022/til-e2101-Tue-Jun-14-2022.mp3</link>
@@ -45,7 +64,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 14 Jun 2022 21:17:04 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastTueJun142022/til-e2101-Tue-Jun-14-2022.mp3" length="2728019" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -64,7 +83,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 13 Jun 2022 21:17:23 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastMonJun132022/til-e2100-Mon-Jun-13-2022.mp3" length="3423085" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -83,7 +102,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 11 Jun 2022 21:17:14 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastSatJun112022/til-e2099-Sat-Jun-11-2022.mp3" length="3287457" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -102,7 +121,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 10 Jun 2022 21:17:09 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastFriJun102022/til-e2098-Fri-Jun-10-2022.mp3" length="2923415" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -121,7 +140,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 08 Jun 2022 21:17:14 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastWedJun082022/til-e2097-Wed-Jun-08-2022.mp3" length="3007425" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -140,7 +159,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 07 Jun 2022 21:17:23 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastTueJun072022/til-e2096-Tue-Jun-07-2022.mp3" length="3205328" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -159,7 +178,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 06 Jun 2022 21:17:17 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastMonJun062022/til-e2095-Mon-Jun-06-2022.mp3" length="3257782" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -178,7 +197,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 05 Jun 2022 21:17:19 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastSunJun052022/til-e2094-Sun-Jun-05-2022.mp3" length="3460911" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -197,7 +216,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 03 Jun 2022 21:17:10 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastFriJun032022/til-e2093-Fri-Jun-03-2022.mp3" length="3043160" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -216,7 +235,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 02 Jun 2022 21:17:13 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastThuJun022022/til-e2092-Thu-Jun-02-2022.mp3" length="2999693" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -235,7 +254,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 01 Jun 2022 21:17:22 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastWedJun012022/til-e2091-Wed-Jun-01-2022.mp3" length="3487242" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -254,7 +273,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 31 May 2022 21:17:19 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastTueMay312022/til-e2090-Tue-May-31-2022.mp3" length="3376274" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -273,7 +292,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 30 May 2022 21:17:14 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastMonMay302022/til-e2089-Mon-May-30-2022.mp3" length="3138664" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -292,7 +311,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 28 May 2022 21:17:13 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastSatMay282022/til-e2088-Sat-May-28-2022.mp3" length="3183177" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -311,7 +330,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 27 May 2022 21:17:08 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastFriMay272022/til-e2087-Fri-May-27-2022.mp3" length="2939715" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -330,7 +349,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 25 May 2022 21:17:14 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastWedMay252022/til-e2086-Wed-May-25-2022.mp3" length="2970226" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -349,7 +368,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 24 May 2022 21:17:15 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastTueMay242022/til-e2085-Tue-May-24-2022.mp3" length="3333015" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -368,7 +387,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 23 May 2022 21:17:16 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastMonMay232022/til-e2084-Mon-May-23-2022.mp3" length="3062386" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -387,7 +406,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 22 May 2022 21:17:28 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastSunMay222022/til-e2083-Sun-May-22-2022.mp3" length="3574177" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -406,7 +425,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 20 May 2022 21:17:18 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastFriMay202022/til-e2082-Fri-May-20-2022.mp3" length="3433534" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -425,7 +444,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 19 May 2022 21:17:23 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastThuMay192022/til-e2081-Thu-May-19-2022.mp3" length="3383797" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -444,7 +463,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 16 May 2022 21:17:29 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastMonMay162022/til-e2080-Mon-May-16-2022.mp3" length="3580865" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -463,7 +482,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 15 May 2022 21:17:12 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastSunMay152022/til-e2079-Sun-May-15-2022.mp3" length="3052146" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -482,7 +501,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 14 May 2022 21:17:14 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastSatMay142022/til-e2078-Sat-May-14-2022.mp3" length="3060297" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -501,7 +520,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 13 May 2022 21:17:25 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastFriMay132022/til-e2077-Fri-May-13-2022.mp3" length="3529874" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -520,7 +539,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 12 May 2022 21:17:18 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastThuMay122022/til-e2076-Thu-May-12-2022.mp3" length="3053609" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -539,7 +558,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 11 May 2022 21:17:27 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastWedMay112022/til-e2075-Wed-May-11-2022.mp3" length="3207000" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -558,7 +577,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 10 May 2022 21:17:12 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastTueMay102022/til-e2074-Tue-May-10-2022.mp3" length="3117557" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -577,7 +596,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 09 May 2022 21:17:14 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastMonMay092022/til-e2073-Mon-May-09-2022.mp3" length="3273874" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -596,7 +615,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 08 May 2022 21:17:10 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastSunMay082022/til-e2072-Sun-May-08-2022.mp3" length="2958106" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -615,7 +634,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 07 May 2022 21:17:14 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastSatMay072022/til-e2071-Sat-May-07-2022.mp3" length="3286413" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -634,7 +653,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 06 May 2022 21:17:01 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastFriMay062022/til-e2070-Fri-May-06-2022.mp3" length="2753515" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -653,7 +672,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 05 May 2022 21:17:16 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastThuMay052022/til-e2069-Thu-May-05-2022.mp3" length="3167085" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -672,7 +691,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 03 May 2022 21:17:17 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastTueMay032022/til-e2068-Tue-May-03-2022.mp3" length="3305221" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -691,7 +710,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 02 May 2022 21:18:37 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastMonMay022022/til-e2067-Mon-May-02-2022.mp3" length="3494974" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -710,7 +729,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 01 May 2022 21:19:49 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastSunMay012022/til-e2066-Sun-May-01-2022.mp3" length="3249005" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -729,7 +748,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 30 Apr 2022 21:18:10 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastSatApr302022/til-e2065-Sat-Apr-30-2022.mp3" length="3005544" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -748,7 +767,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 29 Apr 2022 21:18:59 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastFriApr292022/til-e2064-Fri-Apr-29-2022.mp3" length="3166876" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -767,7 +786,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 28 Apr 2022 21:18:34 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastThuApr282022/til-e2063-Thu-Apr-28-2022.mp3" length="3112751" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -786,7 +805,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 27 Apr 2022 21:17:57 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastWedApr272022/til-e2062-Wed-Apr-27-2022.mp3" length="3375020" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -805,7 +824,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 26 Apr 2022 21:24:26 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastTueApr262022/til-e2061-Tue-Apr-26-2022.mp3" length="3333433" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -824,7 +843,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 25 Apr 2022 21:18:01 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastMonApr252022/til-e2060-Mon-Apr-25-2022.mp3" length="3314625" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -843,7 +862,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 24 Apr 2022 21:18:19 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastSunApr242022/til-e2059-Sun-Apr-24-2022.mp3" length="3037309" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -862,7 +881,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 23 Apr 2022 21:17:41 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastSatApr232022/til-e2058-Sat-Apr-23-2022.mp3" length="2947866" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -881,7 +900,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 22 Apr 2022 21:17:36 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastFriApr222022/til-e2057-Fri-Apr-22-2022.mp3" length="2992378" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -900,7 +919,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 21 Apr 2022 21:17:44 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastThuApr212022/til-e2056-Thu-Apr-21-2022.mp3" length="3350360" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -919,7 +938,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 19 Apr 2022 21:18:36 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastTueApr192022/til-e2055-Tue-Apr-19-2022.mp3" length="3065103" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -938,7 +957,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 18 Apr 2022 21:17:36 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastMonApr182022/til-e2054-Mon-Apr-18-2022.mp3" length="3105645" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -957,7 +976,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 17 Apr 2022 21:17:30 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastSunApr172022/til-e2053-Sun-Apr-17-2022.mp3" length="2807222" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -976,7 +995,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 16 Apr 2022 21:20:01 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastSatApr162022/til-e2052-Sat-Apr-16-2022.mp3" length="3136992" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -995,7 +1014,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 15 Apr 2022 21:18:02 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastFriApr152022/til-e2051-Fri-Apr-15-2022.mp3" length="3411591" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1014,7 +1033,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 14 Apr 2022 21:17:47 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastThuApr142022/til-e2050-Thu-Apr-14-2022.mp3" length="3263216" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1033,7 +1052,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 13 Apr 2022 21:18:17 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastWedApr132022/til-e2049-Wed-Apr-13-2022.mp3" length="2859467" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1052,7 +1071,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 12 Apr 2022 21:17:57 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastTueApr122022/til-e2048-Tue-Apr-12-2022.mp3" length="3312117" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1071,7 +1090,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 11 Apr 2022 21:17:42 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastMonApr112022/til-e2047-Mon-Apr-11-2022.mp3" length="3437923" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1090,7 +1109,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 10 Apr 2022 21:17:55 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastSunApr102022/til-e2046-Sun-Apr-10-2022.mp3" length="3016829" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1109,7 +1128,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 09 Apr 2022 21:17:25 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastSatApr092022/til-e2045-Sat-Apr-09-2022.mp3" length="3115049" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1128,7 +1147,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 08 Apr 2022 21:17:48 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastFriApr082022/til-e2044-Fri-Apr-08-2022.mp3" length="3574177" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1147,7 +1166,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 07 Apr 2022 21:17:47 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastThuApr072022/til-e2043-Thu-Apr-07-2022.mp3" length="2851944" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1166,7 +1185,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 05 Apr 2022 21:17:29 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastTueApr052022/til-e2042-Tue-Apr-05-2022.mp3" length="3100630" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1185,7 +1204,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 04 Apr 2022 21:17:35 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastMonApr042022/til-e2041-Mon-Apr-04-2022.mp3" length="3163533" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1204,7 +1223,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 02 Apr 2022 21:17:28 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastSatApr022022/til-e2040-Sat-Apr-02-2022.mp3" length="3125707" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1223,7 +1242,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 01 Apr 2022 21:17:53 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastFriApr012022/til-e2039-Fri-Apr-01-2022.mp3" length="3345136" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1242,7 +1261,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 31 Mar 2022 21:17:47 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastThuMar312022/til-e2038-Thu-Mar-31-2022.mp3" length="3480555" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1261,7 +1280,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 30 Mar 2022 21:17:42 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastWedMar302022/til-e2037-Wed-Mar-30-2022.mp3" length="3151203" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1280,7 +1299,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 29 Mar 2022 21:17:47 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastTueMar292022/til-e2036-Tue-Mar-29-2022.mp3" length="3556832" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1299,7 +1318,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 28 Mar 2022 21:17:35 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastMonMar282022/til-e2035-Mon-Mar-28-2022.mp3" length="3300414" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1318,7 +1337,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 27 Mar 2022 21:17:32 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastSunMar272022/til-e2034-Sun-Mar-27-2022.mp3" length="2958106" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1337,7 +1356,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 26 Mar 2022 21:17:30 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastSatMar262022/til-e2033-Sat-Mar-26-2022.mp3" length="3354540" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1356,7 +1375,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 25 Mar 2022 21:17:44 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastFriMar252022/til-e2032-Fri-Mar-25-2022.mp3" length="3367288" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1375,7 +1394,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 24 Mar 2022 21:17:36 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastThuMar242022/til-e2031-Thu-Mar-24-2022.mp3" length="3406785" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1394,7 +1413,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 23 Mar 2022 21:17:32 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastWedMar232022/til-e2030-Wed-Mar-23-2022.mp3" length="3168548" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1413,7 +1432,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 22 Mar 2022 21:17:59 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastTueMar222022/til-e2029-Tue-Mar-22-2022.mp3" length="3433325" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1432,7 +1451,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 21 Mar 2022 21:17:29 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastMonMar212022/til-e2028-Mon-Mar-21-2022.mp3" length="3077642" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1451,7 +1470,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 20 Mar 2022 21:18:00 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastSunMar202022/til-e2027-Sun-Mar-20-2022.mp3" length="3358093" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1470,7 +1489,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 19 Mar 2022 21:17:24 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastSatMar192022/til-e2026-Sat-Mar-19-2022.mp3" length="2736169" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1489,7 +1508,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 18 Mar 2022 21:17:34 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastFriMar182022/til-e2025-Fri-Mar-18-2022.mp3" length="3224764" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1508,7 +1527,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 17 Mar 2022 21:17:32 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastThuMar172022/til-e2024-Thu-Mar-17-2022.mp3" length="3122364" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1527,7 +1546,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 16 Mar 2022 21:17:22 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastWedMar162022/til-e2023-Wed-Mar-16-2022.mp3" length="3298951" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1546,7 +1565,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 15 Mar 2022 21:17:14 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastTueMar152022/til-e2022-Tue-Mar-15-2022.mp3" length="3226435" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1565,7 +1584,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 14 Mar 2022 21:17:29 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastMonMar142022/til-e2021-Mon-Mar-14-2022.mp3" length="3661531" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1584,7 +1603,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 13 Mar 2022 21:17:24 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastSunMar132022/til-e2020-Sun-Mar-13-2022.mp3" length="3434370" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1603,7 +1622,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 12 Mar 2022 20:17:18 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastSatMar122022/til-e2019-Sat-Mar-12-2022.mp3" length="3419951" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1622,7 +1641,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 11 Mar 2022 20:17:13 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastFriMar112022/til-e2018-Fri-Mar-11-2022.mp3" length="3071164" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1641,7 +1660,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 10 Mar 2022 20:17:12 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastThuMar102022/til-e2017-Thu-Mar-10-2022.mp3" length="3157472" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1660,7 +1679,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 09 Mar 2022 20:17:25 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastWedMar092022/til-e2016-Wed-Mar-09-2022.mp3" length="3421622" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1679,7 +1698,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 08 Mar 2022 20:17:19 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastTueMar082022/til-e2015-Tue-Mar-08-2022.mp3" length="3174817" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1698,7 +1717,7 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 07 Mar 2022 20:17:12 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastMonMar072022/til-e2014-Mon-Mar-07-2022.mp3" length="2981511" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1717,31 +1736,12 @@
 			<category><![CDATA[interesting]]></category>
 			<category><![CDATA[facts]]></category>
 			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 06 Mar 2022 20:17:12 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tilpodcastSunMar062022/til-e2013-Sun-Mar-06-2022.mp3" length="3113168" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
 			<itunes:subtitle>Today I Learned - Episode: 2013</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.theguardian.com/environment/2018/jul/05/amputations-serious-injuries-us-meat-industry-plant&apos;&gt;Item #1&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/Charles_J._Guiteau&apos;&gt;Item #2&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://www.bbc.com/news/magazine-33523313&apos;&gt;Item #3&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://www.mentalfloss.com/article/93390/how-thomas-edison-jr-shamed-family-name&apos;&gt;Item #4&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/Kimberley_Process_Certification_Scheme#Global_Witness&apos;&gt;Item #5&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/Symbole&apos;&gt;Item #6&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/Legion_(Blatty_novel)#New_York_Times_best-seller_list_court_case&apos;&gt;Item #7&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/Ding_Dong_School&apos;&gt;Item #8&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://www.vivino.com/wine-news/most-popular-french-wine&apos;&gt;Item #9&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/Hysterosalpingography&apos;&gt;Item #10&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://insurify.com/insights/car-models-most-duis-2020/#:~:text=Most%20common%20model%20of%20car,of%201%20in%20every%2056.&apos;&gt;Item #11&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://www.backstoryradio.org/blog/the-legacy-of-the-children-of-the-manhattan-project/&apos;&gt;Item #12&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://www.billboard.com/culture/tv-film/empire-records-rex-manning-day-kurt-cobain-8298269/&apos;&gt;Item #13&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/Tay_Bridge&apos;&gt;Item #14&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/Polish%E2%80%93Ottoman_Wars&apos;&gt;Item #15&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://youtu.be/jn5M48MVWyg?t=410&apos;&gt;Item #16&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/Jim_Leavelle&apos;&gt;Item #17&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/Oakum&apos;&gt;Item #18&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://www.skydivetecumseh.com/2020/06/30/highest-skydive-in-history/&apos;&gt;Item #19&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/King_Tut_(song)&apos;&gt;Item #20&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/The_Star-Spangled_Banner&apos;&gt;Item #21&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://nmaahc.si.edu/about/news/statement-death-basketball-icon-and-museum-founding-donor-kobe-bryant&apos;&gt;Item #22&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/Bat_Cave,_North_Carolina&apos;&gt;Item #23&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/Candy_cigarette#Sales_laws&apos;&gt;Item #24&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://www.history.com/.amp/news/how-london-bridge-ended-up-in-arizona&apos;&gt;Item #25&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>random</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today I Learned - Episode: 2012]]></title>
-			<description><![CDATA[<a href='https://thehockeynews.com/news/10-hilariously-ridiculous-stats-to-illustrate-wayne-gretzkys-dominance'>Item #1</a> <br> <a href='https://www.health.harvard.edu/staying-healthy/vitamin-d-and-your-health-breaking-old-rules-raising-new-hopes'>Item #2</a> <br> <a href='https://www.todaysparent.com/baby/breastfeeding/magical-ways-breastmilk-changes-to-meet-your-babys-needs/'>Item #3</a> <br> <a href='https://www.reuters.com/article/amp/idUSKCN1SF1X9'>Item #4</a> <br> <a href='https://mcc.gse.harvard.edu/reports/loneliness-in-america'>Item #5</a> <br> <a href='https://en.wikipedia.org/wiki/McDonald%27s_Israel'>Item #6</a> <br> <a href='https://en.wikipedia.org/wiki/Black_panther'>Item #7</a> <br> <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4615802/'>Item #8</a> <br> <a href='https://www.science.org/content/article/scienceshot-bumblebees-capable-flying-higher-mount-everest'>Item #9</a> <br> <a href='https://en.wikipedia.org/wiki/Theodore_Roosevelt_National_Park'>Item #10</a> <br> <a href='https://japantoday.com/category/features/opinions/pachinko-a-brief-guide-to-a-japanese-obsession#:~:text=Having%20said%20that%2C%20pachinko%20is,4%25%20of%20Japan's%20annual%20GDP.'>Item #11</a> <br> <a href='https://en.wikipedia.org/wiki/Chard'>Item #12</a> <br> <a href='https://en.wikipedia.org/wiki/Clint_Malarchuk#Neck_injury'>Item #13</a> <br> <a href='https://www.tonerbuzz.com/blog/why-is-printer-ink-so-expensive/'>Item #14</a> <br> <a href='https://en.wikipedia.org/wiki/Owsley_Stanley#Early_life'>Item #15</a> <br> <a href='https://science.howstuffworks.com/question308.htm'>Item #16</a> <br> <a href='https://www.theverge.com/2016/12/4/13718966/chimpanzees-butts-faces-recognition-processing-inversion-effect'>Item #17</a> <br> <a href='https://www.theguardian.com/society/2020/may/26/last-iron-lung-paul-alexander-polio-coronavirus'>Item #18</a> <br> <a href='https://www.looper.com/457652/the-scene-that-denzel-washington-refused-to-do/'>Item #19</a> <br> <a href='https://en.wikipedia.org/wiki/Chamizal_dispute'>Item #20</a> <br> <a href='https://en.wikipedia.org/wiki/St_Piran%27s_Day'>Item #21</a> <br> <a href='https://en.wikipedia.org/wiki/Ralph_H._Johnson'>Item #22</a> <br> <a href='https://americanmigrainefoundation.org/resource-library/hemiplegic-migraine/'>Item #23</a> <br> <a href='https://en.wikipedia.org/wiki/Mercury-arc_valve'>Item #24</a> <br> <a href='https://faroutmagazine.co.uk/paul-mccartney-moment-he-first-watched-jimi-hendrix-live/?amp'>Item #25</a>]]></description>
-			<link>https://archive.org/download/tilpodcastSatMar052022/til-e2012-Sat-Mar-05-2022.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tilpodcastSatMar052022/til-e2012-Sat-Mar-05-2022.mp3</guid>
-			<category><![CDATA[Today I Learned]]></category>
-			<category><![CDATA[TIL]]></category>
-			<category><![CDATA[interesting]]></category>
-			<category><![CDATA[facts]]></category>
-			<category><![CDATA[random]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
-			<pubDate>Sat, 05 Mar 2022 20:17:06 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tilpodcastSatMar052022/til-e2012-Sat-Mar-05-2022.mp3" length="2904189" type="audio/mpeg"/>
-			<itunes:author>Matt</itunes:author>
-			<itunes:subtitle>Today I Learned - Episode: 2012</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://thehockeynews.com/news/10-hilariously-ridiculous-stats-to-illustrate-wayne-gretzkys-dominance&apos;&gt;Item #1&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://www.health.harvard.edu/staying-healthy/vitamin-d-and-your-health-breaking-old-rules-raising-new-hopes&apos;&gt;Item #2&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://www.todaysparent.com/baby/breastfeeding/magical-ways-breastmilk-changes-to-meet-your-babys-needs/&apos;&gt;Item #3&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://www.reuters.com/article/amp/idUSKCN1SF1X9&apos;&gt;Item #4&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://mcc.gse.harvard.edu/reports/loneliness-in-america&apos;&gt;Item #5&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/McDonald%27s_Israel&apos;&gt;Item #6&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/Black_panther&apos;&gt;Item #7&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4615802/&apos;&gt;Item #8&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://www.science.org/content/article/scienceshot-bumblebees-capable-flying-higher-mount-everest&apos;&gt;Item #9&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/Theodore_Roosevelt_National_Park&apos;&gt;Item #10&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://japantoday.com/category/features/opinions/pachinko-a-brief-guide-to-a-japanese-obsession#:~:text=Having%20said%20that%2C%20pachinko%20is,4%25%20of%20Japan&apos;s%20annual%20GDP.&apos;&gt;Item #11&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/Chard&apos;&gt;Item #12&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/Clint_Malarchuk#Neck_injury&apos;&gt;Item #13&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://www.tonerbuzz.com/blog/why-is-printer-ink-so-expensive/&apos;&gt;Item #14&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/Owsley_Stanley#Early_life&apos;&gt;Item #15&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://science.howstuffworks.com/question308.htm&apos;&gt;Item #16&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://www.theverge.com/2016/12/4/13718966/chimpanzees-butts-faces-recognition-processing-inversion-effect&apos;&gt;Item #17&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://www.theguardian.com/society/2020/may/26/last-iron-lung-paul-alexander-polio-coronavirus&apos;&gt;Item #18&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://www.looper.com/457652/the-scene-that-denzel-washington-refused-to-do/&apos;&gt;Item #19&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/Chamizal_dispute&apos;&gt;Item #20&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/St_Piran%27s_Day&apos;&gt;Item #21&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/Ralph_H._Johnson&apos;&gt;Item #22&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://americanmigrainefoundation.org/resource-library/hemiplegic-migraine/&apos;&gt;Item #23&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://en.wikipedia.org/wiki/Mercury-arc_valve&apos;&gt;Item #24&lt;/a&gt; &lt;br&gt; &lt;a href=&apos;https://faroutmagazine.co.uk/paul-mccartney-moment-he-first-watched-jimi-hendrix-live/?amp&apos;&gt;Item #25&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>random</itunes:keywords>
 		</item>
