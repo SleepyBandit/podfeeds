@@ -10,9 +10,9 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 14 Jun 2022 10:01:23 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 15 Jun 2022 10:01:05 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
-		<author><![CDATA[Matt]]></author>
+		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2022]]></copyright>
 		<language><![CDATA[en]]></language>
 		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
@@ -22,7 +22,7 @@
 		<category><![CDATA[Entertainment]]></category>
 		<category><![CDATA[Education]]></category>
 		<category><![CDATA[News]]></category>
-		<itunes:author>Matt</itunes:author>
+		<itunes:author>Matt Greene</itunes:author>
 		<itunes:subtitle>An automated daily podcast that covers an event from today in history.</itunes:subtitle>
 		<itunes:summary>An automated daily podcast that covers an event from today in history.</itunes:summary>
 		<itunes:owner>
@@ -42,6 +42,24 @@
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
 		<item>
+			<title><![CDATA[Today In History - Robert Falcon Scott’s Terra Nova expedition begins]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/robert-falcon-scotts-terra-nova-expedition-begins'>https://www.history.com/this-day-in-history/robert-falcon-scotts-terra-nova-expedition-begins</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2553-Wed-Jun-15-2022.mp3</link>
+			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2553-Wed-Jun-15-2022.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 15 Jun 2022 11:01:05 GMT</pubDate>
+			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2553-Wed-Jun-15-2022.mp3" length="1705064" type="audio/mpeg"/>
+			<itunes:author>Matt</itunes:author>
+			<itunes:subtitle>Today In History - Robert Falcon Scott’s Terra Nova expedition begins</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/robert-falcon-scotts-terra-nova-expedition-begins&apos;&gt;https://www.history.com/this-day-in-history/robert-falcon-scotts-terra-nova-expedition-begins&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
+		<item>
 			<title><![CDATA[Today In History - Grenfell Tower fire kills 72 in London]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/grenfell-tower-fire-2017'>https://www.history.com/this-day-in-history/grenfell-tower-fire-2017</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
 			<link>https://archive.org/download/tihpodcastTueJun142022/today-in-history-e2552-Tue-Jun-14-2022.mp3</link>
@@ -50,7 +68,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 14 Jun 2022 11:01:23 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueJun142022/today-in-history-e2552-Tue-Jun-14-2022.mp3" length="1834631" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -68,7 +86,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 13 Jun 2022 11:01:03 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonJun132022/today-in-history-e2551-Mon-Jun-13-2022.mp3" length="1133087" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -86,7 +104,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 12 Jun 2022 11:01:17 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunJun122022/today-in-history-e2550-Sun-Jun-12-2022.mp3" length="1715722" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -104,7 +122,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 11 Jun 2022 11:01:05 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatJun112022/today-in-history-e2549-Sat-Jun-11-2022.mp3" length="1222112" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -122,7 +140,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 10 Jun 2022 11:01:13 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2548-Fri-Jun-10-2022.mp3" length="1992202" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -140,7 +158,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 09 Jun 2022 11:01:08 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuJun092022/today-in-history-e2547-Thu-Jun-09-2022.mp3" length="1332662" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -158,7 +176,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 08 Jun 2022 11:01:13 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedJun082022/today-in-history-e2546-Wed-Jun-08-2022.mp3" length="1530775" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -176,7 +194,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 07 Jun 2022 11:01:11 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueJun072022/today-in-history-e2545-Tue-Jun-07-2022.mp3" length="1461603" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -194,7 +212,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 06 Jun 2022 11:01:29 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonJun062022/today-in-history-e2544-Mon-Jun-06-2022.mp3" length="1980708" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -212,7 +230,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 05 Jun 2022 11:01:09 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunJun052022/today-in-history-e2543-Sun-Jun-05-2022.mp3" length="1358158" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -230,7 +248,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 04 Jun 2022 11:00:58 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2542-Sat-Jun-04-2022.mp3" length="1390341" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -248,7 +266,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 03 Jun 2022 11:01:39 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriJun032022/today-in-history-e2541-Fri-Jun-03-2022.mp3" length="2363141" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -266,7 +284,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 02 Jun 2022 11:01:26 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuJun022022/today-in-history-e2540-Thu-Jun-02-2022.mp3" length="1999725" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -284,7 +302,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 01 Jun 2022 11:01:03 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedJun012022/today-in-history-e2539-Wed-Jun-01-2022.mp3" length="1032359" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -302,7 +320,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 31 May 2022 11:01:36 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueMay312022/today-in-history-e2538-Tue-May-31-2022.mp3" length="2305462" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -320,7 +338,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 30 May 2022 11:01:08 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonMay302022/today-in-history-e2537-Mon-May-30-2022.mp3" length="1359621" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -338,7 +356,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 29 May 2022 11:01:21 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunMay292022/today-in-history-e2536-Sun-May-29-2022.mp3" length="1869949" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -356,7 +374,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 28 May 2022 11:01:05 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatMay282022/today-in-history-e2535-Sat-May-28-2022.mp3" length="1159000" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -374,7 +392,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 27 May 2022 11:01:11 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriMay272022/today-in-history-e2534-Fri-May-27-2022.mp3" length="1298599" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -392,7 +410,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 26 May 2022 11:01:49 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuMay262022/today-in-history-e2533-Thu-May-26-2022.mp3" length="2850063" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -410,7 +428,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 25 May 2022 11:01:43 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedMay252022/today-in-history-e2532-Wed-May-25-2022.mp3" length="1741635" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -428,7 +446,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 24 May 2022 11:00:57 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueMay242022/today-in-history-e2531-Tue-May-24-2022.mp3" length="966530" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -446,7 +464,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 23 May 2022 11:01:09 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonMay232022/today-in-history-e2530-Mon-May-23-2022.mp3" length="1368398" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -464,7 +482,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 22 May 2022 11:01:06 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunMay222022/today-in-history-e2529-Sun-May-22-2022.mp3" length="1293374" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -482,7 +500,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 21 May 2022 11:02:12 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatMay212022/today-in-history-e2528-Sat-May-21-2022.mp3" length="3549936" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -500,7 +518,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 20 May 2022 11:01:08 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriMay202022/today-in-history-e2527-Fri-May-20-2022.mp3" length="1373204" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -518,7 +536,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 19 May 2022 11:00:55 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2526-Thu-May-19-2022.mp3" length="1299226" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -536,7 +554,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 18 May 2022 11:01:25 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedMay182022/today-in-history-e2525-Wed-May-18-2022.mp3" length="1879353" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -554,7 +572,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 17 May 2022 11:01:02 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueMay172022/today-in-history-e2524-Tue-May-17-2022.mp3" length="1124937" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -572,7 +590,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 16 May 2022 11:01:10 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonMay162022/today-in-history-e2523-Mon-May-16-2022.mp3" length="1372577" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -590,7 +608,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 15 May 2022 11:01:09 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunMay152022/today-in-history-e2522-Sun-May-15-2022.mp3" length="1374458" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -608,7 +626,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 14 May 2022 11:01:45 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatMay142022/today-in-history-e2521-Sat-May-14-2022.mp3" length="2675774" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -626,7 +644,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 13 May 2022 11:02:15 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriMay132022/today-in-history-e2520-Fri-May-13-2022.mp3" length="3683056" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -644,7 +662,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 12 May 2022 11:00:56 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2519-Thu-May-12-2022.mp3" length="1375085" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -662,7 +680,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 11 May 2022 11:00:58 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedMay112022/today-in-history-e2518-Wed-May-11-2022.mp3" length="980950" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -680,7 +698,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 10 May 2022 11:01:13 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueMay102022/today-in-history-e2517-Tue-May-10-2022.mp3" length="1483128" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -698,7 +716,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 09 May 2022 11:01:19 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonMay092022/today-in-history-e2516-Mon-May-09-2022.mp3" length="1708199" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -716,7 +734,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 08 May 2022 11:00:51 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2515-Sun-May-08-2022.mp3" length="1149596" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -734,7 +752,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 07 May 2022 11:01:04 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatMay072022/today-in-history-e2514-Sat-May-07-2022.mp3" length="1140192" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -752,7 +770,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 06 May 2022 11:01:12 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriMay062022/today-in-history-e2513-Fri-May-06-2022.mp3" length="1518863" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -770,7 +788,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 05 May 2022 11:01:09 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuMay052022/today-in-history-e2512-Thu-May-05-2022.mp3" length="1425658" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -788,7 +806,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 04 May 2022 11:01:30 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2511-Wed-May-04-2022.mp3" length="2447360" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -806,7 +824,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 03 May 2022 11:01:15 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueMay032022/today-in-history-e2510-Tue-May-03-2022.mp3" length="1572780" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -824,7 +842,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 02 May 2022 11:01:22 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonMay022022/today-in-history-e2509-Mon-May-02-2022.mp3" length="1278955" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -842,7 +860,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 01 May 2022 11:01:13 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunMay012022/today-in-history-e2508-Sun-May-01-2022.mp3" length="1194109" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -860,7 +878,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 30 Apr 2022 11:01:41 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatApr302022/today-in-history-e2507-Sat-Apr-30-2022.mp3" length="1657835" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -878,7 +896,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 29 Apr 2022 11:01:23 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriApr292022/today-in-history-e2506-Fri-Apr-29-2022.mp3" length="1165061" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -896,7 +914,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 28 Apr 2022 11:00:54 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2505-Thu-Apr-28-2022.mp3" length="1315944" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -914,7 +932,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 27 Apr 2022 11:03:00 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedApr272022/today-in-history-e2504-Wed-Apr-27-2022.mp3" length="2498142" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -932,7 +950,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 26 Apr 2022 11:01:31 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueApr262022/today-in-history-e2503-Tue-Apr-26-2022.mp3" length="1412702" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -950,7 +968,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 25 Apr 2022 11:01:09 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonApr252022/today-in-history-e2502-Mon-Apr-25-2022.mp3" length="996623" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -968,7 +986,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 24 Apr 2022 11:01:32 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunApr242022/today-in-history-e2501-Sun-Apr-24-2022.mp3" length="1286478" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -986,7 +1004,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 23 Apr 2022 11:01:15 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatApr232022/today-in-history-e2500-Sat-Apr-23-2022.mp3" length="1081469" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1004,7 +1022,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 22 Apr 2022 11:01:30 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriApr222022/today-in-history-e2499-Fri-Apr-22-2022.mp3" length="1647386" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1022,7 +1040,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 21 Apr 2022 11:01:16 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2498-Thu-Apr-21-2022.mp3" length="1995546" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1040,7 +1058,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 20 Apr 2022 11:01:54 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedApr202022/today-in-history-e2497-Wed-Apr-20-2022.mp3" length="1921149" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1058,7 +1076,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 19 Apr 2022 11:01:22 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueApr192022/today-in-history-e2496-Tue-Apr-19-2022.mp3" length="1394729" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1076,7 +1094,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 18 Apr 2022 11:01:22 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonApr182022/today-in-history-e2495-Mon-Apr-18-2022.mp3" length="1512803" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1094,7 +1112,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 17 Apr 2022 11:02:15 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunApr172022/today-in-history-e2494-Sun-Apr-17-2022.mp3" length="2466795" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1112,7 +1130,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 16 Apr 2022 11:01:41 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatApr162022/today-in-history-e2493-Sat-Apr-16-2022.mp3" length="1492950" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1130,7 +1148,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 15 Apr 2022 11:01:38 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriApr152022/today-in-history-e2492-Fri-Apr-15-2022.mp3" length="1719484" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1148,7 +1166,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 14 Apr 2022 11:01:22 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuApr142022/today-in-history-e2491-Thu-Apr-14-2022.mp3" length="1232770" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1166,7 +1184,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 13 Apr 2022 11:01:25 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedApr132022/today-in-history-e2490-Wed-Apr-13-2022.mp3" length="1096097" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1184,7 +1202,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 12 Apr 2022 11:01:30 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueApr122022/today-in-history-e2489-Tue-Apr-12-2022.mp3" length="1649266" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1202,7 +1220,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 11 Apr 2022 11:01:22 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonApr112022/today-in-history-e2488-Mon-Apr-11-2022.mp3" length="1362546" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1220,7 +1238,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 10 Apr 2022 11:01:16 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunApr102022/today-in-history-e2487-Sun-Apr-10-2022.mp3" length="1464111" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1238,7 +1256,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 09 Apr 2022 11:00:55 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2486-Sat-Apr-09-2022.mp3" length="1314899" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1256,7 +1274,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 08 Apr 2022 11:01:14 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriApr082022/today-in-history-e2485-Fri-Apr-08-2022.mp3" length="1188675" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1274,7 +1292,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 07 Apr 2022 11:01:14 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuApr072022/today-in-history-e2484-Thu-Apr-07-2022.mp3" length="1376966" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1292,7 +1310,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 06 Apr 2022 11:00:57 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedApr062022/today-in-history-e2483-Wed-Apr-06-2022.mp3" length="934556" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1310,7 +1328,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 05 Apr 2022 11:01:23 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueApr052022/today-in-history-e2482-Tue-Apr-05-2022.mp3" length="1588244" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1328,7 +1346,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 04 Apr 2022 11:01:21 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonApr042022/today-in-history-e2481-Mon-Apr-04-2022.mp3" length="1433391" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1346,7 +1364,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 03 Apr 2022 11:01:42 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunApr032022/today-in-history-e2480-Sun-Apr-03-2022.mp3" length="1939121" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1364,7 +1382,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 02 Apr 2022 11:01:23 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatApr022022/today-in-history-e2479-Sat-Apr-02-2022.mp3" length="1721155" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1382,7 +1400,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 01 Apr 2022 11:01:22 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriApr012022/today-in-history-e2478-Fri-Apr-01-2022.mp3" length="1461394" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1400,7 +1418,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 31 Mar 2022 11:01:28 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuMar312022/today-in-history-e2477-Thu-Mar-31-2022.mp3" length="1746860" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1418,7 +1436,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 30 Mar 2022 11:01:11 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedMar302022/today-in-history-e2476-Wed-Mar-30-2022.mp3" length="1289404" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1436,7 +1454,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 29 Mar 2022 11:01:17 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueMar292022/today-in-history-e2475-Tue-Mar-29-2022.mp3" length="1454706" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1454,7 +1472,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 28 Mar 2022 11:01:17 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonMar282022/today-in-history-e2474-Mon-Mar-28-2022.mp3" length="1566093" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1472,7 +1490,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 27 Mar 2022 11:01:42 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunMar272022/today-in-history-e2473-Sun-Mar-27-2022.mp3" length="2162520" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1490,7 +1508,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 26 Mar 2022 11:00:49 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2472-Sat-Mar-26-2022.mp3" length="1039673" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1508,7 +1526,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 25 Mar 2022 11:01:41 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriMar252022/today-in-history-e2471-Fri-Mar-25-2022.mp3" length="2214765" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1526,7 +1544,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 24 Mar 2022 11:01:33 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuMar242022/today-in-history-e2470-Thu-Mar-24-2022.mp3" length="1865142" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1544,7 +1562,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 23 Mar 2022 11:01:47 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedMar232022/today-in-history-e2469-Wed-Mar-23-2022.mp3" length="2393025" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1562,7 +1580,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 22 Mar 2022 11:01:14 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueMar222022/today-in-history-e2468-Tue-Mar-22-2022.mp3" length="1262445" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1580,7 +1598,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 21 Mar 2022 11:01:26 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonMar212022/today-in-history-e2467-Mon-Mar-21-2022.mp3" length="1573616" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1598,7 +1616,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 20 Mar 2022 11:01:17 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunMar202022/today-in-history-e2466-Sun-Mar-20-2022.mp3" length="1544986" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1616,7 +1634,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 19 Mar 2022 11:01:06 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatMar192022/today-in-history-e2465-Sat-Mar-19-2022.mp3" length="1074364" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1634,7 +1652,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 18 Mar 2022 11:01:06 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriMar182022/today-in-history-e2464-Fri-Mar-18-2022.mp3" length="1077080" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1652,7 +1670,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 17 Mar 2022 11:00:57 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuMar172022/today-in-history-e2463-Thu-Mar-17-2022.mp3" length="1020029" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1670,7 +1688,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 16 Mar 2022 11:01:10 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedMar162022/today-in-history-e2462-Wed-Mar-16-2022.mp3" length="1443422" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1688,7 +1706,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 15 Mar 2022 11:01:05 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueMar152022/today-in-history-e2461-Tue-Mar-15-2022.mp3" length="1213544" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1706,7 +1724,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 14 Mar 2022 11:01:00 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2460-Mon-Mar-14-2022.mp3" length="1509041" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1724,7 +1742,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 13 Mar 2022 11:01:13 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunMar132022/today-in-history-e2459-Sun-Mar-13-2022.mp3" length="1624398" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1742,7 +1760,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 12 Mar 2022 10:01:03 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatMar122022/today-in-history-e2458-Sat-Mar-12-2022.mp3" length="1124519" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1760,7 +1778,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 11 Mar 2022 10:00:58 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriMar112022/today-in-history-e2457-Fri-Mar-11-2022.mp3" length="1041763" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1778,7 +1796,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 10 Mar 2022 10:01:26 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuMar102022/today-in-history-e2456-Thu-Mar-10-2022.mp3" length="1922821" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1796,7 +1814,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 09 Mar 2022 10:01:11 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedMar092022/today-in-history-e2455-Wed-Mar-09-2022.mp3" length="1376130" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1814,7 +1832,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 08 Mar 2022 10:01:33 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueMar082022/today-in-history-e2454-Tue-Mar-08-2022.mp3" length="2267428" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1832,7 +1850,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 07 Mar 2022 10:00:57 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2453-Mon-Mar-07-2022.mp3" length="1436943" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1850,7 +1868,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 06 Mar 2022 10:01:21 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunMar062022/today-in-history-e2452-Sun-Mar-06-2022.mp3" length="1844662" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1868,7 +1886,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 05 Mar 2022 10:01:10 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatMar052022/today-in-history-e2451-Sat-Mar-05-2022.mp3" length="1436525" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1886,7 +1904,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 04 Mar 2022 10:01:04 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriMar042022/today-in-history-e2450-Fri-Mar-04-2022.mp3" length="1195990" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1904,7 +1922,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 03 Mar 2022 10:02:03 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuMar032022/today-in-history-e2449-Thu-Mar-03-2022.mp3" length="3139709" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1922,7 +1940,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 02 Mar 2022 10:01:52 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedMar022022/today-in-history-e2448-Wed-Mar-02-2022.mp3" length="2952463" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1940,7 +1958,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 01 Mar 2022 10:01:31 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueMar012022/today-in-history-e2447-Tue-Mar-01-2022.mp3" length="2217482" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1958,7 +1976,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 28 Feb 2022 10:01:12 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonFeb282022/today-in-history-e2446-Mon-Feb-28-2022.mp3" length="1517191" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1976,7 +1994,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 27 Feb 2022 10:01:05 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunFeb272022/today-in-history-e2445-Sun-Feb-27-2022.mp3" length="1203722" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -1994,7 +2012,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 26 Feb 2022 10:00:59 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatFeb262022/today-in-history-e2444-Sat-Feb-26-2022.mp3" length="1004355" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2012,7 +2030,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 25 Feb 2022 10:01:03 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriFeb252022/today-in-history-e2443-Fri-Feb-25-2022.mp3" length="1206230" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2030,7 +2048,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 24 Feb 2022 10:01:01 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuFeb242022/today-in-history-e2442-Thu-Feb-24-2022.mp3" length="1064751" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2048,7 +2066,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 23 Feb 2022 10:01:13 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedFeb232022/today-in-history-e2441-Wed-Feb-23-2022.mp3" length="1444466" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2066,7 +2084,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 22 Feb 2022 10:01:09 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueFeb222022/today-in-history-e2440-Tue-Feb-22-2022.mp3" length="1400163" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2084,7 +2102,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 21 Feb 2022 10:01:03 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonFeb212022/today-in-history-e2439-Mon-Feb-21-2022.mp3" length="1092127" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2102,7 +2120,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 20 Feb 2022 10:01:21 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunFeb202022/today-in-history-e2438-Sun-Feb-20-2022.mp3" length="1785730" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2120,7 +2138,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 19 Feb 2022 10:01:18 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatFeb192022/today-in-history-e2437-Sat-Feb-19-2022.mp3" length="1578422" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2138,7 +2156,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 18 Feb 2022 10:01:04 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriFeb182022/today-in-history-e2436-Fri-Feb-18-2022.mp3" length="1046151" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2156,7 +2174,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 17 Feb 2022 10:01:04 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuFeb172022/today-in-history-e2435-Thu-Feb-17-2022.mp3" length="1149178" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2174,7 +2192,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 16 Feb 2022 10:01:26 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedFeb162022/today-in-history-e2434-Wed-Feb-16-2022.mp3" length="1626906" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2192,7 +2210,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 15 Feb 2022 10:01:08 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueFeb152022/today-in-history-e2433-Tue-Feb-15-2022.mp3" length="1305495" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2210,7 +2228,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 14 Feb 2022 10:01:10 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonFeb142022/today-in-history-e2432-Mon-Feb-14-2022.mp3" length="1468499" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2228,7 +2246,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 13 Feb 2022 10:01:15 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunFeb132022/today-in-history-e2431-Sun-Feb-13-2022.mp3" length="1631503" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2246,7 +2264,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 12 Feb 2022 10:01:12 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatFeb122022/today-in-history-e2430-Sat-Feb-12-2022.mp3" length="1374249" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2264,7 +2282,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 11 Feb 2022 10:01:12 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriFeb112022/today-in-history-e2429-Fri-Feb-11-2022.mp3" length="1365054" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2282,7 +2300,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 10 Feb 2022 10:01:24 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuFeb102022/today-in-history-e2428-Thu-Feb-10-2022.mp3" length="1915715" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2300,7 +2318,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 09 Feb 2022 10:01:14 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedFeb092022/today-in-history-e2427-Wed-Feb-09-2022.mp3" length="1581975" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2318,7 +2336,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 08 Feb 2022 10:01:17 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueFeb082022/today-in-history-e2426-Tue-Feb-08-2022.mp3" length="1382400" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2336,7 +2354,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 07 Feb 2022 10:01:16 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonFeb072022/today-in-history-e2425-Mon-Feb-07-2022.mp3" length="1646132" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2354,7 +2372,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 06 Feb 2022 10:01:18 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunFeb062022/today-in-history-e2424-Sun-Feb-06-2022.mp3" length="1722409" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2372,7 +2390,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 05 Feb 2022 10:01:36 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatFeb052022/today-in-history-e2423-Sat-Feb-05-2022.mp3" length="2285609" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2390,7 +2408,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 04 Feb 2022 10:01:19 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriFeb042022/today-in-history-e2422-Fri-Feb-04-2022.mp3" length="1744561" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2408,7 +2426,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 03 Feb 2022 10:00:57 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuFeb032022/today-in-history-e2421-Thu-Feb-03-2022.mp3" length="950857" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2426,7 +2444,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 02 Feb 2022 10:01:22 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedFeb022022/today-in-history-e2420-Wed-Feb-02-2022.mp3" length="1831706" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2444,7 +2462,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 01 Feb 2022 10:01:05 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueFeb012022/today-in-history-e2419-Tue-Feb-01-2022.mp3" length="1070811" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2462,7 +2480,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 31 Jan 2022 10:01:18 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonJan312022/today-in-history-e2418-Mon-Jan-31-2022.mp3" length="1607471" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2480,7 +2498,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 30 Jan 2022 10:01:14 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunJan302022/today-in-history-e2417-Sun-Jan-30-2022.mp3" length="1597022" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2498,7 +2516,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 29 Jan 2022 10:01:15 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatJan292022/today-in-history-e2416-Sat-Jan-29-2022.mp3" length="1306749" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2516,7 +2534,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 28 Jan 2022 10:01:09 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriJan282022/today-in-history-e2415-Fri-Jan-28-2022.mp3" length="1344156" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2534,7 +2552,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 27 Jan 2022 10:01:03 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuJan272022/today-in-history-e2414-Thu-Jan-27-2022.mp3" length="1186795" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2552,7 +2570,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 26 Jan 2022 10:01:15 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedJan262022/today-in-history-e2413-Wed-Jan-26-2022.mp3" length="1408104" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2570,7 +2588,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 25 Jan 2022 10:01:11 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueJan252022/today-in-history-e2412-Tue-Jan-25-2022.mp3" length="1374667" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2588,7 +2606,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 24 Jan 2022 10:01:07 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2411-Mon-Jan-24-2022.mp3" length="1744979" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2606,7 +2624,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 23 Jan 2022 10:01:24 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunJan232022/today-in-history-e2410-Sun-Jan-23-2022.mp3" length="1941002" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2624,7 +2642,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 22 Jan 2022 10:01:07 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2409-Sat-Jan-22-2022.mp3" length="1717603" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2642,7 +2660,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 21 Jan 2022 10:01:06 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriJan212022/today-in-history-e2408-Fri-Jan-21-2022.mp3" length="1160463" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2660,7 +2678,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 20 Jan 2022 10:01:02 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuJan202022/today-in-history-e2407-Thu-Jan-20-2022.mp3" length="1038210" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2678,7 +2696,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 19 Jan 2022 10:01:07 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedJan192022/today-in-history-e2406-Wed-Jan-19-2022.mp3" length="1359621" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2696,7 +2714,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 18 Jan 2022 10:01:04 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueJan182022/today-in-history-e2405-Tue-Jan-18-2022.mp3" length="1152731" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2714,7 +2732,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 17 Jan 2022 10:01:07 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonJan172022/today-in-history-e2404-Mon-Jan-17-2022.mp3" length="1295046" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2732,7 +2750,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 16 Jan 2022 10:01:12 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunJan162022/today-in-history-e2403-Sun-Jan-16-2022.mp3" length="1407895" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2750,7 +2768,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 15 Jan 2022 10:01:19 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatJan152022/today-in-history-e2402-Sat-Jan-15-2022.mp3" length="1533074" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2768,7 +2786,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 14 Jan 2022 10:01:27 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriJan142022/today-in-history-e2401-Fri-Jan-14-2022.mp3" length="1706527" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2786,7 +2804,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 13 Jan 2022 10:01:20 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuJan132022/today-in-history-e2400-Thu-Jan-13-2022.mp3" length="1270177" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2804,7 +2822,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 12 Jan 2022 10:00:56 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedJan122022/today-in-history-e2399-Wed-Jan-12-2022.mp3" length="1222530" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2822,7 +2840,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 11 Jan 2022 10:01:24 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueJan112022/today-in-history-e2398-Tue-Jan-11-2022.mp3" length="1807046" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2840,7 +2858,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 10 Jan 2022 10:00:59 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonJan102022/today-in-history-e2397-Mon-Jan-10-2022.mp3" length="1051376" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2858,7 +2876,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 09 Jan 2022 10:01:14 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunJan092022/today-in-history-e2396-Sun-Jan-09-2022.mp3" length="1538089" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2876,7 +2894,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 08 Jan 2022 10:01:16 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatJan082022/today-in-history-e2395-Sat-Jan-08-2022.mp3" length="1551882" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2894,7 +2912,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 07 Jan 2022 10:01:25 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriJan072022/today-in-history-e2394-Fri-Jan-07-2022.mp3" length="1759817" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2912,7 +2930,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 06 Jan 2022 10:01:26 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuJan062022/today-in-history-e2393-Thu-Jan-06-2022.mp3" length="1952914" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2930,7 +2948,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 05 Jan 2022 10:01:25 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedJan052022/today-in-history-e2392-Wed-Jan-05-2022.mp3" length="1693779" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2948,7 +2966,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 04 Jan 2022 10:01:10 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueJan042022/today-in-history-e2391-Tue-Jan-04-2022.mp3" length="1427748" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2966,7 +2984,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 03 Jan 2022 10:01:10 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonJan032022/today-in-history-e2390-Mon-Jan-03-2022.mp3" length="1365472" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -2984,7 +3002,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 02 Jan 2022 10:01:11 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunJan022022/today-in-history-e2389-Sun-Jan-02-2022.mp3" length="1486471" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3002,7 +3020,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 01 Jan 2022 10:01:10 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatJan012022/today-in-history-e2388-Sat-Jan-01-2022.mp3" length="1255967" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3020,7 +3038,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 31 Dec 2021 10:01:14 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriDec312021/today-in-history-e2387-Fri-Dec-31-2021.mp3" length="1416672" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3038,7 +3056,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 30 Dec 2021 10:01:04 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuDec302021/today-in-history-e2386-Thu-Dec-30-2021.mp3" length="966112" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3056,7 +3074,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 29 Dec 2021 10:01:47 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedDec292021/today-in-history-e2385-Wed-Dec-29-2021.mp3" length="2702315" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3074,7 +3092,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 28 Dec 2021 10:01:11 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueDec282021/today-in-history-e2384-Tue-Dec-28-2021.mp3" length="1450527" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3092,7 +3110,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 27 Dec 2021 10:01:45 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonDec272021/today-in-history-e2383-Mon-Dec-27-2021.mp3" length="2540146" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3110,7 +3128,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 26 Dec 2021 10:01:17 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunDec262021/today-in-history-e2382-Sun-Dec-26-2021.mp3" length="1721573" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3128,7 +3146,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 25 Dec 2021 10:01:13 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatDec252021/today-in-history-e2381-Sat-Dec-25-2021.mp3" length="1396192" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3146,7 +3164,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 24 Dec 2021 10:01:01 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriDec242021/today-in-history-e2380-Fri-Dec-24-2021.mp3" length="1061825" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3164,7 +3182,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 23 Dec 2021 10:01:07 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuDec232021/today-in-history-e2379-Thu-Dec-23-2021.mp3" length="1272476" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3182,7 +3200,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 22 Dec 2021 10:01:15 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedDec222021/today-in-history-e2378-Wed-Dec-22-2021.mp3" length="1616039" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3200,7 +3218,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 21 Dec 2021 10:01:18 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueDec212021/today-in-history-e2377-Tue-Dec-21-2021.mp3" length="1351053" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3218,7 +3236,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 20 Dec 2021 10:01:12 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonDec202021/today-in-history-e2376-Mon-Dec-20-2021.mp3" length="1310928" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3236,7 +3254,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 19 Dec 2021 10:01:06 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunDec192021/today-in-history-e2375-Sun-Dec-19-2021.mp3" length="1239666" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3254,7 +3272,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 18 Dec 2021 10:01:14 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatDec182021/today-in-history-e2374-Sat-Dec-18-2021.mp3" length="1418762" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3272,7 +3290,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 17 Dec 2021 10:01:03 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriDec172021/today-in-history-e2373-Fri-Dec-17-2021.mp3" length="1151895" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3290,7 +3308,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 16 Dec 2021 10:01:11 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuDec162021/today-in-history-e2372-Thu-Dec-16-2021.mp3" length="1569645" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3308,7 +3326,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 15 Dec 2021 10:01:06 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedDec152021/today-in-history-e2371-Wed-Dec-15-2021.mp3" length="1283552" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3326,7 +3344,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 14 Dec 2021 10:01:03 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueDec142021/today-in-history-e2370-Tue-Dec-14-2021.mp3" length="1118249" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3344,7 +3362,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 13 Dec 2021 10:01:03 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonDec132021/today-in-history-e2369-Mon-Dec-13-2021.mp3" length="1188675" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3362,7 +3380,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 12 Dec 2021 10:01:16 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunDec122021/today-in-history-e2368-Sun-Dec-12-2021.mp3" length="1449691" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3380,7 +3398,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 11 Dec 2021 10:01:13 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatDec112021/today-in-history-e2367-Sat-Dec-11-2021.mp3" length="1527640" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3398,7 +3416,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 10 Dec 2021 10:01:04 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriDec102021/today-in-history-e2366-Fri-Dec-10-2021.mp3" length="1131415" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3416,7 +3434,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 09 Dec 2021 10:01:08 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuDec092021/today-in-history-e2365-Thu-Dec-09-2021.mp3" length="1268715" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3434,7 +3452,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 08 Dec 2021 10:01:15 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedDec082021/today-in-history-e2364-Wed-Dec-08-2021.mp3" length="1623771" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3452,7 +3470,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 07 Dec 2021 10:01:12 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueDec072021/today-in-history-e2363-Tue-Dec-07-2021.mp3" length="1461812" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3470,7 +3488,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 06 Dec 2021 10:01:06 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonDec062021/today-in-history-e2362-Mon-Dec-06-2021.mp3" length="1241129" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3488,7 +3506,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 05 Dec 2021 10:01:42 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunDec052021/today-in-history-e2361-Sun-Dec-05-2021.mp3" length="2466377" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3506,7 +3524,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 04 Dec 2021 10:01:10 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatDec042021/today-in-history-e2360-Sat-Dec-04-2021.mp3" length="1336215" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3524,7 +3542,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 03 Dec 2021 10:01:03 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriDec032021/today-in-history-e2359-Fri-Dec-03-2021.mp3" length="1146044" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3542,7 +3560,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 02 Dec 2021 10:01:13 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuDec022021/today-in-history-e2358-Thu-Dec-02-2021.mp3" length="1488561" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3560,7 +3578,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 01 Dec 2021 10:00:58 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedDec012021/today-in-history-e2357-Wed-Dec-01-2021.mp3" length="962142" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3578,7 +3596,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 30 Nov 2021 10:01:10 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueNov302021/today-in-history-e2356-Tue-Nov-30-2021.mp3" length="1322840" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3596,7 +3614,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 29 Nov 2021 10:01:14 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonNov292021/today-in-history-e2355-Mon-Nov-29-2021.mp3" length="1513221" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3614,7 +3632,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 28 Nov 2021 10:01:12 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunNov282021/today-in-history-e2354-Sun-Nov-28-2021.mp3" length="1479575" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3632,7 +3650,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 27 Nov 2021 10:01:07 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatNov272021/today-in-history-e2353-Sat-Nov-27-2021.mp3" length="1256594" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3650,7 +3668,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 26 Nov 2021 10:01:28 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriNov262021/today-in-history-e2352-Fri-Nov-26-2021.mp3" length="2067644" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3668,7 +3686,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 25 Nov 2021 10:01:04 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuNov252021/today-in-history-e2351-Thu-Nov-25-2021.mp3" length="1069975" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3686,7 +3704,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 24 Nov 2021 10:01:11 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedNov242021/today-in-history-e2350-Wed-Nov-24-2021.mp3" length="1382191" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3704,7 +3722,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 23 Nov 2021 10:01:04 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueNov232021/today-in-history-e2349-Tue-Nov-23-2021.mp3" length="882938" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3722,7 +3740,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 22 Nov 2021 10:01:10 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonNov222021/today-in-history-e2348-Mon-Nov-22-2021.mp3" length="1386370" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3740,7 +3758,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 21 Nov 2021 10:01:05 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunNov212021/today-in-history-e2347-Sun-Nov-21-2021.mp3" length="1221485" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3758,7 +3776,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 20 Nov 2021 10:01:18 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatNov202021/today-in-history-e2346-Sat-Nov-20-2021.mp3" length="1628786" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3776,7 +3794,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 19 Nov 2021 10:01:10 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriNov192021/today-in-history-e2345-Fri-Nov-19-2021.mp3" length="1381146" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3794,7 +3812,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 18 Nov 2021 10:01:29 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuNov182021/today-in-history-e2344-Thu-Nov-18-2021.mp3" length="2067853" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3812,7 +3830,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 17 Nov 2021 10:01:12 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedNov172021/today-in-history-e2343-Wed-Nov-17-2021.mp3" length="1465155" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3830,7 +3848,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 16 Nov 2021 10:01:21 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueNov162021/today-in-history-e2342-Tue-Nov-16-2021.mp3" length="1808927" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3848,7 +3866,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 15 Nov 2021 10:01:12 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonNov152021/today-in-history-e2341-Mon-Nov-15-2021.mp3" length="1324094" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3866,7 +3884,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 14 Nov 2021 10:01:21 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunNov142021/today-in-history-e2340-Sun-Nov-14-2021.mp3" length="1761488" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3884,7 +3902,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 13 Nov 2021 10:01:08 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatNov132021/today-in-history-e2339-Sat-Nov-13-2021.mp3" length="1280626" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3902,7 +3920,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 12 Nov 2021 10:00:57 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriNov122021/today-in-history-e2338-Fri-Nov-12-2021.mp3" length="884192" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3920,7 +3938,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 11 Nov 2021 10:01:05 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuNov112021/today-in-history-e2337-Thu-Nov-11-2021.mp3" length="1230889" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3938,7 +3956,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 10 Nov 2021 10:01:00 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedNov102021/today-in-history-e2336-Wed-Nov-10-2021.mp3" length="926615" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3956,7 +3974,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 09 Nov 2021 10:01:19 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueNov092021/today-in-history-e2335-Tue-Nov-09-2021.mp3" length="1613949" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3974,7 +3992,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 08 Nov 2021 10:01:22 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonNov082021/today-in-history-e2334-Mon-Nov-08-2021.mp3" length="1662223" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -3992,7 +4010,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 07 Nov 2021 10:01:14 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunNov072021/today-in-history-e2333-Sun-Nov-07-2021.mp3" length="1495875" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4010,7 +4028,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 06 Nov 2021 11:01:11 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatNov062021/today-in-history-e2332-Sat-Nov-06-2021.mp3" length="1362964" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4028,7 +4046,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 05 Nov 2021 11:01:22 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriNov052021/today-in-history-e2331-Fri-Nov-05-2021.mp3" length="1792835" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4046,7 +4064,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 04 Nov 2021 11:01:00 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuNov042021/today-in-history-e2330-Thu-Nov-04-2021.mp3" length="1054720" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4064,7 +4082,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 03 Nov 2021 11:01:04 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedNov032021/today-in-history-e2329-Wed-Nov-03-2021.mp3" length="1240293" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4082,7 +4100,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 02 Nov 2021 11:01:13 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueNov022021/today-in-history-e2328-Tue-Nov-02-2021.mp3" length="1471216" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4100,7 +4118,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 01 Nov 2021 11:00:57 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonNov012021/today-in-history-e2327-Mon-Nov-01-2021.mp3" length="964649" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4118,7 +4136,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 31 Oct 2021 11:00:46 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2326-Sun-Oct-31-2021.mp3" length="983040" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4136,7 +4154,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 30 Oct 2021 11:00:53 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatOct302021/today-in-history-e2325-Sat-Oct-30-2021.mp3" length="877923" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4154,7 +4172,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 29 Oct 2021 11:01:17 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriOct292021/today-in-history-e2324-Fri-Oct-29-2021.mp3" length="1648222" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4172,7 +4190,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 28 Oct 2021 11:01:14 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuOct282021/today-in-history-e2323-Thu-Oct-28-2021.mp3" length="1523461" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4190,7 +4208,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 27 Oct 2021 11:01:14 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedOct272021/today-in-history-e2322-Wed-Oct-27-2021.mp3" length="1558360" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4208,7 +4226,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 26 Oct 2021 11:01:06 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2321-Tue-Oct-26-2021.mp3" length="1658671" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4226,7 +4244,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 25 Oct 2021 11:01:08 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonOct252021/today-in-history-e2320-Mon-Oct-25-2021.mp3" length="1370906" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4244,7 +4262,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 24 Oct 2021 11:00:53 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunOct242021/today-in-history-e2319-Sun-Oct-24-2021.mp3" length="858279" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4262,7 +4280,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 23 Oct 2021 11:01:22 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatOct232021/today-in-history-e2318-Sat-Oct-23-2021.mp3" length="1639026" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4280,7 +4298,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 22 Oct 2021 11:01:46 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriOct222021/today-in-history-e2317-Fri-Oct-22-2021.mp3" length="2715062" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4298,7 +4316,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 21 Oct 2021 11:01:02 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2316-Thu-Oct-21-2021.mp3" length="1659088" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4316,7 +4334,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 20 Oct 2021 11:01:13 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedOct202021/today-in-history-e2315-Wed-Oct-20-2021.mp3" length="1476022" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4334,7 +4352,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 19 Oct 2021 11:01:12 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueOct192021/today-in-history-e2314-Tue-Oct-19-2021.mp3" length="1495666" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4352,7 +4370,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 18 Oct 2021 11:01:17 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonOct182021/today-in-history-e2313-Mon-Oct-18-2021.mp3" length="1476231" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4370,7 +4388,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 17 Oct 2021 11:01:06 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunOct172021/today-in-history-e2312-Sun-Oct-17-2021.mp3" length="1302569" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4388,7 +4406,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 16 Oct 2021 11:01:20 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatOct162021/today-in-history-e2311-Sat-Oct-16-2021.mp3" length="1799941" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4406,7 +4424,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 15 Oct 2021 11:01:04 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriOct152021/today-in-history-e2310-Fri-Oct-15-2021.mp3" length="1236323" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4424,7 +4442,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 14 Oct 2021 11:00:56 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2309-Thu-Oct-14-2021.mp3" length="1313436" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4442,7 +4460,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 13 Oct 2021 11:01:27 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedOct132021/today-in-history-e2308-Wed-Oct-13-2021.mp3" length="1983007" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4460,7 +4478,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 12 Oct 2021 11:01:13 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueOct122021/today-in-history-e2307-Tue-Oct-12-2021.mp3" length="1502981" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4478,7 +4496,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 11 Oct 2021 11:00:57 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2306-Mon-Oct-11-2021.mp3" length="1372786" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4496,7 +4514,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 10 Oct 2021 11:01:15 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunOct102021/today-in-history-e2305-Sun-Oct-10-2021.mp3" length="1505071" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4514,7 +4532,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 09 Oct 2021 11:01:14 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2304-Sat-Oct-09-2021.mp3" length="1821048" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4532,7 +4550,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 08 Oct 2021 11:01:13 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriOct082021/today-in-history-e2303-Fri-Oct-08-2021.mp3" length="1453244" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4550,7 +4568,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 07 Oct 2021 11:01:10 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuOct072021/today-in-history-e2302-Thu-Oct-07-2021.mp3" length="1356904" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4568,7 +4586,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 06 Oct 2021 11:00:53 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedOct062021/today-in-history-e2301-Wed-Oct-06-2021.mp3" length="804780" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4586,7 +4604,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 05 Oct 2021 11:01:48 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueOct052021/today-in-history-e2300-Tue-Oct-05-2021.mp3" length="2548715" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4604,7 +4622,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 04 Oct 2021 11:01:23 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonOct042021/today-in-history-e2299-Mon-Oct-04-2021.mp3" length="1922403" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4622,7 +4640,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 03 Oct 2021 11:01:06 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunOct032021/today-in-history-e2298-Sun-Oct-03-2021.mp3" length="1262236" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4640,7 +4658,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 02 Oct 2021 11:01:05 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatOct022021/today-in-history-e2297-Sat-Oct-02-2021.mp3" length="1137684" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4658,7 +4676,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 01 Oct 2021 11:00:58 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriOct012021/today-in-history-e2296-Fri-Oct-01-2021.mp3" length="1001012" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4676,7 +4694,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 30 Sep 2021 11:01:03 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuSep302021/today-in-history-e2295-Thu-Sep-30-2021.mp3" length="1137684" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4694,7 +4712,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 29 Sep 2021 11:01:19 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedSep292021/today-in-history-e2294-Wed-Sep-29-2021.mp3" length="1684793" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4712,7 +4730,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 28 Sep 2021 11:01:07 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueSep282021/today-in-history-e2293-Tue-Sep-28-2021.mp3" length="1237368" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4730,7 +4748,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 27 Sep 2021 11:01:01 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2292-Mon-Sep-27-2021.mp3" length="1577168" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4748,7 +4766,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 26 Sep 2021 11:01:07 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunSep262021/today-in-history-e2291-Sun-Sep-26-2021.mp3" length="1286269" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4766,7 +4784,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 25 Sep 2021 11:01:07 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatSep252021/today-in-history-e2290-Sat-Sep-25-2021.mp3" length="1245309" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4784,7 +4802,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 24 Sep 2021 11:01:17 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriSep242021/today-in-history-e2289-Fri-Sep-24-2021.mp3" length="1685211" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4802,7 +4820,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 23 Sep 2021 11:01:06 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuSep232021/today-in-history-e2288-Thu-Sep-23-2021.mp3" length="1195572" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4820,7 +4838,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 22 Sep 2021 11:01:30 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedSep222021/today-in-history-e2287-Wed-Sep-22-2021.mp3" length="1969423" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4838,7 +4856,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 21 Sep 2021 11:01:11 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueSep212021/today-in-history-e2286-Tue-Sep-21-2021.mp3" length="1460976" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4856,7 +4874,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 20 Sep 2021 11:01:05 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonSep202021/today-in-history-e2285-Mon-Sep-20-2021.mp3" length="1254504" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4874,7 +4892,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 19 Sep 2021 11:00:44 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2284-Sun-Sep-19-2021.mp3" length="906762" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4892,7 +4910,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 18 Sep 2021 11:01:07 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatSep182021/today-in-history-e2283-Sat-Sep-18-2021.mp3" length="1240293" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4910,7 +4928,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 17 Sep 2021 11:01:06 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriSep172021/today-in-history-e2282-Fri-Sep-17-2021.mp3" length="1299017" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4928,7 +4946,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 16 Sep 2021 11:01:04 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuSep162021/today-in-history-e2281-Thu-Sep-16-2021.mp3" length="1230471" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4946,7 +4964,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 15 Sep 2021 11:01:59 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedSep152021/today-in-history-e2280-Wed-Sep-15-2021.mp3" length="3278680" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4964,7 +4982,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 14 Sep 2021 11:01:14 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueSep142021/today-in-history-e2279-Tue-Sep-14-2021.mp3" length="1377175" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -4982,7 +5000,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 13 Sep 2021 11:01:29 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonSep132021/today-in-history-e2278-Mon-Sep-13-2021.mp3" length="1639026" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5000,7 +5018,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 12 Sep 2021 11:01:03 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2277-Sun-Sep-12-2021.mp3" length="1664313" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5018,7 +5036,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 11 Sep 2021 11:01:16 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatSep112021/today-in-history-e2276-Sat-Sep-11-2021.mp3" length="1495040" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5036,7 +5054,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 10 Sep 2021 11:01:11 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriSep102021/today-in-history-e2275-Fri-Sep-10-2021.mp3" length="1355650" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5054,7 +5072,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 09 Sep 2021 11:01:05 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuSep092021/today-in-history-e2274-Thu-Sep-09-2021.mp3" length="1258475" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5072,7 +5090,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 08 Sep 2021 11:01:13 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedSep082021/today-in-history-e2273-Wed-Sep-08-2021.mp3" length="1433391" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5090,7 +5108,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 07 Sep 2021 11:01:23 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueSep072021/today-in-history-e2272-Tue-Sep-07-2021.mp3" length="1825436" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5108,7 +5126,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 06 Sep 2021 11:01:04 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonSep062021/today-in-history-e2271-Mon-Sep-06-2021.mp3" length="1210827" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5126,7 +5144,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 05 Sep 2021 11:01:03 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2270-Sun-Sep-05-2021.mp3" length="1660760" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5144,7 +5162,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 04 Sep 2021 11:01:32 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatSep042021/today-in-history-e2269-Sat-Sep-04-2021.mp3" length="2238380" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5162,7 +5180,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 03 Sep 2021 11:01:12 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriSep032021/today-in-history-e2268-Fri-Sep-03-2021.mp3" length="1381146" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5180,7 +5198,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 02 Sep 2021 11:01:18 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuSep022021/today-in-history-e2267-Thu-Sep-02-2021.mp3" length="1662014" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5198,7 +5216,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 01 Sep 2021 11:01:16 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedSep012021/today-in-history-e2266-Wed-Sep-01-2021.mp3" length="1490233" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5216,7 +5234,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 31 Aug 2021 11:01:11 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueAug312021/today-in-history-e2265-Tue-Aug-31-2021.mp3" length="1436316" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5234,7 +5252,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 30 Aug 2021 11:01:04 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2264-Mon-Aug-30-2021.mp3" length="1674971" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5252,7 +5270,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 29 Aug 2021 11:01:34 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunAug292021/today-in-history-e2263-Sun-Aug-29-2021.mp3" length="2066599" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5270,7 +5288,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 28 Aug 2021 11:01:20 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatAug282021/today-in-history-e2262-Sat-Aug-28-2021.mp3" length="1699631" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5288,7 +5306,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 27 Aug 2021 11:01:10 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriAug272021/today-in-history-e2261-Fri-Aug-27-2021.mp3" length="1285642" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5306,7 +5324,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 26 Aug 2021 11:01:52 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuAug262021/today-in-history-e2260-Thu-Aug-26-2021.mp3" length="2596780" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5324,7 +5342,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 25 Aug 2021 11:01:34 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2259-Wed-Aug-25-2021.mp3" length="2691657" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5342,7 +5360,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 24 Aug 2021 11:01:24 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueAug242021/today-in-history-e2258-Tue-Aug-24-2021.mp3" length="1749577" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5360,7 +5378,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 23 Aug 2021 11:01:14 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonAug232021/today-in-history-e2257-Mon-Aug-23-2021.mp3" length="1460558" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5378,7 +5396,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 22 Aug 2021 11:01:17 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunAug222021/today-in-history-e2256-Sun-Aug-22-2021.mp3" length="1689391" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5396,7 +5414,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 21 Aug 2021 11:01:19 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatAug212021/today-in-history-e2255-Sat-Aug-21-2021.mp3" length="1721782" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5414,7 +5432,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 20 Aug 2021 11:01:30 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriAug202021/today-in-history-e2254-Fri-Aug-20-2021.mp3" length="1536000" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5432,7 +5450,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 19 Aug 2021 11:01:32 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuAug192021/today-in-history-e2253-Thu-Aug-19-2021.mp3" length="2077257" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5450,7 +5468,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 18 Aug 2021 11:01:44 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedAug182021/today-in-history-e2252-Wed-Aug-18-2021.mp3" length="2356453" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5468,7 +5486,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 17 Aug 2021 11:01:12 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueAug172021/today-in-history-e2251-Tue-Aug-17-2021.mp3" length="1277492" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5486,7 +5504,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 16 Aug 2021 11:01:15 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonAug162021/today-in-history-e2250-Mon-Aug-16-2021.mp3" length="1364218" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5504,7 +5522,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 15 Aug 2021 11:00:53 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2249-Sun-Aug-15-2021.mp3" length="1280835" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5522,7 +5540,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 14 Aug 2021 11:01:34 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatAug142021/today-in-history-e2248-Sat-Aug-14-2021.mp3" length="1750622" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5540,7 +5558,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 13 Aug 2021 11:01:33 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriAug132021/today-in-history-e2247-Fri-Aug-13-2021.mp3" length="1828571" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5558,7 +5576,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 12 Aug 2021 11:01:26 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuAug122021/today-in-history-e2246-Thu-Aug-12-2021.mp3" length="1945600" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5576,7 +5594,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 11 Aug 2021 11:01:12 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedAug112021/today-in-history-e2245-Wed-Aug-11-2021.mp3" length="1452199" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5594,7 +5612,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 10 Aug 2021 11:01:11 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueAug102021/today-in-history-e2244-Tue-Aug-10-2021.mp3" length="1308630" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5612,7 +5630,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 09 Aug 2021 11:01:11 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonAug092021/today-in-history-e2243-Mon-Aug-09-2021.mp3" length="1422733" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5630,7 +5648,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 08 Aug 2021 11:01:20 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunAug082021/today-in-history-e2242-Sun-Aug-08-2021.mp3" length="1574034" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5648,7 +5666,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 07 Aug 2021 11:01:22 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatAug072021/today-in-history-e2241-Sat-Aug-07-2021.mp3" length="1819585" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5666,7 +5684,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 06 Aug 2021 11:01:13 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriAug062021/today-in-history-e2240-Fri-Aug-06-2021.mp3" length="1366517" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5684,7 +5702,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 05 Aug 2021 11:01:32 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuAug052021/today-in-history-e2239-Thu-Aug-05-2021.mp3" length="1882906" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5702,7 +5720,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 04 Aug 2021 11:01:08 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedAug042021/today-in-history-e2238-Wed-Aug-04-2021.mp3" length="1257012" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5720,7 +5738,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 03 Aug 2021 11:01:11 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2237-Tue-Aug-03-2021.mp3" length="1826899" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5738,7 +5756,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 02 Aug 2021 11:02:26 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonAug022021/today-in-history-e2236-Mon-Aug-02-2021.mp3" length="3751601" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5756,7 +5774,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 01 Aug 2021 11:01:22 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunAug012021/today-in-history-e2235-Sun-Aug-01-2021.mp3" length="1716767" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5774,7 +5792,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 31 Jul 2021 11:01:00 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatJul312021/today-in-history-e2234-Sat-Jul-31-2021.mp3" length="980532" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5792,7 +5810,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 30 Jul 2021 11:01:06 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2233-Fri-Jul-30-2021.mp3" length="1637564" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5810,7 +5828,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 29 Jul 2021 11:01:35 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuJul292021/today-in-history-e2232-Thu-Jul-29-2021.mp3" length="1953750" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5828,7 +5846,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 28 Jul 2021 11:01:06 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedJul282021/today-in-history-e2231-Wed-Jul-28-2021.mp3" length="1159627" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5846,7 +5864,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 27 Jul 2021 11:01:22 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueJul272021/today-in-history-e2230-Tue-Jul-27-2021.mp3" length="1700884" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5864,7 +5882,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 26 Jul 2021 11:01:20 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonJul262021/today-in-history-e2229-Mon-Jul-26-2021.mp3" length="1757518" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5882,7 +5900,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 25 Jul 2021 11:01:07 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunJul252021/today-in-history-e2228-Sun-Jul-25-2021.mp3" length="861622" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5900,7 +5918,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 24 Jul 2021 11:01:42 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatJul242021/today-in-history-e2227-Sat-Jul-24-2021.mp3" length="2420401" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5918,7 +5936,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 23 Jul 2021 11:01:03 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriJul232021/today-in-history-e2226-Fri-Jul-23-2021.mp3" length="966112" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5936,7 +5954,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 22 Jul 2021 11:01:18 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuJul222021/today-in-history-e2225-Thu-Jul-22-2021.mp3" length="1607471" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5954,7 +5972,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 21 Jul 2021 11:01:23 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2224-Wed-Jul-21-2021.mp3" length="2355408" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5972,7 +5990,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 20 Jul 2021 11:01:14 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueJul202021/today-in-history-e2223-Tue-Jul-20-2021.mp3" length="1521789" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -5990,7 +6008,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 19 Jul 2021 11:01:54 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonJul192021/today-in-history-e2222-Mon-Jul-19-2021.mp3" length="2008084" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6008,7 +6026,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 18 Jul 2021 11:01:10 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2221-Sun-Jul-18-2021.mp3" length="1788029" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6026,7 +6044,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 17 Jul 2021 11:01:32 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatJul172021/today-in-history-e2220-Sat-Jul-17-2021.mp3" length="2192613" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6044,7 +6062,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 16 Jul 2021 11:01:31 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriJul162021/today-in-history-e2219-Fri-Jul-16-2021.mp3" length="2181955" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6062,7 +6080,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 15 Jul 2021 11:01:34 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuJul152021/today-in-history-e2218-Thu-Jul-15-2021.mp3" length="2146638" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6080,7 +6098,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 14 Jul 2021 11:01:25 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedJul142021/today-in-history-e2217-Wed-Jul-14-2021.mp3" length="1937867" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6098,7 +6116,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 13 Jul 2021 11:01:12 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueJul132021/today-in-history-e2216-Tue-Jul-13-2021.mp3" length="1476231" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6116,7 +6134,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 12 Jul 2021 11:00:57 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonJul122021/today-in-history-e2215-Mon-Jul-12-2021.mp3" length="927660" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6134,7 +6152,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 11 Jul 2021 11:01:09 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunJul112021/today-in-history-e2214-Sun-Jul-11-2021.mp3" length="1325975" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6152,7 +6170,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 10 Jul 2021 11:01:06 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatJul102021/today-in-history-e2213-Sat-Jul-10-2021.mp3" length="1334752" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6170,7 +6188,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 09 Jul 2021 11:01:14 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriJul092021/today-in-history-e2212-Fri-Jul-09-2021.mp3" length="1518863" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6188,7 +6206,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 08 Jul 2021 11:01:22 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuJul082021/today-in-history-e2211-Thu-Jul-08-2021.mp3" length="1764623" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6206,7 +6224,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 07 Jul 2021 11:01:07 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedJul072021/today-in-history-e2210-Wed-Jul-07-2021.mp3" length="1250115" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6224,7 +6242,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 06 Jul 2021 11:01:23 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2209-Tue-Jul-06-2021.mp3" length="2260950" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6242,7 +6260,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 05 Jul 2021 11:01:27 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonJul052021/today-in-history-e2208-Mon-Jul-05-2021.mp3" length="1793253" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6260,7 +6278,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 04 Jul 2021 11:01:22 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunJul042021/today-in-history-e2207-Sun-Jul-04-2021.mp3" length="1767340" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6278,7 +6296,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 03 Jul 2021 11:01:00 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatJul032021/today-in-history-e2206-Sat-Jul-03-2021.mp3" length="1012715" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6296,7 +6314,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 02 Jul 2021 11:00:54 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2205-Fri-Jul-02-2021.mp3" length="1250324" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6314,7 +6332,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 01 Jul 2021 11:01:55 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuJul012021/today-in-history-e2204-Thu-Jul-01-2021.mp3" length="2347676" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6332,7 +6350,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 30 Jun 2021 11:01:17 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedJun302021/today-in-history-e2203-Wed-Jun-30-2021.mp3" length="1545404" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6350,7 +6368,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 29 Jun 2021 11:01:40 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueJun292021/today-in-history-e2202-Tue-Jun-29-2021.mp3" length="2451330" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6368,7 +6386,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 28 Jun 2021 11:01:11 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonJun282021/today-in-history-e2201-Mon-Jun-28-2021.mp3" length="1255967" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6386,7 +6404,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 27 Jun 2021 11:01:20 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunJun272021/today-in-history-e2200-Sun-Jun-27-2021.mp3" length="1642579" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6404,7 +6422,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 26 Jun 2021 11:01:10 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatJun262021/today-in-history-e2199-Sat-Jun-26-2021.mp3" length="1346664" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6422,7 +6440,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 25 Jun 2021 11:01:17 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriJun252021/today-in-history-e2198-Fri-Jun-25-2021.mp3" length="1451572" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6440,7 +6458,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 24 Jun 2021 11:01:28 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuJun242021/today-in-history-e2197-Thu-Jun-24-2021.mp3" length="1752711" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6458,7 +6476,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 23 Jun 2021 11:01:10 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedJun232021/today-in-history-e2196-Wed-Jun-23-2021.mp3" length="1332453" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6476,7 +6494,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 22 Jun 2021 11:01:19 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueJun222021/today-in-history-e2195-Tue-Jun-22-2021.mp3" length="1595977" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6494,7 +6512,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 21 Jun 2021 11:01:17 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonJun212021/today-in-history-e2194-Mon-Jun-21-2021.mp3" length="1343738" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6512,7 +6530,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 20 Jun 2021 11:01:07 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunJun202021/today-in-history-e2193-Sun-Jun-20-2021.mp3" length="1170285" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6530,7 +6548,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 19 Jun 2021 11:01:30 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2192-Sat-Jun-19-2021.mp3" length="2417475" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6548,7 +6566,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 18 Jun 2021 11:01:40 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriJun182021/today-in-history-e2191-Fri-Jun-18-2021.mp3" length="2381740" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6566,7 +6584,7 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 17 Jun 2021 11:01:15 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuJun172021/today-in-history-e2190-Thu-Jun-17-2021.mp3" length="1375503" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
@@ -6584,30 +6602,12 @@
 			<category><![CDATA[History]]></category>
 			<category><![CDATA[Interesting]]></category>
 			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 16 Jun 2021 11:01:08 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2189-Wed-Jun-16-2021.mp3" length="1718230" type="audio/mpeg"/>
 			<itunes:author>Matt</itunes:author>
 			<itunes:subtitle>Today In History - Bob Dylan records “Like A Rolling Stone”</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/bob-dylan-records-like-a-rolling-stone&apos;&gt;https://www.history.com/this-day-in-history/bob-dylan-records-like-a-rolling-stone&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - Construction on Global Seed Vault begins]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/construction-on-global-seed-vault-begins-norway'>https://www.history.com/this-day-in-history/construction-on-global-seed-vault-begins-norway</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastTueJun152021/today-in-history-e2188-Tue-Jun-15-2021.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastTueJun152021/today-in-history-e2188-Tue-Jun-15-2021.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt]]></dc:creator>
-			<pubDate>Tue, 15 Jun 2021 11:01:09 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastTueJun152021/today-in-history-e2188-Tue-Jun-15-2021.mp3" length="1221276" type="audio/mpeg"/>
-			<itunes:author>Matt</itunes:author>
-			<itunes:subtitle>Today In History - Construction on Global Seed Vault begins</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/construction-on-global-seed-vault-begins-norway&apos;&gt;https://www.history.com/this-day-in-history/construction-on-global-seed-vault-begins-norway&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
