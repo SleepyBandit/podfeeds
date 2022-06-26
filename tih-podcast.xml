@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sat, 25 Jun 2022 10:01:12 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 26 Jun 2022 10:01:08 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2022]]></copyright>
@@ -42,6 +42,24 @@
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
 		<item>
+			<title><![CDATA[Today In History - Lawrence v. Texas is decided]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/lawrence-v-texas-decided-sex-privacy'>https://www.history.com/this-day-in-history/lawrence-v-texas-decided-sex-privacy</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSunJun262022/today-in-history-e2564-Sun-Jun-26-2022.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSunJun262022/today-in-history-e2564-Sun-Jun-26-2022.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sun, 26 Jun 2022 11:01:08 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSunJun262022/today-in-history-e2564-Sun-Jun-26-2022.mp3" length="1346664" type="audio/mpeg"/>
+			<itunes:author>Matt</itunes:author>
+			<itunes:subtitle>Today In History - Lawrence v. Texas is decided</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/lawrence-v-texas-decided-sex-privacy&apos;&gt;https://www.history.com/this-day-in-history/lawrence-v-texas-decided-sex-privacy&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
+		<item>
 			<title><![CDATA[Today In History - First rainbow Pride flag premieres at San Francisco parade]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/first-rainbow-flag-san-fransisco-pride'>https://www.history.com/this-day-in-history/first-rainbow-flag-san-fransisco-pride</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
 			<link>https://archive.org/download/tihpodcastSatJun252022/today-in-history-e2563-Sat-Jun-25-2022.mp3</link>
@@ -53,7 +71,7 @@
 			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 25 Jun 2022 11:01:12 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatJun252022/today-in-history-e2563-Sat-Jun-25-2022.mp3" length="1524924" type="audio/mpeg"/>
-			<itunes:author>Matt</itunes:author>
+			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - First rainbow Pride flag premieres at San Francisco parade</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/first-rainbow-flag-san-fransisco-pride&apos;&gt;https://www.history.com/this-day-in-history/first-rainbow-flag-san-fransisco-pride&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Activist Bree Newsome removes Confederate flag from South Carolina State House</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/bree-newsome-removes-confederate-flag-south-carolina-state-house&apos;&gt;https://www.history.com/this-day-in-history/bree-newsome-removes-confederate-flag-south-carolina-state-house&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - Lawrence v. Texas is decided]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/lawrence-v-texas-decided-sex-privacy'>https://www.history.com/this-day-in-history/lawrence-v-texas-decided-sex-privacy</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSatJun262021/today-in-history-e2199-Sat-Jun-26-2021.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatJun262021/today-in-history-e2199-Sat-Jun-26-2021.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sat, 26 Jun 2021 11:01:10 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSatJun262021/today-in-history-e2199-Sat-Jun-26-2021.mp3" length="1346664" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - Lawrence v. Texas is decided</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/lawrence-v-texas-decided-sex-privacy&apos;&gt;https://www.history.com/this-day-in-history/lawrence-v-texas-decided-sex-privacy&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
