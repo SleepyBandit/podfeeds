@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 28 Jun 2022 10:01:08 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 29 Jun 2022 10:01:44 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2022]]></copyright>
@@ -42,6 +42,24 @@
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
 		<item>
+			<title><![CDATA[Today In History - Harlem Cultural Festival begins]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/harlem-cultural-festival-begins'>https://www.history.com/this-day-in-history/harlem-cultural-festival-begins</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastWedJun292022/today-in-history-e2567-Wed-Jun-29-2022.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedJun292022/today-in-history-e2567-Wed-Jun-29-2022.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 29 Jun 2022 11:01:44 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastWedJun292022/today-in-history-e2567-Wed-Jun-29-2022.mp3" length="2649234" type="audio/mpeg"/>
+			<itunes:author>Matt</itunes:author>
+			<itunes:subtitle>Today In History - Harlem Cultural Festival begins</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/harlem-cultural-festival-begins&apos;&gt;https://www.history.com/this-day-in-history/harlem-cultural-festival-begins&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
+		<item>
 			<title><![CDATA[Today In History - Bald Eagle removed from list of threatened species]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/bald-eagle-removed-from-list-of-threatened-species'>https://www.history.com/this-day-in-history/bald-eagle-removed-from-list-of-threatened-species</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
 			<link>https://archive.org/download/tihpodcastTueJun282022/today-in-history-e2566-Tue-Jun-28-2022.mp3</link>
@@ -53,7 +71,7 @@
 			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 28 Jun 2022 11:01:08 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueJun282022/today-in-history-e2566-Tue-Jun-28-2022.mp3" length="1255967" type="audio/mpeg"/>
-			<itunes:author>Matt</itunes:author>
+			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Bald Eagle removed from list of threatened species</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/bald-eagle-removed-from-list-of-threatened-species&apos;&gt;https://www.history.com/this-day-in-history/bald-eagle-removed-from-list-of-threatened-species&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Wounded soldiers evacuated from the Little Big Horn by steamboat</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/soldiers-are-evacuated-from-the-little-big-horn-by-steamboat&apos;&gt;https://www.history.com/this-day-in-history/soldiers-are-evacuated-from-the-little-big-horn-by-steamboat&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - Germans advance in USSR]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/germans-advance-in-ussr'>https://www.history.com/this-day-in-history/germans-advance-in-ussr</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastTueJun292021/today-in-history-e2202-Tue-Jun-29-2021.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastTueJun292021/today-in-history-e2202-Tue-Jun-29-2021.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Tue, 29 Jun 2021 11:01:40 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastTueJun292021/today-in-history-e2202-Tue-Jun-29-2021.mp3" length="2451330" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - Germans advance in USSR</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/germans-advance-in-ussr&apos;&gt;https://www.history.com/this-day-in-history/germans-advance-in-ussr&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
