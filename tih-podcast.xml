@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 05 Jul 2022 10:01:09 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 06 Jul 2022 10:01:21 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2022]]></copyright>
@@ -42,6 +42,24 @@
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
 		<item>
+			<title><![CDATA[Today In History - Major League Baseball’s first All-Star Game is held]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/major-league-baseballs-first-all-star-game-is-held'>https://www.history.com/this-day-in-history/major-league-baseballs-first-all-star-game-is-held</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2574-Wed-Jul-06-2022.mp3</link>
+			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2574-Wed-Jul-06-2022.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 06 Jul 2022 11:01:21 GMT</pubDate>
+			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2574-Wed-Jul-06-2022.mp3" length="2260950" type="audio/mpeg"/>
+			<itunes:author>Matt</itunes:author>
+			<itunes:subtitle>Today In History - Major League Baseball’s first All-Star Game is held</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/major-league-baseballs-first-all-star-game-is-held&apos;&gt;https://www.history.com/this-day-in-history/major-league-baseballs-first-all-star-game-is-held&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
+		<item>
 			<title><![CDATA[Today In History - "Gang of 19" activists occupy Denver intersection to protest inaccessibility on the city’s bus system]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/gang-of-19-disability-activists-protest-denver-bus-system'>https://www.history.com/this-day-in-history/gang-of-19-disability-activists-protest-denver-bus-system</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
 			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2573-Tue-Jul-05-2022.mp3</link>
@@ -53,7 +71,7 @@
 			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 05 Jul 2022 11:01:09 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2573-Tue-Jul-05-2022.mp3" length="1806419" type="audio/mpeg"/>
-			<itunes:author>Matt</itunes:author>
+			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - &quot;Gang of 19&quot; activists occupy Denver intersection to protest inaccessibility on the city’s bus system</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/gang-of-19-disability-activists-protest-denver-bus-system&apos;&gt;https://www.history.com/this-day-in-history/gang-of-19-disability-activists-protest-denver-bus-system&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - U.S. women&apos;s soccer team wins record 4th World Cup title</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/us-womens-soccer-team-wins-fourth-world-cup-title&apos;&gt;https://www.history.com/this-day-in-history/us-womens-soccer-team-wins-fourth-world-cup-title&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - Major League Baseball’s first All-Star Game is held]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/major-league-baseballs-first-all-star-game-is-held'>https://www.history.com/this-day-in-history/major-league-baseballs-first-all-star-game-is-held</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2209-Tue-Jul-06-2021.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2209-Tue-Jul-06-2021.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Tue, 06 Jul 2021 11:01:23 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2209-Tue-Jul-06-2021.mp3" length="2260950" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - Major League Baseball’s first All-Star Game is held</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/major-league-baseballs-first-all-star-game-is-held&apos;&gt;https://www.history.com/this-day-in-history/major-league-baseballs-first-all-star-game-is-held&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
