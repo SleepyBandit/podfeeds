@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 12 Jul 2022 10:00:55 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 13 Jul 2022 10:01:11 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2022]]></copyright>
@@ -42,6 +42,24 @@
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
 		<item>
+			<title><![CDATA[Today In History - Sandra Bland dies in jail after traffic stop confrontation]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/sandra-bland-dies-in-jail'>https://www.history.com/this-day-in-history/sandra-bland-dies-in-jail</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastWedJul132022/today-in-history-e2581-Wed-Jul-13-2022.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedJul132022/today-in-history-e2581-Wed-Jul-13-2022.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 13 Jul 2022 11:01:11 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastWedJul132022/today-in-history-e2581-Wed-Jul-13-2022.mp3" length="1476231" type="audio/mpeg"/>
+			<itunes:author>Matt</itunes:author>
+			<itunes:subtitle>Today In History - Sandra Bland dies in jail after traffic stop confrontation</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/sandra-bland-dies-in-jail&apos;&gt;https://www.history.com/this-day-in-history/sandra-bland-dies-in-jail&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
+		<item>
 			<title><![CDATA[Today In History - Medal of Honor created]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/medal-of-honor-created'>https://www.history.com/this-day-in-history/medal-of-honor-created</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
 			<link>https://archive.org/download/tihpodcastTueJul122022/today-in-history-e2580-Tue-Jul-12-2022.mp3</link>
@@ -53,7 +71,7 @@
 			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 12 Jul 2022 11:00:55 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueJul122022/today-in-history-e2580-Tue-Jul-12-2022.mp3" length="927660" type="audio/mpeg"/>
-			<itunes:author>Matt</itunes:author>
+			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Medal of Honor created</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/medal-of-honor-created&apos;&gt;https://www.history.com/this-day-in-history/medal-of-honor-created&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Terrorist drives truck through a Bastille Day celebration</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/2016-nice-terrorist-attacks&apos;&gt;https://www.history.com/this-day-in-history/2016-nice-terrorist-attacks&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - Sandra Bland dies in jail after traffic stop confrontation]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/sandra-bland-dies-in-jail'>https://www.history.com/this-day-in-history/sandra-bland-dies-in-jail</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastTueJul132021/today-in-history-e2216-Tue-Jul-13-2021.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastTueJul132021/today-in-history-e2216-Tue-Jul-13-2021.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Tue, 13 Jul 2021 11:01:12 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastTueJul132021/today-in-history-e2216-Tue-Jul-13-2021.mp3" length="1476231" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - Sandra Bland dies in jail after traffic stop confrontation</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/sandra-bland-dies-in-jail&apos;&gt;https://www.history.com/this-day-in-history/sandra-bland-dies-in-jail&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
