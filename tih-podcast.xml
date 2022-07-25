@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sun, 24 Jul 2022 10:01:36 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 25 Jul 2022 10:00:53 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2022]]></copyright>
@@ -42,6 +42,24 @@
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
 		<item>
+			<title><![CDATA[Today In History - The first railroad accident]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/the-first-railroad-accident'>https://www.history.com/this-day-in-history/the-first-railroad-accident</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastMonJul252022/today-in-history-e2593-Mon-Jul-25-2022.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonJul252022/today-in-history-e2593-Mon-Jul-25-2022.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Mon, 25 Jul 2022 11:00:53 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastMonJul252022/today-in-history-e2593-Mon-Jul-25-2022.mp3" length="861622" type="audio/mpeg"/>
+			<itunes:author>Matt</itunes:author>
+			<itunes:subtitle>Today In History - The first railroad accident</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/the-first-railroad-accident&apos;&gt;https://www.history.com/this-day-in-history/the-first-railroad-accident&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
+		<item>
 			<title><![CDATA[Today In History - Religious pioneers settle Salt Lake Valley]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/mormons-settle-salt-lake-valley'>https://www.history.com/this-day-in-history/mormons-settle-salt-lake-valley</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
 			<link>https://archive.org/download/tihpodcastSunJul242022/today-in-history-e2592-Sun-Jul-24-2022.mp3</link>
@@ -53,7 +71,7 @@
 			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sun, 24 Jul 2022 11:01:36 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSunJul242022/today-in-history-e2592-Sun-Jul-24-2022.mp3" length="2420401" type="audio/mpeg"/>
-			<itunes:author>Matt</itunes:author>
+			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Religious pioneers settle Salt Lake Valley</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/mormons-settle-salt-lake-valley&apos;&gt;https://www.history.com/this-day-in-history/mormons-settle-salt-lake-valley&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - President Truman ends discrimination in the military</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/president-truman-ends-discrimination-in-military&apos;&gt;https://www.history.com/this-day-in-history/president-truman-ends-discrimination-in-military&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - The first railroad accident]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/the-first-railroad-accident'>https://www.history.com/this-day-in-history/the-first-railroad-accident</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSunJul252021/today-in-history-e2228-Sun-Jul-25-2021.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSunJul252021/today-in-history-e2228-Sun-Jul-25-2021.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sun, 25 Jul 2021 11:01:07 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSunJul252021/today-in-history-e2228-Sun-Jul-25-2021.mp3" length="861622" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - The first railroad accident</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/the-first-railroad-accident&apos;&gt;https://www.history.com/this-day-in-history/the-first-railroad-accident&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
