@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sat, 30 Jul 2022 10:01:04 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 31 Jul 2022 10:00:59 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2022]]></copyright>
@@ -42,6 +42,24 @@
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
 		<item>
+			<title><![CDATA[Today In History - Ranger 7 photographs moon]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/ranger-7-photographs-moon'>https://www.history.com/this-day-in-history/ranger-7-photographs-moon</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSunJul312022/today-in-history-e2599-Sun-Jul-31-2022.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSunJul312022/today-in-history-e2599-Sun-Jul-31-2022.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sun, 31 Jul 2022 11:00:59 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSunJul312022/today-in-history-e2599-Sun-Jul-31-2022.mp3" length="980532" type="audio/mpeg"/>
+			<itunes:author>Matt</itunes:author>
+			<itunes:subtitle>Today In History - Ranger 7 photographs moon</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/ranger-7-photographs-moon&apos;&gt;https://www.history.com/this-day-in-history/ranger-7-photographs-moon&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
+		<item>
 			<title><![CDATA[Today In History - The Troggs take their signature hit, “Wild Thing,” to #1]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/the-troggs-take-their-signature-hit-wild-thing-to-1'>https://www.history.com/this-day-in-history/the-troggs-take-their-signature-hit-wild-thing-to-1</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
 			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2598-Sat-Jul-30-2022.mp3</link>
@@ -53,7 +71,7 @@
 			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 30 Jul 2022 11:01:04 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2598-Sat-Jul-30-2022.mp3" length="1637564" type="audio/mpeg"/>
-			<itunes:author>Matt</itunes:author>
+			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - The Troggs take their signature hit, “Wild Thing,” to #1</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/the-troggs-take-their-signature-hit-wild-thing-to-1&apos;&gt;https://www.history.com/this-day-in-history/the-troggs-take-their-signature-hit-wild-thing-to-1&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - The Harlem Riot of 1943 begins</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/harlem-riot-of-1943-begins&apos;&gt;https://www.history.com/this-day-in-history/harlem-riot-of-1943-begins&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - Ranger 7 photographs moon]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/ranger-7-photographs-moon'>https://www.history.com/this-day-in-history/ranger-7-photographs-moon</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSatJul312021/today-in-history-e2234-Sat-Jul-31-2021.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatJul312021/today-in-history-e2234-Sat-Jul-31-2021.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sat, 31 Jul 2021 11:01:00 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSatJul312021/today-in-history-e2234-Sat-Jul-31-2021.mp3" length="980532" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - Ranger 7 photographs moon</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/ranger-7-photographs-moon&apos;&gt;https://www.history.com/this-day-in-history/ranger-7-photographs-moon&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
