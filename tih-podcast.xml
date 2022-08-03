@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 02 Aug 2022 10:02:18 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 03 Aug 2022 10:01:09 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2022]]></copyright>
@@ -42,6 +42,24 @@
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
 		<item>
+			<title><![CDATA[Today In History - Calvin Coolidge takes oath of office after Warren G. Harding’s death]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/calvin-coolidge-takes-oath-of-office-after-hardings-death'>https://www.history.com/this-day-in-history/calvin-coolidge-takes-oath-of-office-after-hardings-death</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2602-Wed-Aug-03-2022.mp3</link>
+			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2602-Wed-Aug-03-2022.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 03 Aug 2022 11:01:09 GMT</pubDate>
+			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2602-Wed-Aug-03-2022.mp3" length="1826899" type="audio/mpeg"/>
+			<itunes:author>Matt</itunes:author>
+			<itunes:subtitle>Today In History - Calvin Coolidge takes oath of office after Warren G. Harding’s death</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/calvin-coolidge-takes-oath-of-office-after-hardings-death&apos;&gt;https://www.history.com/this-day-in-history/calvin-coolidge-takes-oath-of-office-after-hardings-death&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
+		<item>
 			<title><![CDATA[Today In History - Hitler becomes dictator of Germany]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/hitler-becomes-fuhrer'>https://www.history.com/this-day-in-history/hitler-becomes-fuhrer</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
 			<link>https://archive.org/download/tihpodcastTueAug022022/today-in-history-e2601-Tue-Aug-02-2022.mp3</link>
@@ -53,7 +71,7 @@
 			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 02 Aug 2022 11:02:18 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueAug022022/today-in-history-e2601-Tue-Aug-02-2022.mp3" length="3751810" type="audio/mpeg"/>
-			<itunes:author>Matt</itunes:author>
+			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Hitler becomes dictator of Germany</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/hitler-becomes-fuhrer&apos;&gt;https://www.history.com/this-day-in-history/hitler-becomes-fuhrer&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Dayton, Ohio shooting becomes second mass shooting in 24-hour period</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/dayton-ohio-shooting-el-paso-texas-two-mass-shootings-24-hours&apos;&gt;https://www.history.com/this-day-in-history/dayton-ohio-shooting-el-paso-texas-two-mass-shootings-24-hours&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - Calvin Coolidge takes oath of office after Warren G. Harding’s death]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/calvin-coolidge-takes-oath-of-office-after-hardings-death'>https://www.history.com/this-day-in-history/calvin-coolidge-takes-oath-of-office-after-hardings-death</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2237-Tue-Aug-03-2021.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2237-Tue-Aug-03-2021.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Tue, 03 Aug 2021 11:01:11 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2237-Tue-Aug-03-2021.mp3" length="1826899" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - Calvin Coolidge takes oath of office after Warren G. Harding’s death</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/calvin-coolidge-takes-oath-of-office-after-hardings-death&apos;&gt;https://www.history.com/this-day-in-history/calvin-coolidge-takes-oath-of-office-after-hardings-death&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
