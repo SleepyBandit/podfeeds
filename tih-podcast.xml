@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sat, 06 Aug 2022 10:01:06 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 07 Aug 2022 10:01:20 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2022]]></copyright>
@@ -42,6 +42,24 @@
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
 		<item>
+			<title><![CDATA[Today In History - Philippe Petit walks on a tightrope between the Twin Towers]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/philippe-petit-tightrope-walk-twin-towers-world-trade-center-1974'>https://www.history.com/this-day-in-history/philippe-petit-tightrope-walk-twin-towers-world-trade-center-1974</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSunAug072022/today-in-history-e2606-Sun-Aug-07-2022.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSunAug072022/today-in-history-e2606-Sun-Aug-07-2022.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sun, 07 Aug 2022 11:01:20 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSunAug072022/today-in-history-e2606-Sun-Aug-07-2022.mp3" length="1819585" type="audio/mpeg"/>
+			<itunes:author>Matt</itunes:author>
+			<itunes:subtitle>Today In History - Philippe Petit walks on a tightrope between the Twin Towers</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/philippe-petit-tightrope-walk-twin-towers-world-trade-center-1974&apos;&gt;https://www.history.com/this-day-in-history/philippe-petit-tightrope-walk-twin-towers-world-trade-center-1974&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
+		<item>
 			<title><![CDATA[Today In History - Researchers claim to have found signs of Martian life in Antarctic meteorite]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/alh84001-antarctic-meteorite-martian-life-annoucement-nasa'>https://www.history.com/this-day-in-history/alh84001-antarctic-meteorite-martian-life-annoucement-nasa</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
 			<link>https://archive.org/download/tihpodcastSatAug062022/today-in-history-e2605-Sat-Aug-06-2022.mp3</link>
@@ -53,7 +71,7 @@
 			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 06 Aug 2022 11:01:06 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatAug062022/today-in-history-e2605-Sat-Aug-06-2022.mp3" length="1282507" type="audio/mpeg"/>
-			<itunes:author>Matt</itunes:author>
+			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Researchers claim to have found signs of Martian life in Antarctic meteorite</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/alh84001-antarctic-meteorite-martian-life-annoucement-nasa&apos;&gt;https://www.history.com/this-day-in-history/alh84001-antarctic-meteorite-martian-life-annoucement-nasa&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - 5-day long Russo-Georgian War begins</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/5-day-long-russo-georgian-war-begins&apos;&gt;https://www.history.com/this-day-in-history/5-day-long-russo-georgian-war-begins&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - Philippe Petit walks on a tightrope between the Twin Towers]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/philippe-petit-tightrope-walk-twin-towers-world-trade-center-1974'>https://www.history.com/this-day-in-history/philippe-petit-tightrope-walk-twin-towers-world-trade-center-1974</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSatAug072021/today-in-history-e2241-Sat-Aug-07-2021.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatAug072021/today-in-history-e2241-Sat-Aug-07-2021.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sat, 07 Aug 2021 11:01:22 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSatAug072021/today-in-history-e2241-Sat-Aug-07-2021.mp3" length="1819585" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - Philippe Petit walks on a tightrope between the Twin Towers</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/philippe-petit-tightrope-walk-twin-towers-world-trade-center-1974&apos;&gt;https://www.history.com/this-day-in-history/philippe-petit-tightrope-walk-twin-towers-world-trade-center-1974&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
