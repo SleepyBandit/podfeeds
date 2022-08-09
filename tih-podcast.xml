@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Mon, 08 Aug 2022 10:01:03 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 09 Aug 2022 10:01:13 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2022]]></copyright>
@@ -42,6 +42,24 @@
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
 		<item>
+			<title><![CDATA[Today In History - Michael Brown is killed by a police officer in Ferguson, Missouri]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/michael-brown-killed-by-police-ferguson-mo'>https://www.history.com/this-day-in-history/michael-brown-killed-by-police-ferguson-mo</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastTueAug092022/today-in-history-e2608-Tue-Aug-09-2022.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastTueAug092022/today-in-history-e2608-Tue-Aug-09-2022.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Tue, 09 Aug 2022 11:01:13 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastTueAug092022/today-in-history-e2608-Tue-Aug-09-2022.mp3" length="1471634" type="audio/mpeg"/>
+			<itunes:author>Matt</itunes:author>
+			<itunes:subtitle>Today In History - Michael Brown is killed by a police officer in Ferguson, Missouri</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/michael-brown-killed-by-police-ferguson-mo&apos;&gt;https://www.history.com/this-day-in-history/michael-brown-killed-by-police-ferguson-mo&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
+		<item>
 			<title><![CDATA[Today In History - The term “global warming” appears for the first time]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/global-warming-appears-first-time-paper-science'>https://www.history.com/this-day-in-history/global-warming-appears-first-time-paper-science</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
 			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2607-Mon-Aug-08-2022.mp3</link>
@@ -53,7 +71,7 @@
 			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 08 Aug 2022 11:01:03 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2607-Mon-Aug-08-2022.mp3" length="1454080" type="audio/mpeg"/>
-			<itunes:author>Matt</itunes:author>
+			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - The term “global warming” appears for the first time</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/global-warming-appears-first-time-paper-science&apos;&gt;https://www.history.com/this-day-in-history/global-warming-appears-first-time-paper-science&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Temperatures in UK top 100 F for first time during European heat wave</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/temperatures-in-uk-top-100-f-for-first-time-during-european-heat-wave&apos;&gt;https://www.history.com/this-day-in-history/temperatures-in-uk-top-100-f-for-first-time-during-european-heat-wave&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - Michael Brown is killed by a police officer in Ferguson, Missouri]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/michael-brown-killed-by-police-ferguson-mo'>https://www.history.com/this-day-in-history/michael-brown-killed-by-police-ferguson-mo</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastMonAug092021/today-in-history-e2243-Mon-Aug-09-2021.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastMonAug092021/today-in-history-e2243-Mon-Aug-09-2021.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Mon, 09 Aug 2021 11:01:11 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastMonAug092021/today-in-history-e2243-Mon-Aug-09-2021.mp3" length="1422733" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - Michael Brown is killed by a police officer in Ferguson, Missouri</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/michael-brown-killed-by-police-ferguson-mo&apos;&gt;https://www.history.com/this-day-in-history/michael-brown-killed-by-police-ferguson-mo&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
