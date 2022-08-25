@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Wed, 24 Aug 2022 10:01:08 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 25 Aug 2022 10:01:35 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2022]]></copyright>
@@ -42,6 +42,24 @@
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
 		<item>
+			<title><![CDATA[Today In History - Ted Kennedy, “liberal lion of the Senate,” dies at 77]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/ted-kennedy-liberal-lion-of-the-senate-dies-at-77'>https://www.history.com/this-day-in-history/ted-kennedy-liberal-lion-of-the-senate-dies-at-77</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2624-Thu-Aug-25-2022.mp3</link>
+			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2624-Thu-Aug-25-2022.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Thu, 25 Aug 2022 11:01:35 GMT</pubDate>
+			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2624-Thu-Aug-25-2022.mp3" length="2696045" type="audio/mpeg"/>
+			<itunes:author>Matt</itunes:author>
+			<itunes:subtitle>Today In History - Ted Kennedy, “liberal lion of the Senate,” dies at 77</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/ted-kennedy-liberal-lion-of-the-senate-dies-at-77&apos;&gt;https://www.history.com/this-day-in-history/ted-kennedy-liberal-lion-of-the-senate-dies-at-77&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
+		<item>
 			<title><![CDATA[Today In History - Pluto is demoted]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/pluto-demoted-dwarf-planet'>https://www.history.com/this-day-in-history/pluto-demoted-dwarf-planet</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
 			<link>https://archive.org/download/tihpodcastWedAug242022/today-in-history-e2623-Wed-Aug-24-2022.mp3</link>
@@ -53,7 +71,7 @@
 			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Wed, 24 Aug 2022 11:01:08 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastWedAug242022/today-in-history-e2623-Wed-Aug-24-2022.mp3" length="1277074" type="audio/mpeg"/>
-			<itunes:author>Matt</itunes:author>
+			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Pluto is demoted</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/pluto-demoted-dwarf-planet&apos;&gt;https://www.history.com/this-day-in-history/pluto-demoted-dwarf-planet&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Quarterback Colin Kaepernick sits during national anthem, gives interview about it for the first time</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/colin-kaepernick-kneels-during-national-anthem&apos;&gt;https://www.history.com/this-day-in-history/colin-kaepernick-kneels-during-national-anthem&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - Ted Kennedy, “liberal lion of the Senate,” dies at 77]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/ted-kennedy-liberal-lion-of-the-senate-dies-at-77'>https://www.history.com/this-day-in-history/ted-kennedy-liberal-lion-of-the-senate-dies-at-77</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2259-Wed-Aug-25-2021.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2259-Wed-Aug-25-2021.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Wed, 25 Aug 2021 11:01:34 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2259-Wed-Aug-25-2021.mp3" length="2691657" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - Ted Kennedy, “liberal lion of the Senate,” dies at 77</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/ted-kennedy-liberal-lion-of-the-senate-dies-at-77&apos;&gt;https://www.history.com/this-day-in-history/ted-kennedy-liberal-lion-of-the-senate-dies-at-77&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
