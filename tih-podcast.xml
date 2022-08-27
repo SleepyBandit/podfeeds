@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Fri, 26 Aug 2022 10:01:41 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 27 Aug 2022 10:01:06 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2022]]></copyright>
@@ -42,6 +42,24 @@
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
 		<item>
+			<title><![CDATA[Today In History - Transgender athlete Renée Richards barred from U.S. Open]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/renee-richards-us-open-tennis-barred'>https://www.history.com/this-day-in-history/renee-richards-us-open-tennis-barred</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSatAug272022/today-in-history-e2626-Sat-Aug-27-2022.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatAug272022/today-in-history-e2626-Sat-Aug-27-2022.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sat, 27 Aug 2022 11:01:06 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSatAug272022/today-in-history-e2626-Sat-Aug-27-2022.mp3" length="1285642" type="audio/mpeg"/>
+			<itunes:author>Matt</itunes:author>
+			<itunes:subtitle>Today In History - Transgender athlete Renée Richards barred from U.S. Open</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/renee-richards-us-open-tennis-barred&apos;&gt;https://www.history.com/this-day-in-history/renee-richards-us-open-tennis-barred&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
+		<item>
 			<title><![CDATA[Today In History - Quarterback Colin Kaepernick sits during national anthem, gives interview about it for the first time]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/colin-kaepernick-kneels-during-national-anthem'>https://www.history.com/this-day-in-history/colin-kaepernick-kneels-during-national-anthem</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
 			<link>https://archive.org/download/tihpodcastFriAug262022/today-in-history-e2625-Fri-Aug-26-2022.mp3</link>
@@ -53,7 +71,7 @@
 			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Fri, 26 Aug 2022 11:01:41 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastFriAug262022/today-in-history-e2625-Fri-Aug-26-2022.mp3" length="2598452" type="audio/mpeg"/>
-			<itunes:author>Matt</itunes:author>
+			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Quarterback Colin Kaepernick sits during national anthem, gives interview about it for the first time</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/colin-kaepernick-kneels-during-national-anthem&apos;&gt;https://www.history.com/this-day-in-history/colin-kaepernick-kneels-during-national-anthem&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Protests at Democratic National Convention in Chicago</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/protests-at-democratic-national-convention-in-chicago&apos;&gt;https://www.history.com/this-day-in-history/protests-at-democratic-national-convention-in-chicago&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - Transgender athlete Renée Richards barred from U.S. Open]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/renee-richards-us-open-tennis-barred'>https://www.history.com/this-day-in-history/renee-richards-us-open-tennis-barred</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastFriAug272021/today-in-history-e2261-Fri-Aug-27-2021.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastFriAug272021/today-in-history-e2261-Fri-Aug-27-2021.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Fri, 27 Aug 2021 11:01:10 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastFriAug272021/today-in-history-e2261-Fri-Aug-27-2021.mp3" length="1285642" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - Transgender athlete Renée Richards barred from U.S. Open</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/renee-richards-us-open-tennis-barred&apos;&gt;https://www.history.com/this-day-in-history/renee-richards-us-open-tennis-barred&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
