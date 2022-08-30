@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Mon, 29 Aug 2022 10:01:29 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 30 Aug 2022 10:01:06 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2022]]></copyright>
@@ -42,6 +42,24 @@
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
 		<item>
+			<title><![CDATA[Today In History - Christopher Cross has his first of two #1 hits with “Sailing”]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/christopher-cross-has-his-first-of-two-1-hits-with-sailing'>https://www.history.com/this-day-in-history/christopher-cross-has-his-first-of-two-1-hits-with-sailing</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2629-Tue-Aug-30-2022.mp3</link>
+			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2629-Tue-Aug-30-2022.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Tue, 30 Aug 2022 11:01:06 GMT</pubDate>
+			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2629-Tue-Aug-30-2022.mp3" length="1618964" type="audio/mpeg"/>
+			<itunes:author>Matt</itunes:author>
+			<itunes:subtitle>Today In History - Christopher Cross has his first of two #1 hits with “Sailing”</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/christopher-cross-has-his-first-of-two-1-hits-with-sailing&apos;&gt;https://www.history.com/this-day-in-history/christopher-cross-has-his-first-of-two-1-hits-with-sailing&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
+		<item>
 			<title><![CDATA[Today In History - Native American group occupies Mount Rushmore to protest broken Treaty of Fort Laramie]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/native-americans-occupy-protest-mount-rushmore'>https://www.history.com/this-day-in-history/native-americans-occupy-protest-mount-rushmore</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
 			<link>https://archive.org/download/tihpodcastMonAug292022/today-in-history-e2628-Mon-Aug-29-2022.mp3</link>
@@ -53,7 +71,7 @@
 			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Mon, 29 Aug 2022 11:01:28 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastMonAug292022/today-in-history-e2628-Mon-Aug-29-2022.mp3" length="2068062" type="audio/mpeg"/>
-			<itunes:author>Matt</itunes:author>
+			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Native American group occupies Mount Rushmore to protest broken Treaty of Fort Laramie</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/native-americans-occupy-protest-mount-rushmore&apos;&gt;https://www.history.com/this-day-in-history/native-americans-occupy-protest-mount-rushmore&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Princess Diana dies in a car crash</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/princess-diana-dies-in-car-crash-paris&apos;&gt;https://www.history.com/this-day-in-history/princess-diana-dies-in-car-crash-paris&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - Christopher Cross has his first of two #1 hits with “Sailing”]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/christopher-cross-has-his-first-of-two-1-hits-with-sailing'>https://www.history.com/this-day-in-history/christopher-cross-has-his-first-of-two-1-hits-with-sailing</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2264-Mon-Aug-30-2021.mp3</link>
-			<guid isPermaLink="true">https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2264-Mon-Aug-30-2021.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Mon, 30 Aug 2021 11:01:04 GMT</pubDate>
-			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2264-Mon-Aug-30-2021.mp3" length="1674971" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - Christopher Cross has his first of two #1 hits with “Sailing”</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/christopher-cross-has-his-first-of-two-1-hits-with-sailing&apos;&gt;https://www.history.com/this-day-in-history/christopher-cross-has-his-first-of-two-1-hits-with-sailing&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
