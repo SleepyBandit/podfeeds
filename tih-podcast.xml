@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Thu, 01 Sep 2022 10:01:07 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 02 Sep 2022 10:01:17 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2022]]></copyright>
@@ -42,6 +42,24 @@
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
 		<item>
+			<title><![CDATA[Today In History - Diana Nyad, 64, makes record swim from Cuba to Florida]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/diana-nyad-64-makes-record-swim-from-cuba-to-florida'>https://www.history.com/this-day-in-history/diana-nyad-64-makes-record-swim-from-cuba-to-florida</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastFriSep022022/today-in-history-e2632-Fri-Sep-02-2022.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastFriSep022022/today-in-history-e2632-Fri-Sep-02-2022.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Fri, 02 Sep 2022 11:01:17 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastFriSep022022/today-in-history-e2632-Fri-Sep-02-2022.mp3" length="1662014" type="audio/mpeg"/>
+			<itunes:author>Matt</itunes:author>
+			<itunes:subtitle>Today In History - Diana Nyad, 64, makes record swim from Cuba to Florida</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/diana-nyad-64-makes-record-swim-from-cuba-to-florida&apos;&gt;https://www.history.com/this-day-in-history/diana-nyad-64-makes-record-swim-from-cuba-to-florida&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
+		<item>
 			<title><![CDATA[Today In History - First Muslim holiday U.S. postage stamp is issued]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/first-muslim-holiday-postage-stamp-issued'>https://www.history.com/this-day-in-history/first-muslim-holiday-postage-stamp-issued</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
 			<link>https://archive.org/download/tihpodcastThuSep012022/today-in-history-e2631-Thu-Sep-01-2022.mp3</link>
@@ -53,7 +71,7 @@
 			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 01 Sep 2022 11:01:07 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuSep012022/today-in-history-e2631-Thu-Sep-01-2022.mp3" length="1315108" type="audio/mpeg"/>
-			<itunes:author>Matt</itunes:author>
+			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - First Muslim holiday U.S. postage stamp is issued</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/first-muslim-holiday-postage-stamp-issued&apos;&gt;https://www.history.com/this-day-in-history/first-muslim-holiday-postage-stamp-issued&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - The Stars and Stripes flies in battle for the first time</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/the-stars-and-stripes-flies&apos;&gt;https://www.history.com/this-day-in-history/the-stars-and-stripes-flies&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - Diana Nyad, 64, makes record swim from Cuba to Florida]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/diana-nyad-64-makes-record-swim-from-cuba-to-florida'>https://www.history.com/this-day-in-history/diana-nyad-64-makes-record-swim-from-cuba-to-florida</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastThuSep022021/today-in-history-e2267-Thu-Sep-02-2021.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuSep022021/today-in-history-e2267-Thu-Sep-02-2021.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Thu, 02 Sep 2021 11:01:18 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastThuSep022021/today-in-history-e2267-Thu-Sep-02-2021.mp3" length="1662014" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - Diana Nyad, 64, makes record swim from Cuba to Florida</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/diana-nyad-64-makes-record-swim-from-cuba-to-florida&apos;&gt;https://www.history.com/this-day-in-history/diana-nyad-64-makes-record-swim-from-cuba-to-florida&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
