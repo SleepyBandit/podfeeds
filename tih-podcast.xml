@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 06 Sep 2022 10:01:04 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 07 Sep 2022 10:01:23 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2022]]></copyright>
@@ -42,6 +42,24 @@
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
 		<item>
+			<title><![CDATA[Today In History - Protesters disrupt the Miss America Pageant]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/protests-at-the-1968-miss-america-pageant'>https://www.history.com/this-day-in-history/protests-at-the-1968-miss-america-pageant</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastWedSep072022/today-in-history-e2637-Wed-Sep-07-2022.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedSep072022/today-in-history-e2637-Wed-Sep-07-2022.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 07 Sep 2022 11:01:23 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastWedSep072022/today-in-history-e2637-Wed-Sep-07-2022.mp3" length="1825436" type="audio/mpeg"/>
+			<itunes:author>Matt</itunes:author>
+			<itunes:subtitle>Today In History - Protesters disrupt the Miss America Pageant</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/protests-at-the-1968-miss-america-pageant&apos;&gt;https://www.history.com/this-day-in-history/protests-at-the-1968-miss-america-pageant&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
+		<item>
 			<title><![CDATA[Today In History - Teen tennis star Navratilova seeks political asylum in U.S.]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/martina-navratilova-tennis-political-asylum'>https://www.history.com/this-day-in-history/martina-navratilova-tennis-political-asylum</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
 			<link>https://archive.org/download/tihpodcastTueSep062022/today-in-history-e2636-Tue-Sep-06-2022.mp3</link>
@@ -53,7 +71,7 @@
 			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 06 Sep 2022 11:01:04 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastTueSep062022/today-in-history-e2636-Tue-Sep-06-2022.mp3" length="1210827" type="audio/mpeg"/>
-			<itunes:author>Matt</itunes:author>
+			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Teen tennis star Navratilova seeks political asylum in U.S.</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/martina-navratilova-tennis-political-asylum&apos;&gt;https://www.history.com/this-day-in-history/martina-navratilova-tennis-political-asylum&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Althea Gibson becomes first African American to win U.S. Open tennis title</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/althea-gibson-first-african-american-us-open-tennis&apos;&gt;https://www.history.com/this-day-in-history/althea-gibson-first-african-american-us-open-tennis&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - Protesters disrupt the Miss America Pageant]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/protests-at-the-1968-miss-america-pageant'>https://www.history.com/this-day-in-history/protests-at-the-1968-miss-america-pageant</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastTueSep072021/today-in-history-e2272-Tue-Sep-07-2021.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastTueSep072021/today-in-history-e2272-Tue-Sep-07-2021.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Tue, 07 Sep 2021 11:01:23 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastTueSep072021/today-in-history-e2272-Tue-Sep-07-2021.mp3" length="1825436" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - Protesters disrupt the Miss America Pageant</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/protests-at-the-1968-miss-america-pageant&apos;&gt;https://www.history.com/this-day-in-history/protests-at-the-1968-miss-america-pageant&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
