@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sat, 10 Sep 2022 10:01:11 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 11 Sep 2022 10:01:12 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2022]]></copyright>
@@ -42,6 +42,24 @@
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
 		<item>
+			<title><![CDATA[Today In History - The Christiana Riot]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/the-christiana-riot'>https://www.history.com/this-day-in-history/the-christiana-riot</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastSunSep112022/today-in-history-e2641-Sun-Sep-11-2022.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastSunSep112022/today-in-history-e2641-Sun-Sep-11-2022.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sun, 11 Sep 2022 11:01:12 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastSunSep112022/today-in-history-e2641-Sun-Sep-11-2022.mp3" length="1495457" type="audio/mpeg"/>
+			<itunes:author>Matt</itunes:author>
+			<itunes:subtitle>Today In History - The Christiana Riot</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/the-christiana-riot&apos;&gt;https://www.history.com/this-day-in-history/the-christiana-riot&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
+		<item>
 			<title><![CDATA[Today In History - CERN Large Hadron Collider is powered up]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/cern-large-hadron-launches'>https://www.history.com/this-day-in-history/cern-large-hadron-launches</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
 			<link>https://archive.org/download/tihpodcastSatSep102022/today-in-history-e2640-Sat-Sep-10-2022.mp3</link>
@@ -53,7 +71,7 @@
 			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Sat, 10 Sep 2022 11:01:11 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastSatSep102022/today-in-history-e2640-Sat-Sep-10-2022.mp3" length="1355650" type="audio/mpeg"/>
-			<itunes:author>Matt</itunes:author>
+			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - CERN Large Hadron Collider is powered up</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/cern-large-hadron-launches&apos;&gt;https://www.history.com/this-day-in-history/cern-large-hadron-launches&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Harlem Globetrotters’ 8,829-game winning streak snapped</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/harlem-globetrotters-winning-streak&apos;&gt;https://www.history.com/this-day-in-history/harlem-globetrotters-winning-streak&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - The Christiana Riot]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/the-christiana-riot'>https://www.history.com/this-day-in-history/the-christiana-riot</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastSatSep112021/today-in-history-e2276-Sat-Sep-11-2021.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastSatSep112021/today-in-history-e2276-Sat-Sep-11-2021.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Sat, 11 Sep 2021 11:01:16 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastSatSep112021/today-in-history-e2276-Sat-Sep-11-2021.mp3" length="1495040" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - The Christiana Riot</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/the-christiana-riot&apos;&gt;https://www.history.com/this-day-in-history/the-christiana-riot&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
