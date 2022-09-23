@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Thu, 22 Sep 2022 10:01:25 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 23 Sep 2022 10:01:13 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2022]]></copyright>
@@ -42,6 +42,24 @@
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
 		<item>
+			<title><![CDATA[Today In History - "The Prophet," by Lebanese-American poet-philosopher Kahlil Gibran, is published]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/the-prophet-kahlil-gibran-published'>https://www.history.com/this-day-in-history/the-prophet-kahlil-gibran-published</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastFriSep232022/today-in-history-e2653-Fri-Sep-23-2022.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastFriSep232022/today-in-history-e2653-Fri-Sep-23-2022.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Fri, 23 Sep 2022 11:01:13 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastFriSep232022/today-in-history-e2653-Fri-Sep-23-2022.mp3" length="1539552" type="audio/mpeg"/>
+			<itunes:author>Matt</itunes:author>
+			<itunes:subtitle>Today In History - &quot;The Prophet,&quot; by Lebanese-American poet-philosopher Kahlil Gibran, is published</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/the-prophet-kahlil-gibran-published&apos;&gt;https://www.history.com/this-day-in-history/the-prophet-kahlil-gibran-published&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
+		<item>
 			<title><![CDATA[Today In History - Atlanta Race Riot of 1906 begins]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/atlanta-race-riot-of-1906-begins'>https://www.history.com/this-day-in-history/atlanta-race-riot-of-1906-begins</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
 			<link>https://archive.org/download/tihpodcastThuSep222022/today-in-history-e2652-Thu-Sep-22-2022.mp3</link>
@@ -53,7 +71,7 @@
 			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Thu, 22 Sep 2022 11:01:25 GMT</pubDate>
 			<enclosure url="https://archive.org/download/tihpodcastThuSep222022/today-in-history-e2652-Thu-Sep-22-2022.mp3" length="1970050" type="audio/mpeg"/>
-			<itunes:author>Matt</itunes:author>
+			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Atlanta Race Riot of 1906 begins</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/atlanta-race-riot-of-1906-begins&apos;&gt;https://www.history.com/this-day-in-history/atlanta-race-riot-of-1906-begins&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - The National Museum of African American History and Culture opens</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/national-museum-of-african-american-history-opens&apos;&gt;https://www.history.com/this-day-in-history/national-museum-of-african-american-history-opens&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - Canadian woman breaks pro sports barrier]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/canadian-woman-breaks-men-pro-sports-barrier'>https://www.history.com/this-day-in-history/canadian-woman-breaks-men-pro-sports-barrier</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastThuSep232021/today-in-history-e2288-Thu-Sep-23-2021.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastThuSep232021/today-in-history-e2288-Thu-Sep-23-2021.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Thu, 23 Sep 2021 11:01:06 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastThuSep232021/today-in-history-e2288-Thu-Sep-23-2021.mp3" length="1195572" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - Canadian woman breaks pro sports barrier</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/canadian-woman-breaks-men-pro-sports-barrier&apos;&gt;https://www.history.com/this-day-in-history/canadian-woman-breaks-men-pro-sports-barrier&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
