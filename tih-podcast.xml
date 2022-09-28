@@ -10,7 +10,7 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 27 Sep 2022 10:01:03 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 28 Sep 2022 10:01:07 GMT</lastBuildDate>
 		<atom:link href="https://sleepybandit.github.io/podfeeds/tih-podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
 		<copyright><![CDATA[Copyright 2022]]></copyright>
@@ -42,6 +42,24 @@
 		<itunes:category text="News"/>
 		<itunes:image href="https://sleepybandit.github.io/podfeeds/images/TodayInHistory.png"/>
 		<item>
+			<title><![CDATA[Today In History - Eight MLB players indicted in "Black Sox Scandal"]]></title>
+			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/black-sox-scandal-mlb-white-sox'>https://www.history.com/this-day-in-history/black-sox-scandal-mlb-white-sox</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
+			<link>https://archive.org/download/tihpodcastWedSep282022/today-in-history-e2658-Wed-Sep-28-2022.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/tihpodcastWedSep282022/today-in-history-e2658-Wed-Sep-28-2022.mp3</guid>
+			<category><![CDATA[Today In History]]></category>
+			<category><![CDATA[History]]></category>
+			<category><![CDATA[Interesting]]></category>
+			<category><![CDATA[Historic Event]]></category>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 28 Sep 2022 11:01:07 GMT</pubDate>
+			<enclosure url="https://archive.org/download/tihpodcastWedSep282022/today-in-history-e2658-Wed-Sep-28-2022.mp3" length="1237368" type="audio/mpeg"/>
+			<itunes:author>Matt</itunes:author>
+			<itunes:subtitle>Today In History - Eight MLB players indicted in &quot;Black Sox Scandal&quot;</itunes:subtitle>
+			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/black-sox-scandal-mlb-white-sox&apos;&gt;https://www.history.com/this-day-in-history/black-sox-scandal-mlb-white-sox&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:keywords>Historic Event</itunes:keywords>
+		</item>
+		<item>
 			<title><![CDATA[Today In History - Rachel Carson’s "Silent Spring" is published]]></title>
 			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/rachel-carson-silent-spring-published'>https://www.history.com/this-day-in-history/rachel-carson-silent-spring-published</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
 			<link>https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2657-Tue-Sep-27-2022.mp3</link>
@@ -53,7 +71,7 @@
 			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
 			<pubDate>Tue, 27 Sep 2022 11:01:03 GMT</pubDate>
 			<enclosure url="https://tihpodcast.s3.us-west-2.amazonaws.com/today-in-history-e2657-Tue-Sep-27-2022.mp3" length="1577168" type="audio/mpeg"/>
-			<itunes:author>Matt</itunes:author>
+			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Rachel Carson’s &quot;Silent Spring&quot; is published</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/rachel-carson-silent-spring-published&apos;&gt;https://www.history.com/this-day-in-history/rachel-carson-silent-spring-published&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
@@ -6590,24 +6608,6 @@
 			<itunes:author>Matt Greene</itunes:author>
 			<itunes:subtitle>Today In History - Mexican-American voting rights advocate Willie Velasquez awarded Presidential Medal of Freedom</itunes:subtitle>
 			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/hispanic-american-activist-willie-velasquez-presidential-medal-freedom&apos;&gt;https://www.history.com/this-day-in-history/hispanic-american-activist-willie-velasquez-presidential-medal-freedom&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:keywords>Historic Event</itunes:keywords>
-		</item>
-		<item>
-			<title><![CDATA[Today In History - Eight MLB players indicted in "Black Sox Scandal"]]></title>
-			<description><![CDATA[<a href='https://www.history.com/this-day-in-history/black-sox-scandal-mlb-white-sox'>https://www.history.com/this-day-in-history/black-sox-scandal-mlb-white-sox</a></br><a href='https://www.patreon.com/autopod'>Support the show on Patreon</a>]]></description>
-			<link>https://archive.org/download/tihpodcastTueSep282021/today-in-history-e2293-Tue-Sep-28-2021.mp3</link>
-			<guid isPermaLink="true">https://archive.org/download/tihpodcastTueSep282021/today-in-history-e2293-Tue-Sep-28-2021.mp3</guid>
-			<category><![CDATA[Today In History]]></category>
-			<category><![CDATA[History]]></category>
-			<category><![CDATA[Interesting]]></category>
-			<category><![CDATA[Historic Event]]></category>
-			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
-			<pubDate>Tue, 28 Sep 2021 11:01:07 GMT</pubDate>
-			<enclosure url="https://archive.org/download/tihpodcastTueSep282021/today-in-history-e2293-Tue-Sep-28-2021.mp3" length="1237368" type="audio/mpeg"/>
-			<itunes:author>Matt Greene</itunes:author>
-			<itunes:subtitle>Today In History - Eight MLB players indicted in &quot;Black Sox Scandal&quot;</itunes:subtitle>
-			<itunes:summary>&lt;a href=&apos;https://www.history.com/this-day-in-history/black-sox-scandal-mlb-white-sox&apos;&gt;https://www.history.com/this-day-in-history/black-sox-scandal-mlb-white-sox&lt;/a&gt;&lt;/br&gt;&lt;a href=&apos;https://www.patreon.com/autopod&apos;&gt;Support the show on Patreon&lt;/a&gt;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:keywords>Historic Event</itunes:keywords>
 		</item>
